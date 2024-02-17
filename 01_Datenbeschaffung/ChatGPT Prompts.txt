@@ -1,0 +1,25 @@
+1. Bionetz.ch - ChatGPT
+
+You are a data expert. Your skill is to extract precise data from html files. 
+
+Enclosed you can find an HTML file. Please extract the name and the address of all stores listed. Put the data in a table and export it to a CSV file. 
+
+Here's the element of one store:
+
+Name: <span itemprop="name">BachserMärt Albisrieden</span>
+Address: <p class="address">Ginsterstrasse 1, 8047 <a rel="tag" class="tag mt-field-5-value-zuerich-albisrieden" href="/adressen/search-by/ort.html?value=Zürich%20Albisrieden">Zürich Albisrieden</a></p>
+
+
+2. AirBnB - ChatGPT
+
+*** Not working, website too complex ***
+
+You are a data expert. Your skill is to extract precise data from html files. 
+
+Enclosed you can find an HTML file. Please extract the name and the price of all locations listed. Put the data in a table and export it to a CSV file. 
+
+Here's the element of one store:
+
+Name:  <div class="t1jojoys atm_g3_1kw7nm4 atm_ks_15vqwwr atm_sq_1l2sidv atm_9s_cj1kg8 atm_6w_1e54zos atm_fy_1vgr820 atm_7l_18pqv07 atm_cs_qo5vgd atm_w4_1eetg7c atm_ks_zryt35__1rgatj2 dir dir-ltr" id="title_667001117636139655" data-testid="listing-card-title">Kantabrien, Spanien</div>
+
+Price: <div class="pquyp1l atm_da_cbdd7d atm_h3_i2wt44 dir dir-ltr"><div style="--pricing-guest-display-price-alignment: flex-start; --pricing-guest-display-price-flex-wrap: wrap; --pricing-guest-primary-line-font-size: 0.9375rem; --pricing-guest-primary-line-line-height: 1.1875rem; --pricing-guest-primary-line-unit-price-font-weight: var(--jx-zk-pv); --pricing-guest-primary-line-trailing-content-font-size: 0.875rem; --pricing-guest-secondary-line-font-size: 0.9375rem; --pricing-guest-secondary-line-line-height: 1.1875rem; --pricing-guest-secondary-line-color: #717171; --pricing-guest-explanation-disclaimer-font-size: 0.875rem; --pricing-guest-explanation-disclaimer-line-height: 1.125rem; --pricing-guest-primary-line-strikethrough-price-font-weight: 600; --pricing-guest-primary-line-qualifier-font-size: 0.9375rem; --pricing-guest-primary-line-qualifier-line-height: 19px;"><div class="_i5duul"><span class="_14y1gc"><div class="_1jo4hgw" aria-hidden="true"><span class="_tyxjp1">1.285&nbsp;€&nbsp;</span><span class="_1uq0ipo">Nacht</span></div><span class="a8jt5op atm_3f_idpfg4 atm_7h_hxbz6r atm_7i_ysn8ba atm_e2_t94yts atm_ks_zryt35 atm_l8_idpfg4 atm_mk_stnw88 atm_vv_1q9ccgz atm_vy_t94yts dir dir-ltr">1.285&nbsp;€ pro Nacht</span></span></div></div></div>
