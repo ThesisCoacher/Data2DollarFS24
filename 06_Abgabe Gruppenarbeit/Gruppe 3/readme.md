@@ -13,7 +13,7 @@ Enthält den Datensatz, so wie er nach der Bereinigung aller Daten final erstell
 ## 240506_All_Wines_formatted_v6.csv <br />
 Beinhaltet das finale file als csv, damit es für die für das Interface zur Verfügung steht.
 ## interface.py <br />
-Ist der Python-Code, mit dem das Interface codiert wurde.
+Ist der Python-Code, mit dem das Interface codiert wurde. Das Interface sollte über den Terminal ausgeführt werden. Hierbei sollte man zum Ordner, in welchem die Datei gespeichert ist navigieren und dann "streamlit run interface.py" ausführen um das Interface zu starten. Das Interface wird dann lokal ausgeführt und kann im Browser gesehen werden. Wichtig ist, dass sowohl Streamlit als auch pandas installiert sind vor der Ausführung. 
 ## MainScraper.py <br />
 Python Programm code, der das Scraping der Daten von Coop und Vivino orchestriert
 ## Robert Parker Guide Originales PDF.pdf <br />
