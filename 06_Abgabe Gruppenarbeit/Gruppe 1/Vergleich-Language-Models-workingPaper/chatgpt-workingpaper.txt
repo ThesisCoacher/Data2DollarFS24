@@ -1,0 +1,754 @@
+\begin{table}[]
+\begin{tabular}{lllll}
+yanekyuk/bert-keyword-extractor                                                                                                                                                              & ml6team/keyphrase-extraction-kbir-inspec                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             & sentence-transformers/all-MiniLM-L6-v2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             & ml6team/keyphrase-generation-t5-small-inspec                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 & GPT 4                                                                                                                                                                                                                                                                                                                                                                                          \\
+Manhattan, St, Central, Brooklyn,   Madison, Manhattan, Battery, Wall, Governor, Ellis, St, Empire, Brooklyn,   Ground, Madison, Central, St, World, Financial, Brooklyn, Cliff              & c, abs,  tour,    of,  Liberty,  Park,    Bridge,  Square,  Garden,    Park,  Street, 's,  Island,    art,  Island,  of,    Liberty,  State,  Building,    Bridge,  Square,  Garden, rep, id,  Space,    Museum,  Park,  of,    Liberty, is,  Island, lyn,  Bridge,    Park, mpire,  State,  Building, rys, ler,  Building,    Square,  Garden,  Square,    Park,  Bridge,  Park,    Street, ue,  of,  Liberty, is,  Island, mpire,  State,    Building, rys, ler,    Building,  Square,  Garden, id,    Museum,  Square,  Park,    Washington,  Bridge,  Stadium, is, ades,  Cl, iffs, vil,  Bridge & to, mind, \#\#s, ,, taxi, cab, world, class, attitude, of, see, pilot,   flies, on, or, minute, helicopter, tour, \#\#ar, over, statue, of, liberty,   central, park, ,, bridge, madison, square, garden, other, landmarks, after,   off, from, he, \#\#lip, \#\#ort, swing, over, see, sw, \#\#oop, over, battery,   park, glance, at, wall, labyrinth, of, streets, then, sail, over, to,   governor, island, island, once, for, s, now, hosts, concerts, art, then, fly,   over, island, see, lady, liberty, in, distance, cruise, up, to, her, eye,   for, new, perspective, of, statue, of, liberty, enjoy, before, heading, up,   piers, of, of, broadway, on, way, back, to, pier, head, around, empire,   state, bridge, fly, ground, zero, where, re, doing, at, sight, continue,   past, madison, square, garden, int, \#\#re, \#\#pid, air, museum, see, central,   park, as, flight, turns, around, return, to, he, \#\#lip, \#\#ort, sights,   minute, tour, statue, of, liberty, island, center, bridge, park, \#\#pire,   state, \#\#ler, square, int, \#\#re, sea, air, park, sights, minute, tour, \#\#bat,   park, \#\#ue, island, \#\#pire, \#\#ler, square, \#\#u, int, \#\#re, museum, square,   park, tomb, \#\#ge, river, bronx, stadium, cliffs, \#\#y, \#\#vil, bridge                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    & brings, to, mind, grand, sky, s, cra, pers, ,, class, attitude, See, all,   and, more, as, an, expert, pilot, , f, lies, on, 15, helicopter, So, ar,   over, the, u, e, of, Liberty, ,, Central, Park, ,, Brooklyn, among, other,   landmark, After, off, from, the, port, ,, swing, down, over, lower, to, see,   the, sky, line, and, streets, below, ., Sw, oop, over, Battery, Park, to,   glance, at, Wall, Street, and, its, la, by, r, in, th, of, streets, ., The,   n, sail, over, to, s, Island, ,, an, once, reserved, only, the, s, dig, n,   it, aries, that, now, hosts, concerts, and, public, The, n, ,, fly, over,   Island, and, see, Liberty, shining, ., Cruise, up, to, her, eye, for, new,   perspective, of, the, u, e, of, Liberty, ., Enjoy, before, heading, up, the,   past, the, , pier, s, and, lights, Broadway, way, back, to, the, , pier, ,,   head, the, State, Building, ,, Brooklyn, fly, over, Ground, Zero, where, you,   can, have, look, at, they, re, doing, sight, Continue, past, Madison, Square,   Garden, and, the, ntrepid, Air, Space, Central, Park, as, flight, to, return,   to, the, , heli, port, S, ight, ute, One, World, Trade, Center, /11, Bro, ly,   n, B, atter, Park, W, all, Street, F, cial, State, ry, s, ler, U, S, Air,   Central, S, B, atter, Park, W, all, One, World, Trade, Center, /11, Site,   ire, State, ry, s, ler, U, S, Central, Park, G, rant, Tom, b, George, Har,   le, m, and, le, m, River, The, Bro, x, Yankee, Stadium, a, \textless{}/s\textgreater{}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  & Manhattan, skyscrapers, taxi cabs, helicopter tour, NYC, Statue of   Liberty, Central Park, Brooklyn Bridge, Madison Square Garden, Downtown   Heliport, Battery Park, Wall Street, Governor's Island, Ellis Island, Hudson,   Empire State Building, Ground Zero, Intrepid Air and Space Museum                                                                                               \\
+New, Manhattan, In, St, Freedom, One,   Empire, Titanic, Battery, Ellis, Governors, South, Brooklyn, Manhattan,   Williams, Chrysler, United                                                 & of,  Liberty,    Tower,  World,  Trade,    Center,  State,  Building,    54, itan, ic,  Pier,  Park,    Island,  Island,  Street,    Se, ap, ort,  Bridge,  Bridge, burg,  Bridge,    Building,  Village,  Nations,    Building,  Int, rep, id,  Pier                                                                                                                                                                                                                                                                                                                                                & at, on, cruise, of, harbor, in, sights, of, aboard, controlled, boat,   friends, and, \#\#or, or, even, random, stranger, embark, on, un, \#\#for, \#\#get,   journey, of, harbor, ', lady, liberty, keeping, watch, hand, stocked, bar,   feel, breeze, on, face, me, endless, ins, sail, past, legendary, attractions,   statue, of, liberty, views, of, freedom, world, trade, center, ,, state,   pier, (, pier, ,, battery, park, see, where, millions, were, in, america, at,   island, cruise, past, governors, island, sea, \#\#port, bridge, marvel, at, un,   \#\#ri, \#\#vale, views, of, bridge, bridge, chrysler, discover, village, united,   nations, uss, int, \#\#re, \#\#pid, pier, from, perspective                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            & Experience, York, at, on, a, of, the, ,, lights, aboard, a, controlled,   Grab, your, friends, ,, family, and, co, work, ers, , -, or, even, stranger,   -, and, on, journey, of, the, with, , ', La, Liberty, keeping, watch, .,   With, a, hand, ,, purchased, from, the, fully, , stocked, ,, feel, breeze,   on, face, and, be, s, mer, ized, by, the, shimmer, ing, sky, line, Get,   endless, photo, opportunities, to, make, Instagram, star, as, you, sail,   past, legendary, attractions, such, as, the, u, e, of, Liberty, and, get,   views, of, the, Freedom, Tower, , -, One, World, Trade, Center, ,, State,   Building, ,, 54, ),, Park, more, See, where, millions, of, immigrants, were,   processed, they, arrived, America, at, Island, ,, cruise, past, s, Island, ,,   the, South, Street, Brooklyn, ., at, rival, of, the, Bridge, ,, Williams,   burg, ,, and, discover, East, Village, Nations, \textless{}/s\textgreater{}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         & New York, sunset, harbor cruise, Manhattan, climate-controlled boat,   Statue of Liberty, Freedom Tower, One World Trade Center, Empire State   Building, Pier 54, Titanic Pier, Battery Park, Ellis Island, Governors   Island, South Street Seaport, Brooklyn Bridge, Manhattan Bridge, Williamsburg   Bridge, Chrysler Building, East Village, United Nations Building, USS   Intrepid Pier \\
+mobile, Empire, St, New, New, Empire,   9, One, St, Ellis, Circle, Madame, New, Whitney, New, Museum, New, Sky, New,   Photography, Staten, Pa, Museum, Chinese, Cooper, Smithsonian, Staten & YORK,  PASS,    mobile,  pass,  State,    Building,  Liberty,  York,    Pass,  State,  Building,    of,  Liberty,  Ferry,    Island,  Immigration,  Museum,    Park,  Bike,  R, ental,    Museum,  Museum,  of,    Natural,  History,  Modern,    Art, id,  Museum,  Art,    Society,  Heritage,  Center,    Photography,  Island,  Museum,    Park,  Bike,  Tour,    Island,  Zoo,  Jazz,    Series,  Center,  Walking,    Tour,  Street,  Walking,    Tour                                                                                                                                         & see, inclusive, pass, visit, 100, attractions, pass, view, from, of,   state, ferry, ride, to, statue, of, liberty, hop, on, off, bus, tour, many,   days, many, attractions, tours, experiences, pass, at, attraction, tour, go,   pass, remain, pass, number, consecutive, days, activities, popular, empire,   state, bus, 1, day, hop, on, hop, off, tour, of, rock, observation, deck, 11,   memorial, museum, world, observatory, statue, of, liberty, ferry, island,   immigration, museum, of, cruise, circle, line, madame, tu, \#\#ssa, \#\#ud,   central, park, bike, biking, museum, ride, american, of, natural, history,   \#\#a, museum, of, art, int, \#\#re, \#\#pid, museum, museum, of, museum, american,   art, f, museum, of, of, jewish, hall, science, el, street, international,   island, museum, pale, \#\#y, center, of, chinese, america, cooper, hewitt,   smithsonian, friendly, central, park, bike, tour, unlimited, biking, 11,   museum, workshop, hands, on, 11, tour, marvel, dc, superhero, \#\#es, walking,   tour, stadium, tour, lego, \#\#land, discovery, center, jersey, island, zoo,   island, children, hidden, gems, garden, cat, \#\#aco, \#\#mbs, candle, tour,   jazz, series, tuesday, new, museum, cathedral, of, john, \#\#nu, \#\#g, harbor,   cultural, center, garden, arte, \#\#use, tours, cruises, central, park, tv, movie,   walking, tour, center, tour, chinatown, walking, tour, wall, walking, tour,   cruise, circle, line, clip, ship, statue, of, liberty, cruise                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               & See, all, has, offer, with, official, OR, K, , PASS, Visit, 100, +,   attractions, with, single, mobile, pass, one, great, ., Check, in, view,   from, top, of, State, Building, ,, take, a, ride, to, the, u, e, of, Liberty,   ,, hop, on, and, off, a, Big, Bus, Tour, more, Simply, many, days, ll, be,   in, New, York, and, get, unlimited, admission, to, many, of, ', s, best,   attractions, ,, tours, experiences, , Activ, first, to, Once, activate, d,   first, used, will, valid, New, York, Pass, is, then, valid, ve, purchased,   Activities, include, Popular, Experience, s, •, State, Building, •, Big, Bus,   1-, Day, , \&, town, Hop, -, on, Hop, -, off, Tour, •, Top, of, the, Rock,   , Observ, ation, Deck, •, Memorial, , \&, Museum, •, Edge, •, One, World,   Observatory, •, u, of, Liberty, y, , \&, Island, Immigration, Museum, •,   Best, Cruise, Circle, Line, •, sau, New, York, •, Central, Park, B, Rental,   Unlimited, Bi, king, •, G, ugg, en, heim, Museum, •, The, R, IDE, Gall, erie,   •, American, of, Natural, History, •, MA, , -, of, Modern, Art, •, I,   ntrepid, Museum, •, Se, x, •, Museum, of, American, Art, •, Fotografi, ska,   New, York, •, City, New, York, •, New, York, Historical, Society, •, of,   Arts, and, •, of, Jewish, Heritage, •, s, cra, per, Museum, •, New, York,   Hall, of, Science, •, d, ridge, Street, •, International, Center, of,   Photography, •, •, State, •, The, Center, for, Media, •, The, of, America, •,   Cooper, He, wit, s, onia, friendly, •, Central, Park, B, Unlimited, Bi, king,   •, On, Tour, •, , \&, her, o, s, Walking, Tour, •, Yankee, Stadium, Tour,   •, LAND, ®, Discovery, Center, ,, New, Jersey, West, chester, •, State, Zoo,   •, State, Island, s, Museum, Hidden, Gem, s, •, New, York, Bot, ical, Garden,   •, s, light, •, le, Jazz, Series, , Tuesday, Friday, •, New, Museum, •, John,   the, Divine, •, S, n, u, g, Harbor, Cultural, Center, , Bot, ical, •, USE,   New, \textless{}/s\textgreater{}                                                                                           & NYC, NEW YORK PASS, attractions, Empire State Building, Statue of   Liberty, Big Bus Tour, Central Park, 9/11 Memorial, museums, galleries,   family-friendly, hidden gems, tours, cruises, mobile pass                                                                                                                                                                                        \\
+In, space, Cold, In, aircraft, In,   National, aircraft, In, World, Cold, Vietnam, In, In, Space, NASA, orbit,   space, history, space, Apollo, Moon, Moon, spacecraft                       & rep, id,  Museum,  carrier,    shuttle, rep, id,  Museum,  carrier,    Historic,  Land, mark,  carrier,    Int, rep, id,  War,  Tent,    information,  center,  ready,    room,  ber, thing,  ber, thing,    Shuttle,  Pavilion,  orbit, er,    shuttle,  program,  shuttle, rep, id,  Museum,    missions,  surface,  11,    module,  program,  rocks,    landing,  gear                                                                                                                                                                                                                            & visitors, to, int, \#\#re, museum, can, a, legendary, aircraft, space,   shuttle, ,, world, jets, era, submarine, museum, history, to, advance, of,   in, science, engineering, math, int, \#\#re, \#\#pid, museum, to, exhibition,   interpretation, of, history, science, from, on, board, aircraft, carrier,   int, \#\#re, \#\#pid, former, aircraft, carrier, uss, int, \#\#re, \#\#pid, was,   launched, fought, in, world, war, ii, surviving, five, \#\#ze, attacks, one,   torpedo, strike, ship, in, war, and, vietnam, war, ., berth, \#\#ed, on, river,   to, visit, 4, decks, of, ship, hangar, deck, :, place, to, visit, exhibit,   space, hangar, deck, you, hardware, and, humanity, of, int, \#\#re, \#\#pid, •,   flight, deck, :, get, up, close, at, than, two, dozen, \#\#ally, aircraft,   inside, tent, walk, through, history, on, int, \#\#re, \#\#pid, s, island, and,   bridges, -, deck, :, located, between, flight, deck, and, hangar, deck, ,,   the, gallery, deck, the, combat, center, (, \#\#c, ,, squadron, room, and,   marine, berth, \#\#ing, •, third, deck, :, learn, about, \#\#board, in, int,   \#\#re, \#\#pid, ', s, galley, ,, enlisted, mess, and, crew, \#\#ing, shuttle,   showcases, ,, prototype, orbit, \#\#er, that, way, for, shuttle, program, .,   exhibit, zones, feature, artifacts, \#\#mers, visitors, in, science, and,   history, of, and, shuttle, era, exhibit, :, we, to, on, view, to, 2nd, step,   back, in, to, of, humanity, s, adventures, at, int, \#\#re, museum, exhibit, ',   :, we, to, ., \#\#mers, yourself, in, capt, \#\#ivating, story, of, missions, ll,   discover, the, triumph, \#\#s, and, challenges, faced, by, brave, astronauts,   who, journey, to, ., thrill, of, exploration, walk, through, a, recreation,   of, command, module, ,, the, spacecraft, that, carried, armstrong, ,, al,   \#\#dr, \#\#in, and, collins, to, and, back, ., marvel, at, artifacts, from,   program, rocks, and, landing, gear, learn, about, {[}SEP{]} & Visitors, to, can, experience, a, legendary, aircraft, carrier, ,, the,   first, space, shuttle, ,, the, world, s, fastest, jet, s, War, -, era,   submarine, Discover, a, that, employ, history, and, technology, to, inspire,   and, advance, innovation, by, developing, next, generation, of, leaders, in,   science, ,, technology, ,, engineering, The, ntrepid, is, dedicated, to, the,   and, interpretation, of, history, ,, science, service, from, its, home, on,   board, the, aircraft, carrier, I, ntrepid, ,, a, National, Historic, Land,   mark, ., The, former, aircraft, carrier, US, S, ntrepid, was, launched, ,   fought, World, War, II, ,, surviving, five, kam, ika, ze, attacks, and, one,   ped, The, later, served, Cold, War, and, It, was, commissioned, and, today,   is, , bert, he, the, River, You, get, chance, to, visit, 4, deck, of, this,   great, :, •, Deck, :, A, to, start, visit, and, main, space, hang, ar, deck,   through, hardware, humanity, I, ntrepid, •, Deck, :, Get, -, close, look, at,   more, than, two, dozen, authentic, restored, aircraft, look, inside, through,   history, on, ntrepid, s, island, and, bridge, s, , -, Deck, :, , Located,   between, the, flight, deck, and, hang, ar, deck, deck, features, the,   information, center, (, C, ),, on, ready, room, , ber, thing, •, Third, Deck,   :, Learn, about, board, life, s, restored, , listed, ber, thing, showcase, ,,   the, prototype, NASA, er, that, paved, for, the, space, program, zones,   feature, original, fact, photographs, s, visitors, science, history,   Enterprise, and, the, space, , era, Special, Ex, hibi, When, We, W, ent, to,   the, Moon, ,, on, view, from, March, 25, th, 2, Step, back, in, time, to,   one, of, humanity, s, greatest, adventures, at, ntrepid, s, latest, ,, , ',   l, When, We, W, ent, to, the, Immer, s, e, missions, ,, where, you, ll,   discover, challenges, faced, by, the, brave, s, who, to, surface, Experience,   thrill, of, space, exploration, as, you, walk, through, recreation, of, the,   module, \textless{}/s\textgreater{} & Intrepid Museum, aircraft carrier, space shuttle, jets, submarine,   history, technology, innovation, STEM, USS Intrepid, World War II, Cold War,   Vietnam War, Hangar Deck, Flight Deck, Gallery Deck, Third Deck, Space   Shuttle Pavilion, Enterprise, Apollo exhibit                                                                                                                      \\
+New, Go                                                                                                                                                                                      &                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      & year                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               & :, New, Year, Eve, Harbor, Cruise, with, Gourmet, \textless{}/s\textgreater{}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                & NYC, New Year's Eve, Harbor Cruise, gourmet lunch                                                                                                                                                                                                                                                                                                                                              \\
+Washington, New, American, Lincoln,   Vietnam, Arlington, New, Washington, Capital, White, I, Vietnam, Arlington,   time, Union                                                              & DC,  Revolution,    War,  Memorial,  Veterans,    Memorial,  Cemetery,  DC,    Hill,  House,  of,    Independence,  Cemetery,  War, ed, ys,  Station                                                                                                                                                                                                                                                                                                                                                                                                                                                 & discover, monuments, of, dc, on, day, trip, from, new, learn, about,   dive, into, key, like, american, revolution, war, see, sights, like, lincoln,   memorial, vietnam, memorial, arlington, cemetery, depart, new, travel, air,   conditioned, bus, to, dc, relax, on, drive, head, to, hill, once, get, dc,   where, meets, stop, hear, more, from, guide, about, workings, of, admire,   memorials, to, jefferson, who, of, independence, lincoln, who, visit, i,   \#\#wo, jim, \#\#a, and, vietnam, memorials, understand, these, events, country,   visit, arlington, cemetery, over, 200, 000, soldiers, civil, war, kennedy,   were, buried, finally, some, time, at, station                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            & from, New, York, City, Learn, about, the, government, and, dive, into,   key, historic, moments, like, the, American, Revolution, and, War, See, like,   Memorial, ,, part, New, York, City, and, travel, spacious, air, conditioned,   to, Relax, on, the, drive, and, head, to, once, you, get, to, to, find, out,   where, congress, meets, Stop, outside, White, House, for, photo, opportunity,   and, hear, more, from, guide, about, inner, working, of, the, building, e,   to, ,, who, wrote, the, of, and, who, ended, Visit, w, o, Jim, to,   understand, events, country, Visit, Cemetery, where, over, 200,000, since,   the, War, s, were, buried, Finally, ,, time, at, Station, \textless{}/s\textgreater{}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  & Washington DC, day trip, New York City, American Revolution, Civil War,   Lincoln Memorial, Vietnam Veterans Memorial, Arlington Cemetery, Capitol   Hill, White House, photo opportunity, Jefferson, Iwo Jima Memorial, Union   Station                                                                                                                                                       \\
+Christmas, New, Manhattan, wine, New,   New, Cho, A, Sal                                                                                                                                     & cruise,  entertainment,  entertainment, eta,  Tom, atoes, berry,  Comp, ote                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          & magic, of, on, day, go, \#\#ch, cruise, aboard, glass, bat, \#\#eaux, on,   water, and, will, 3, course, plate, \#\#ch, prepared, sa, \#\#vor, dining, del,   elegant, views, will, un, \#\#for, \#\#get, \#\#table, experience, imaginative,   creations, class, wine, list, musical, entertainment, ind, \#\#ul, while,   experience, views, iconic, from, unique, perspective, live, entertainment,   fest, on, rivers, friends, sample, br, \#\#ch, :, starter, (, baby, ar, \#\#ula,   (, *, (, v, fe, cheese, bal, \#\#sam, vin, \#\#ai, \#\#gre, \#\#tte, yo, \#\#gur, gran,   \#\#ola, \#\#fa, (, g, *, v, cho, non, yo, \#\#gur, gran, \#\#ola, fresh, straw,   main, scrambled, eggs, (, *, \#\#ke, triple, thick, cut, bacon, new, ca, ar,   \#\#ula, champagne, vin, \#\#ai, \#\#gre, \#\#tte, \#\#io, \#\#che, french, (, v,   stuffed, nut, \#\#ella, cream, |, fresh, straw, |, (, nuts, oven, breast, new,   hari, ve, mushroom, sauce, (, v, cr, \#\#eme, ang, \#\#laise, co, candi, pe,   nuts, fruit, straw, *, (, v, v, (, v, n, \#\#car, cream, nuts, sample, :,   starter, (, starters, accompanied, by, fresh, bread, butter, baby, ar, \#\#ula,   (, (, v, fe, |, |, vin, seafood, cl, \#\#ams, |, idaho, potatoes, |, cream,   main, (, of, garlic, mas, \#\#hed, stuffing, hari, ve, cr                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  & Experience, the, season, on, a, luxurious, Day, or, cruise, aboard, New,   York, s, en, close, d, eaux, most, premium, experience, on, the, water, .,   You, and, your, guests, will, enjoy, a, 3-, course, , plated, dinner,   freshly, prepared, by, a, chef, ., Sa, vor, exquisite, dining, experience,   where, de, lect, able, cuisine, ,, elegant, and, stunning, views, will,   experience, ., , Imagin, ative, culinary, creation, s, ,, top, -, class,   wine, list, entertainment, combine, to, create, ultimate, New, York, indulge,   nce, ., While, on, board, ,, experience, views, of, New, York, City, s,   iconic, sky, line, from, incredibly, unique, perspective, ,, live,   entertainment, décor, ., Celebrate, the, on, the, Hudson, and, East, River,   s, with, your, friends, and, family, Sample, Brun, ch, TER, (, ONE, ), B,   EET, B, AB, RU, GU, LA, ALA, (, G, *, ), (, V, Fe, |, Cherry, T, s, |, g, r,   GR, EE, OG, UR, T, GRA, LA, FA, (, G, *, (, ban, Non, F, Yo, gur, t, |, Gran,   o, la, |, Fresh, Blue, berries, Stra, w, berries, (, ONE, CRA, GS, G, *, ske,   wood, Th, Cut, on, |, New, Red, Potato, s, , ul, flower, Has, ul, Sala, g, r,   ette, Red, On, ions, BR, F, AST, (, V, St, uffed, Nu, tell, a, Cream, |,   Fresh, Stra, w, berries, |, Maple, Sy, r, up, (, Contains, Nu, N, -, RO, AST,   ICK, BRE, AST, WITH, R, OSE, MAR, , \&, HY, ME, Roast, d, New, Red, Sala,   with, Scal, lion, s, |, Har, ico, Ver, t, s, |, Cream, Mus, h, room, ONE, NA,   AKE, (, V, me, , Ang, l, aise, |, Raspberry, ul, is, |, s, (, Contains, Nu,   STR, AW, BER, RIE, S, (, G, *, ), (, (, Cream, NEW, OR, K, S, ES, EC, AKE, (,   V, (, N, \textless{}/s\textgreater{}                                                                                                                                                                                                                                                                                                                                                                                                          & Christmas Day, gourmet brunch, dinner cruise, Bateaux Manhattan, New York   skyline, live entertainment, festive décor, holiday menu                                                                                                                                                                                                                                                           \\
+New, Chinatown, Little, Chinatown,   Little, Chinatown, j, green, s, Italian, can, Chinatown, Little, Little                                                                                 & oy,  New,  York,    Food,  Tours,  Italy,    tour,  Italy,  sites,    tasting, as, mine,  green,  tea,    sponge,  cake, ic,  Chinese,    d, um, plings, rum, pt, ious,    Ro, asted,  Duck,  cuisine, es, ives, in, ara,  sauce, oli, fig, uration,  Park,    Italy,  Italy                                                                                                                                                                                                                                                                                                                         & Experience, the, season, on, a, luxurious, Day, or, cruise, aboard, New,   York, s, en, close, d, eaux, most, premium, experience, on, the, water, .,   You, and, your, guests, will, enjoy, a, 3-, course, , plated, dinner,   freshly, prepared, by, a, chef, ., Sa, vor, exquisite, dining, experience,   where, de, lect, able, cuisine, ,, elegant, and, stunning, views, will,   experience, ., , Imagin, ative, culinary, creation, s, ,, top, -, class,   wine, list, entertainment, combine, to, create, ultimate, New, York, indulge,   nce, ., While, on, board, ,, experience, views, of, New, York, City, s,   iconic, sky, line, from, incredibly, unique, perspective, ,, live,   entertainment, décor, ., Celebrate, the, on, the, Hudson, and, East, River,   s, with, your, friends, and, family, Sample, Brun, ch, TER, (, ONE, ), B,   EET, B, AB, RU, GU, LA, ALA, (, G, *, ), (, V, Fe, |, Cherry, T, s, |, g, r,   GR, EE, OG, UR, T, GRA, LA, FA, (, G, *, (, ban, Non, F, Yo, gur, t, |, Gran,   o, la, |, Fresh, Blue, berries, Stra, w, berries, (, ONE, CRA, GS, G, *, ske,   wood, Th, Cut, on, |, New, Red, Potato, s, , ul, flower, Has, ul, Sala, g, r,   ette, Red, On, ions, BR, F, AST, (, V, St, uffed, Nu, tell, a, Cream, |,   Fresh, Stra, w, berries, |, Maple, Sy, r, up, (, Contains, Nu, N, -, RO, AST,   ICK, BRE, AST, WITH, R, OSE, MAR, , \&, HY, ME, Roast, d, New, Red, Sala,   with, Scal, lion, s, |, Har, ico, Ver, t, s, |, Cream, Mus, h, room, ONE, NA,   AKE, (, V, me, , Ang, l, aise, |, Raspberry, ul, is, |, s, (, Contains, Nu,   STR, AW, BER, RIE, S, (, G, *, ), (, (, Cream, NEW, OR, K, S, ES, EC, AKE, (,   V, (, N, \textless{}/s\textgreater{}                                                                                                                                                                                                                                                                                                                & o, New, York, Food, s, has, been, leading, s, visitors, of, town, and,   since, On, this, original, food, and, walking, tour, of, China, town, and,   Italy, ,, the, lively, friendly, guides, will, hidden, gem, s, and,   historical, sites, all, while, feeding, delicious, food, This, tour, offers,   gradual, meal, with, side, dish, of, history, ., You, will, meet, guide, in,   a, town, Cafe, and, from, there, the, food, tasting, storytelling, Some,   tasting, will, seated, others, see, taste, on, hour, food, tour, Ta, sting,   include, sub, A, popular, pastry, , paired, with, ja, s, mine, green, tea, (,   seated, A, , Authentic, dump, ling, s, Sc, rum, Roast, e, d, Duck, Se, ated,   heart, tasting, of, cuisine, with, choice, of, wine, beer, Delicious,   imported, olive, s, Fresh, r, a, sauce, A, known, i, an, n, oli, Point, s,   of, interest, include, town, s, t, ,, ll, ers, Street, figuration, Mul,   berry, Grand, Street, tour, of, Italy, and, guide, will, provide, to, next,   location, \textless{}/s\textgreater{}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         & Ahoy New York Food Tours, Chinatown, Little Italy, food tour, historical   sites, Chinese pastries, dumplings, Roasted Duck, Italian cuisine, Sicilian   pastry, cannoli                                                                                                                                                                                                                       \\
+s, Central, New, Central, Central, e,   s, Central                                                                                                                                           & ooter,  rental,  service,    Park,  York,  City,    Park,  maps                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      & our, \#\#oot, at, 117, \#\#th, stone, throw, away, from, iconic, central,   park, in, at, our, we, an, \#\#sle, free, way, to, explore, the, beauty, of,   central, park, its, surroundings, ., our, points, rev, \#\#ol, ., we, charged,   e, -, \#\#oot, \#\#ers, imp, \#\#ec, \#\#ca, \#\#bly, long, -, range, models, along,   \#\#ary, central, park, maps, ,, helmets, 10, minute, grace, period, a, seam,   \#\#less, adventure, ., main, activity, upon, our, friendly, you, e, -, \#\#oot,   adventure, we, variety, 1, ,, 2, ,, 3, 5, hour, packages, ensuring, that,   you, the, flexibility, to, explore, central, park, its, surroundings, at,   own, pace, ., e, -, \#\#oot, any, \#\#oot, they, met, \#\#ic, maintained,   enjoyable, ride, battery, life, won, ', t, worry, about, running, out, of,   power, mid, -, tour, safety, our, priority, as, part, helmets, that, re,   protected, throughout, adventure, {[}SEP{]}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      & Welcome, to, our, premier, service, located, 117, West, , 58, th, Street,   just, throw, from, iconic, Central, Park, New, York, City, At, ,, we, offer,   hassle, way, to, explore, beauty, of, Central, Park, and, its, surroundings,   ., Our, unique, selling, points, revolve, convenience, ,, quality, money, We,   provide, fully, charged, , -, sco, o, ters, ,, c, clean, and, range, models,   along, with, complimentary, Central, Park, ,, s, minute, period, seamless,   adventure, iner, ary, Main, Activity, Features, :, Upon, arriving, at,   located, ,, you, ll, be, warm, greete, by, friendly, staff, ,, who, will,   assist, , -, sco, o, ter, adventure, We, offer, of, rental, options, ,,   including, 2,, hour, ensuring, have, flexibility, to, explore, Central, Park,   and, its, surroundings, pace, Our, , sco, o, ters, are, not, just, s, they,   are, charged, maintained, guarantee, smooth, enjoyable, ride, ., With,   extended, battery, life, ,, won, have, running, of, power, t, our, Safety,   is, priority, ,, and, part, of, package, we, provide, protected, \textless{}/s\textgreater{}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        & scooter rental, Central Park, New York City, e-scooters, convenience,   quality, value, rental options, safety, adventure                                                                                                                                                                                                                                                                      \\
+Chinatown, Fr, No, Chinatown, Huang,   Chinatown, ice, dragon, ram                                                                                                                           & Park,  community,    Dum, pling,  Wah,  Tea,    Par, lor,  shops,  Da,    X, ian,  Tao, ist,  Temple,    Ice,  Cream,  Factory,    market, berry,  Street,  fruit, amb, utan                                                                                                                                                                                                                                                                                                                                                                                                                         & dive, an, journey, through, heart, of, ', s, chinatown, our, tour, !,   explore, the, vibrant, columbus, park, ,, steep, \#\#ed, in, historical,   significance, ,, where, chinese, community, gathers, ., learn, how, it, from,   a, \#\#um, to, a, cultural, haven, ., \#\#ul, \#\#ge, your, taste, buds, at, dump,   \#\#ling, ,, known, for, its, mouth, \#\#water, \#\#ing, ,, -, friendly, dump,   \#\#lings, ,, and, the, historic, wah, parlor, ,, where, \#\#s, await, .,   discover, chinatown, ', s, hidden, gems, ,, from, antique, shops, to, the,   \#\#chan, \#\#ting, huang, da, xi, tao, \#\#ist, temple, ,, br, \#\#id, \#\#ging,   spirituality, and, culture, ., treat, yourself, to, exotic, flavors, at,   original, chinatown, cream, factory, ., their, unique, cream, offerings, ,,   like, l, \#\#ych, \#\#ee, and, \#\#rian, ,, will, tan, \#\#tal, pal, \#\#ate, ., sa,   \#\#vor, flavors, of, toni, s, fresh, rice, \#\#odle, ,, where, each, bite,   tells, a, story, of, tradition, and, community, ., take, a, leisure, \#\#ly,   stroll, through, fruit, market, on, \#\#lb, street, ,, and, discover, exotic,   fruits, like, dragon, fruit, and, ram, \#\#bu, \#\#tan, ., {[}SEP{]}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            & ive, into, intimate, journey, through, of, s, town, with, tour, Explore,   the, Park, ,, steep, d, historical, significance, where, the, community,   gather, s, Learn, how, it, transformed, from, a, , s, lum, to, a, cultural,   have, n, ., d, ul, ge, taste, buds, Fried, Du, mp, ling, ,, known, for, its,   mouth, water, ing, ,, friendly, dump, ling, s, and, No, Wa, h, Tea, Par, lor,   ,, where, delight, await, Discover, town, ', s, hidden, gem, s, ,, from,   antique, shops, to, Da, X, i, Ta, o, ist, ,, , bri, dging, spiritual, ity,   culture, re, at, to, flavors, The, Original, town, Ice, Cream, ., Their,   unique, , ice, cream, offerings, ,, like, rian, will, Sa, vor, s, Fresh,   Rice, N, oodle, ,, where, story, of, tradition, and, community, Take,   through, the, bustl, ing, berry, Street, ,, and, discover, fruits, like,   fruit, but, \textless{}/s\textgreater{}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  & Chinatown, NYC, Columbus Park, Fried Dumpling, Nom Wah Tea Parlor, dim   sum, Huang Da Xian Taoist Temple, The Original Chinatown Ice Cream Factory,   lychee, durian, Toni's Fresh Rice Noodle, Mulberry Street fruit market,   exotic fruits, dragon fruit, rambutan                                                                                                                        
+\end{tabular}
+\end{table}
+
+Format this latex table, that the text fits one page horizontally
+ChatGPT
+To ensure that your LaTeX table fits on one page horizontally, you can adjust the table using several strategies. Here is a more optimized version of your table using LaTeX commands and packages that help with formatting. I'll include options to resize the table, rotate the page for a landscape layout, and break the text in cells to prevent overflow:
+
+Use the adjustbox package: This allows you to scale the entire table to fit the page width.
+Rotate to landscape format: Using the pdflscape package, you can change the orientation of the page to landscape, providing more horizontal space.
+Use the tabularx package: This adjusts column widths to use the full width of the page automatically.
+Wrap text and control column width: Using p{width} for specifying column width or X from tabularx which automatically adjusts the width.
+Here’s how you can modify your LaTeX document:
+
+latex
+Copy code
+\documentclass{article}
+\usepackage{pdflscape}  % Landscape page mode
+\usepackage{adjustbox}  % To adjust the table to fit within the text width
+\usepackage{tabularx}   % For adjustable-width columns
+\usepackage{geometry}   % For adjusting page margins if necessary
+
+\begin{document}
+
+\begin{landscape}
+\begin{table}
+\centering
+\caption{Your table title}
+\begin{adjustbox}{width=\textwidth}
+\begin{tabularx}{\linewidth}{|X|X|X|X|X|}
+\hline
+\textbf{Column 1} & \textbf{Column 2} & \textbf{Column 3} & \textbf{Column 4} & \textbf{Column 5} \\
+\hline
+Data 1 & Long data text that might need more space and wraps automatically & Data 3 & Data 4 & Data 5 \\
+\hline
+... & ... & ... & ... & ... \\
+\hline
+\end{tabularx}
+\end{adjustbox}
+\end{table}
+\end{landscape}
+
+\end{document}
+In this setup:
+
+adjustbox ensures the table scales to fit within the page width.
+landscape changes the orientation for more horizontal space.
+tabularx with X columns adjusts the column width dynamically, accommodating varying amounts of text.
+This should help manage tables with large amounts of text or many columns, fitting them neatly into a single page width. Adjust the column titles and data accordingly. Adjusting font sizes or selectively abbreviating text could further help if the table is still too wide.
+
+User
+Model:	yanekyuk/bert-keyword-extractor	ml6team/keyphrase-extraction-kbir-inspec	sentence-transformers/all-MiniLM-L6-v2	ml6team/keyphrase-generation-t5-small-inspec
+Score 1:	0.65	0.85	0.8	0.72
+Score 2:	0.7	0.75	0.85	0.88
+Score 3:	0.6	0.85	0.88	0.9
+Score 4:	0.65	0.8	0.9	0.88
+Score 5:	0.1	0	0.15	1
+Score 6:	0.65	0.8	0.9	0.88
+Score 7:	0.25	0.35	0.9	0.95
+Score 8:	0.45	0.8	0.1	0.95
+Score 9:	0.35	0.6	0.9	0.95
+Score 10:	0.45	0.8	0.95	0.9
+median:	0.525	0.8	0.89	0.9
+avg:	0.485	0.66	0.733	0.901
+
+Erstelle einen scatter plot in latex
+ChatGPT
+To create a scatter plot in LaTeX, you can use the pgfplots package, which provides a powerful and flexible means to produce high-quality graphs. Below is an example LaTeX code that demonstrates how to use pgfplots to create a scatter plot for the data you provided. Each point on the scatter plot corresponds to one of the models with their respective average scores.
+
+Here's the LaTeX code to create the scatter plot:
+
+latex
+Copy code
+\documentclass{article}
+\usepackage{pgfplots}
+\pgfplotsset{width=10cm,compat=1.15}
+
+\begin{document}
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    title={Scatter Plot of Model Scores},
+    xlabel={Model},
+    ylabel={Average Score},
+    xmin=0, xmax=5,
+    ymin=0, ymax=1,
+    xtick={1,2,3,4},
+    xticklabels={yanekyuk/bert, ml6team/kbir, sentence-transformers, ml6team/t5-small},
+    ytick={0,0.2,0.4,0.6,0.8,1},
+    legend pos=north west,
+    ymajorgrids=true,
+    grid style=dashed,
+    scatter/classes={
+        a={mark=square*,blue},
+        b={mark=triangle*,red},
+        c={mark=o,draw=black,fill=black},
+        d={mark=diamond*,green}
+    }
+]
+
+\addplot[scatter,only marks,scatter src=explicit symbolic]
+table[meta=label]{
+x y label
+1 0.485 a
+2 0.66 b
+3 0.733 c
+4 0.901 d
+};
+\legend{yanekyuk/bert, ml6team/kbir, sentence-transformers, ml6team/t5-small}
+\end{axis}
+\end{tikzpicture}
+\caption{Scatter plot showing the average score for each model.}
+\end{figure}
+
+\end{document}
+How to Use This Code:
+Setup: Ensure your LaTeX editor supports compiling documents with pgfplots. Most LaTeX distributions like TeXLive, MiKTeX, and Overleaf support this out of the box.
+Customization: You can customize the labels, title, axis limits, and tick marks as needed to better fit your data or presentation style.
+Compilation: Compile this document with pdflatex or any LaTeX editor that supports PGF/TikZ.
+This example places the model names along the x-axis and their corresponding average scores on the y-axis. You can adjust the tick labels, axis limits, and other styles to better suit your presentation needs.
+
+User
+\begin{abstract}
+    In dieser Arbeit werden vier beliebte \emph{Specialized Language Models} daran getestet, wie gut sie im Vergleich zu GPT 4.0 Keywords aus Beschreibungstext von Events extrahieren können. Es konnten grosse Unterschiede zwischen den Modellen unter sich festgestellt werden und GPT 4.0 liefert immer noch die besseren Ergebnisse. 
+\end{abstract}
+\begin{multicols}{2}
+
+\section{Einleitung}
+Für das Modul \emph{IC: From Data2Dollar - Dein Technologiekoffer von der Datenbeschaffung bis zur Visualisierung\footnote{\href{https://courses.unisg.ch/event/events/by-term/cdb7331b-2557-46b9-b5dd-4151d8bf0962/14492427}{Kurswebseite: https://courses.unisg.ch/event/events/by-term/cdb7331b-2557-46b9-b5dd-4151d8bf0962/14492427}}} führen wir eine Analyse von Eventangeboten verschiedener Internetplatformen durch. Unter anderem führen wir auch eine Analyse der Beschreibungen\footnote{Ein Beispiel wäre: \href{https://www.getyourguide.com/new-york-city-l59/liberty-harbor-helicopter-adventure-t15252/}{https://www.getyourguide.com/new-york-city-l59/liberty-harbor-helicopter-adventure-t15252/}, nach dem Zwischentitel "Full description"} der jeweiligen Angebote der Webseite durch. \\Da wir die wichtigsten Wörter/Termini aus den einzelnen Beschreibungen auslesen wollen, müssen diese zuerst aus den teil längeren Texten extrahiert werden. Aus diesen Grund suchen wir wir ein geeignetes Language Model, in diesem Kontext kommen grundsätzlich \emph{Large Language Models(LLMs)} und \emph{Specialized Language Models} in betracht. Letztere wurden auf einen spezifischen Use Case trainiert. \\
+In diesen Paper möchte ich als Teilschritt der Arbeit eine Evaluation verschiedener Language Modelle düchführen. Primär ist das Ziel, die Beantwortung der Frage, welches Language Model am vollständigsten und präzisesten die semantisch relevanten Keywords  aus den en auslesen kann. \\Gleichzeitig ist dies ebenfalls eine allgemein intressante Arbeit für die Forschung an Language Models, da sie die Unterschiede von diesen Anhang eines sehr spezifischen Beispiels betrachtet.
+\section{Literatur}
+Eine Übersicht über die Entwicklung der LLMs finden wir bei (\cite{zhao2023survey}). LLMs werden definiert als Tranformer Language Models welche mit einer gewaltigen Menge an Daten trainiert wurden. Beispiele hierfür wären Meta's Llama 3 oder das bekannte GPT 4.0 von OpenAI. Sie sind in der Lage, komplexe Aufgabenstellungen zu lösen, in unseren Fall müssen sie Keywords aus Texten auslesen. \\
+Das Paper von (\cite{grangier2024specialized}) setzt sich mit den unterschieden von kleinen und grossen Languange Models auseinander und fokussiert sich dabei insbesondere auf die Trainingskosten und dessen Intensität. Bei einem kleinem Budget wird von den Autoren empfohlen, sich auf generisches Pretraining zu fokussieren.\\
+(\cite{ding2024mastering}) haben wiederum aufgezeigt durch ihr erstelltes Framework \emph{ULTRAFUSER} mithilfe eines qualitativ hochwertigem und spezialisiertem Datasest ein Modell zu kreieren, welches in den Bereichen Natural Language, Programmiercode und mathematischen Sysmbolen besonders gute Ergebnisse aufzeigte.  Daraus kann man schliessen, dass die Spezialisierung eines Modells dieses deutlich verbessern kann und entsprechend den generischen Modellen auch gegenenfalls vorzuziehen ist.
+
+\section{Methodik}
+Für die Suche nach geeigneten Modellen wurde die Plattform hugginface\footnote{\href{http://huggingface.co/}{huggingface.co}} verwendet und nach den Begriffen "keyword extractor" und "keyphrase extractor" gesucht und die am meisten verwendeten ausgewählt, welche auch für englische Texte geeignet sind. Hierbeit handelt es sich somit um \emph{Specialized Language Models}, die für diesen speziellen Gebrauch erstellt wurden, aber deutlich kleiner sind als LLMs. Als Beispiel dafür wurde das beliebte OpenAI's ChatGPT 4.0 verwendet. \\
+Am Ende wurden vier \emph{Specialized Language Models} auswählt: \textbf{yanekyuk/ bert-keyword-extractor(BKW)\footnote{\href{https://huggingface.co/yanekyuk/bert-keyword-extractor}{https://huggingface.co/yanekyuk/bert-keyword-extractor}}}, welches auf googles BERT\footnote{\href{https://huggingface.co/google-bert/bert-base-cased}{https://huggingface.co/google-bert/bert-base-cased}} basiert, welches anschliessend noch entsprechend "fine tuned" wurde.\\
+Als nächstes das Model \textbf{ml6team/ keyphrase-extraction-kbir-inspec(KEK)\footnote{\href{https://huggingface.co/ml6team/keyphrase-extraction-kbir-inspec}{https://huggingface.co/ml6team/keyphrase-extraction-kbir-inspec}}} und basiert auf dem Keyphrase Boundary Infilling with Replacement (KBIR) Model\footnote{\href{https://huggingface.co/bloomberg/KBIR}{https://huggingface.co/bloomberg/KBIR}}, welches dann auf das Trainieren von Abstracts trainiert wurde. Die Ersteller empfehlen es auch ausschliesslich dafür zu verwenden, jedoch ist es gerade interessant, es für andere Texte zu verwenden. \\
+Das dritte Model ist \textbf{sentence-transformers/ all-MiniLM-L6-v2(AML)\footnote{\href{https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2}{https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2}}} und basiert auf MiniLM Model\footnote{\href{https://huggingface.co/nreimers/MiniLM-L6-H384-uncased}{https://huggingface.co/nreimers/MiniLM-L6-H384-uncased}} und wurde für spezifisch für das Clustering und semantischer Suche trainiert.\\
+Das vierte und letzte Model nennt sich \textbf{ml6team/keyphrase-generation-t5-small-inspec(KGSI)\footnote{\href{https://huggingface.co/ml6team/keyphrase-generation-t5-small-inspec}{https://huggingface.co/ml6team/keyphrase-generation-t5-small-inspec}}} und wurde ebenfalls mit Abstracts, analog zu KBIR, trainiert, basiert aber auf google's T5 small Model\footnote{\href{https://huggingface.co/google-t5/t5-small}{https://huggingface.co/google-t5/t5-small}}. \\
+Mittels dem Github Copilot wurde ein Python Skript(\hyperref[sec:PythonSkript]{siehe Anhag}) erstellt, welches neun zufällig ausgewählte Eventbeschreibungen mit unterschiedlicher Länge mit dem jeweiligen Model ausführte.\\
+Da ChatGPT 4.0 die besten Ergebnisse produziert hat\footnote{Dies wird im Diskussionteil noch erläutert}, werden dessen Ergebnisse als Benchmark verwendet. Eine eigens erstelltes GPT\footnote{\href{https://chat.openai.com/g/g-Lu88eIIxw-keyword-rater}{https://chat.openai.com/g/g-Lu88eIIxw-keyword-rater}}vergleicht nun die Liste der Ergebnisse der einzelnen Models mit den von ChatGPT anhand der semantischen Ähnlichkeit auf einer Skala von 0 bis 1.
+\section{Ergebnisse}
+Die Ergebnisse der einzelnen Modelle fielen sehr unterschiedlich aus. Ein Beispiel wird im Anhang (\hyperref[sec:extraktion]{Keyword Extraktion: Beispiel}) aufgezeigt. Die gesamten Ergebnisse sind als Tabelle im Anhang (\hyperref[sec:Ergebnisse]{Ergebnisse}) zu finden, sowie einen \hyperref[sec:Plot]{Plot der Ergebnisse}. \\
+Insgesamt hat sich gezeigt, dass AML und KGSI die besseren Ergebnisse geliefert haben. Sie haben jeweils deutlich mehr Keywords extrahieren können. Ein besonderer Beschreibungstext war die Nummer fünf, wo nur ein sehr kurzer Text untersucht wurde. Dort wurden von KEK gar keine Keywords extrahiert. Mit einem Durchschnitt von 0.89 kommt KGSI dem Ergebnis von GPT 4.0 gemäss dieser Überprüfung schon recht nahe. AML ist mit diesem Ergebnis fast gleichauf. Auffallend ist dabei, dass sowohl bei AML und bei KGSI deutlich mehr Keywords extrahiert wurden, was je nach Use Case nicht wünschenswert ist. Die Modelle generieren auch immer völlig unsinnige Keywords: Beispielsweise ein "St" ohne das folgende, entscheidende Wort auch mitzuextrahieren. Teilweise werden auch einfach Wörter getrennt: Statt "Roasted" (von Roasted Duck) extrahierte KEK "Ro" und "asted" getrennt. 
+\section{Diskussion}
+In dieser Arbeit wurden zuerst vier verschiedene Language Models ausgewählt und ihnen zufällige Eventbeschreibungen gegeben, welche sie analysieren sollten und die Keywords extrahieren sollten. Das Ergebnis hat gezeigt, dass die Specialized Language Model noch nicht auf den Stand der LLMs, in diesem Fall GPT 4.0, sind: Sie lassen Vieles weg oder extrahieren deutlich mehr Daten als nötig. Sie sind auch nicht zuverlässig, was die Qualität des Outputs betrifft: Teilweise extrahieren sie nur einzelne Buchstaben oder trennen Wörter. \\
+Auffallend ist, das obschon KEK und KGSI auf die Extraktion von Abstracts trainiert wurden, die Ergebnisse sich so deutlich unterscheiden. Naheliegend wäre in diesem Fall, dass das zugrundeliegende Modell in diesem Fall für diesen Case passender war.
+\\
+Für unsere weitere Arbeit an unserem Projekt würde ich deshalb KGSI oder AML nutzen, da dort die Ergebnisse am besten waren. Gleichzeitig sind nun auch die Schwächen und Limitationen bekannt.
+\\
+Meine These ist, dass GPT 4.0 durch das grössere Language Model sowie die erhöhte Rechenkapazität qualitativ nicht durch solche deutlich kleineren und lokal ausgeführten Modelle zu schlagen ist. Eine spannende Idee wäre die Umsetzung von \emph{Specialized Large Language Models}: Diese würden auf Basis von grosser Datenmenge für spezifische Anforderungen trainiert werden und hätten das Potential, die nicht-spezialisierten Modelle zu schlagen. Dies wäre andererseits entsprechend aufwändiger und kostenintensiver.\\
+Weitere Forschung könnte auch in Zukunft untersuchen, wie sich verschiedene Modelle in bestimmten Use Cases verhalten und ob der Gap zu den LLMs grösser oder kleiner wird. Als Limitation in der Arbeit ist aufzuführen, dass Anzahl von Beschreibungstexten und Modellen noch erhöht werden könnte, was die Präzision erhöhen könnte. Bezüglich der Methodik ist weiterhin zu bedenken, dass Chat GPT eher ein pragmatischer Ansatz ist, um ein Testscoring durchzuführen. Auch dies könnte in späterer Forschung noch überdacht werden. 
+\section{Anmerkungen}
+Zur Korrektur des Textes und zur Erstellung der Plots wurde (\cite{ChatGPT}) verwendet.
+
+
+Bitte lese den oberen Text Korrektur. Er ist in Latex geschrieben, ich möchte dass du in sprachlich überprüfst: Grammatik, Punktuation usw. Bitte schreibe die Fehler heraus
+ChatGPT
+Der gegebene Text ist insgesamt gut strukturiert und thematisch kohärent, es gibt jedoch einige kleinere sprachliche Ungenauigkeiten und Verbesserungsvorschläge, die zur Klarheit und Lesbarkeit beitragen können. Hier sind die Korrekturen und Vorschläge:
+
+Rechtschreibung und Grammatik:
+„...welches dann auf das Trainieren von Abstracts trainiert wurde.“ – Hier ist eine Dopplung des Wortes „trainiert“. Besser: „welches speziell für das Trainieren von Abstracts entwickelt wurde.“
+„...welches anschließend noch entsprechend 'fine tuned' wurde.“ – Besser auf Deutsch: „...welches anschließend noch speziell feinjustiert wurde.“
+„...und wurde ebenfalls mit Abstracts, analog zu KBIR, trainiert...“ – Besser: „...und wurde, analog zu KBIR, ebenfalls mit Abstracts trainiert...“
+Punktuation und Satzbau:
+Die Verwendung von „\“ am Ende einiger Sätze ist in LaTeX üblich, um einen neuen Absatz zu beginnen, aber sie scheinen hier überflüssig oder inkonsistent verwendet zu werden. Sie sind nicht notwendig, wenn ein neuer Absatz oder eine neue Zeile begonnen wird.
+In wissenschaftlichen Arbeiten auf Deutsch wird das Komma vor „und“ in Aufzählungen oft weggelassen. Beispiel: „...KGSI oder AML nutzen, da dort die Ergebnisse am besten waren.“
+Stil und Ausdruck:
+„...die Specialized Language Model noch nicht auf den Stand der LLMs, in diesem Fall GPT 4.0, sind“ – Besser: „...die Specialized Language Models noch nicht den Stand der LLMs, in diesem Fall GPT 4.0, erreicht haben.“
+„...welches neun zufällig ausgewählte Eventbeschreibungen mit unterschiedlicher Länge mit dem jeweiligen Model ausführte.“ – Besser: „...welches neun zufällig ausgewählte, unterschiedlich lange Eventbeschreibungen mit jedem der Modelle analysierte.“
+„Für unsere weitere Arbeit an unserem Projekt würde ich deshalb KGSI oder AML nutzen, da dort die Ergebnisse am besten waren.“ – „Für die weitere Arbeit an unserem Projekt würde ich deshalb KGSI oder AML bevorzugen, da diese Modelle die besten Ergebnisse erzielten.“
+Konsistenz:
+Achten Sie auf die konsistente Schreibweise von „Model“ vs. „Modell“ (Model auf Englisch und Modell auf Deutsch).
+Verwendung von „das Model“ und „das Modell“ – je nach Kontext, aber in einem deutschen Text sollte „das Modell“ konsistent verwendet werden.
+Fußnoten und Verweise:
+Stellen Sie sicher, dass alle Links und Verweise korrekt formatiert sind und im endgültigen Dokument funktionieren.
+Zitierweise:
+Überprüfen Sie, ob die Zitierweise (z.B. (\cite{zhao2023survey})) den Anforderungen Ihrer Institution entspricht.
+Diese Korrekturen und Anpassungen sollten Ihren Text flüssiger und professioneller machen.
+
+User
+\section{Einleitung}
+Für das Modul \emph{IC: From Data2Dollar - Dein Technologiekoffer von der Datenbeschaffung bis zur Visualisierung\footnote{\href{https://courses.unisg.ch/event/events/by-term/cdb7331b-2557-46b9-b5dd-4151d8bf0962/14492427}{Kurswebseite: https://courses.unisg.ch/event/events/by-term/cdb7331b-2557-46b9-b5dd-4151d8bf0962/14492427}}} führen wir eine Analyse von Eventangeboten verschiedener Internetplatformen durch. Unter anderem führen wir auch eine Analyse der Beschreibungen\footnote{Ein Beispiel wäre: \href{https://www.getyourguide.com/new-york-city-l59/liberty-harbor-helicopter-adventure-t15252/}{https://www.getyourguide.com/new-york-city-l59/liberty-harbor-helicopter-adventure-t15252/}, nach dem Zwischentitel "Full description"} der jeweiligen Angebote der Webseite durch. \\Da wir die wichtigsten Wörter/Termini aus den einzelnen Beschreibungen auslesen wollen, müssen diese zuerst aus den teil längeren Texten extrahiert werden. Aus diesen Grund suchen wir wir ein geeignetes Language Model, in diesem Kontext kommen grundsätzlich \emph{Large Language Models(LLMs)} und \emph{Specialized Language Models} in betracht. Letztere wurden auf einen spezifischen Use Case trainiert. \\
+In diesen Paper möchte ich als Teilschritt der Arbeit eine Evaluation verschiedener Language Modelle düchführen. Primär ist das Ziel, die Beantwortung der Frage, welches Language Modell am vollständigsten und präzisesten die semantisch relevanten Keywords  aus den en auslesen kann. \\Gleichzeitig ist dies ebenfalls eine allgemein intressante Arbeit für die Forschung an Language Models, da sie die Unterschiede von diesen Anhang eines sehr spezifischen Beispiels betrachtet.
+\section{Literatur}
+Eine Übersicht über die Entwicklung der LLMs finden wir bei (\cite{zhao2023survey}). LLMs werden definiert als Tranformer Language Models welche mit einer gewaltigen Menge an Daten trainiert wurden. Beispiele hierfür wären Meta's Llama 3 oder das bekannte GPT 4.0 von OpenAI. Sie sind in der Lage, komplexe Aufgabenstellungen zu lösen, in unseren Fall müssen sie Keywords aus Texten auslesen. \\
+Das Paper von (\cite{grangier2024specialized}) setzt sich mit den unterschieden von kleinen und grossen Languange Models auseinander und fokussiert sich dabei insbesondere auf die Trainingskosten und dessen Intensität. Bei einem kleinem Budget wird von den Autoren empfohlen, sich auf generisches Pretraining zu fokussieren.\\
+(\cite{ding2024mastering}) haben wiederum aufgezeigt durch ihr erstelltes Framework \emph{ULTRAFUSER} mithilfe eines qualitativ hochwertigem und spezialisiertem Datasest ein Modell zu kreieren, welches in den Bereichen Natural Language, Programmiercode und mathematischen Sysmbolen besonders gute Ergebnisse aufzeigte.  Daraus kann man schliessen, dass die Spezialisierung eines Modells dieses deutlich verbessern kann und entsprechend den generischen Modellen auch gegenenfalls vorzuziehen ist.
+
+\section{Methodik}
+Für die Suche nach geeigneten Modellen wurde die Plattform hugginface\footnote{\href{http://huggingface.co/}{huggingface.co}} verwendet und nach den Begriffen "keyword extractor" und "keyphrase extractor" gesucht und die am meisten verwendeten ausgewählt, welche auch für englische Texte geeignet sind. Hierbeit handelt es sich somit um \emph{Specialized Language Models}, die für diesen speziellen Gebrauch erstellt wurden, aber deutlich kleiner sind als LLMs. Als Beispiel dafür wurde das beliebte OpenAI's ChatGPT 4.0 verwendet. \\
+Am Ende wurden vier \emph{Specialized Language Models} auswählt: \textbf{yanekyuk/ bert-keyword-extractor(BKW)\footnote{\href{https://huggingface.co/yanekyuk/bert-keyword-extractor}{https://huggingface.co/yanekyuk/bert-keyword-extractor}}}, welches auf googles BERT\footnote{\href{https://huggingface.co/google-bert/bert-base-cased}{https://huggingface.co/google-bert/bert-base-cased}} basiert, welches anschliessend noch entsprechend "fine tuned" wurde.\\
+Als nächstes das Modell \textbf{ml6team/ keyphrase-extraction-kbir-inspec(KEK)\footnote{\href{https://huggingface.co/ml6team/keyphrase-extraction-kbir-inspec}{https://huggingface.co/ml6team/keyphrase-extraction-kbir-inspec}}} und basiert auf dem Keyphrase Boundary Infilling with Replacement (KBIR) Model\footnote{\href{https://huggingface.co/bloomberg/KBIR}{https://huggingface.co/bloomberg/KBIR}}, welches dann auf das Trainieren von Abstracts trainiert wurde. Die Ersteller empfehlen es auch ausschliesslich dafür zu verwenden, jedoch ist es gerade interessant, es für andere Texte zu verwenden. \\
+Das dritte Modell ist \textbf{sentence-transformers/ all-MiniLM-L6-v2(AML)\footnote{\href{https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2}{https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2}}} und basiert auf MiniLM Model\footnote{\href{https://huggingface.co/nreimers/MiniLM-L6-H384-uncased}{https://huggingface.co/nreimers/MiniLM-L6-H384-uncased}} und wurde für spezifisch für das Clustering und semantischer Suche trainiert.\\
+Das vierte und letzte Modell nennt sich \textbf{ml6team/keyphrase-generation-t5-small-inspec(KGSI)\footnote{\href{https://huggingface.co/ml6team/keyphrase-generation-t5-small-inspec}{https://huggingface.co/ml6team/keyphrase-generation-t5-small-inspec}}} und wurde ebenfalls mit Abstracts, analog zu KBIR, trainiert, basiert aber auf google's T5 small Model\footnote{\href{https://huggingface.co/google-t5/t5-small}{https://huggingface.co/google-t5/t5-small}}. \\
+Mittels dem Github Copilot wurde ein Python Skript(\hyperref[sec:PythonSkript]{siehe Anhag}) erstellt, welches neun zufällig ausgewählte Eventbeschreibungen mit unterschiedlicher Länge mit dem jeweiligen Modells ausführte.\\
+Da ChatGPT 4.0 die besten Ergebnisse produziert hat\footnote{Dies wird im Diskussionteil noch erläutert}, werden dessen Ergebnisse als Benchmark verwendet. Eine eigens erstelltes GPT\footnote{\href{https://chat.openai.com/g/g-Lu88eIIxw-keyword-rater}{https://chat.openai.com/g/g-Lu88eIIxw-keyword-rater}}vergleicht nun die Liste der Ergebnisse der einzelnen Models mit den von ChatGPT anhand der semantischen Ähnlichkeit auf einer Skala von 0 bis 1.
+\section{Ergebnisse}
+Die Ergebnisse der einzelnen Modelle fielen sehr unterschiedlich aus. Ein Beispiel wird im Anhang (\hyperref[sec:extraktion]{Keyword Extraktion: Beispiel}) aufgezeigt. Die gesamten Ergebnisse sind als Tabelle im Anhang (\hyperref[sec:Ergebnisse]{Ergebnisse}) zu finden, sowie einen \hyperref[sec:Plot]{Plot der Ergebnisse}. \\
+Insgesamt hat sich gezeigt, dass AML und KGSI die besseren Ergebnisse geliefert haben. Sie haben jeweils deutlich mehr Keywords extrahieren können. Ein besonderer Beschreibungstext war die Nummer fünf, wo nur ein sehr kurzer Text untersucht wurde. Dort wurden von KEK gar keine Keywords extrahiert. Mit einem Durchschnitt von 0.89 kommt KGSI dem Ergebnis von GPT 4.0 gemäss dieser Überprüfung schon recht nahe. AML ist mit diesem Ergebnis fast gleichauf. Auffallend ist dabei, dass sowohl bei AML und bei KGSI deutlich mehr Keywords extrahiert wurden, was je nach Use Case nicht wünschenswert ist. Die Modelle generieren auch immer völlig unsinnige Keywords: Beispielsweise ein "St" ohne das folgende, entscheidende Wort auch mitzuextrahieren. Teilweise werden auch einfach Wörter getrennt: Statt "Roasted" (von Roasted Duck) extrahierte KEK "Ro" und "asted" getrennt. 
+\section{Diskussion}
+In dieser Arbeit wurden zuerst vier verschiedene Language Modelle ausgewählt und ihnen zufällige Eventbeschreibungen gegeben, welche sie analysieren sollten und die Keywords extrahieren sollten. Das Ergebnis hat gezeigt, dass die Specialized Language Models noch nicht auf den Stand der LLMs, in diesem Fall GPT 4.0, sind: Sie lassen Vieles weg oder extrahieren deutlich mehr Daten als nötig. Sie sind auch nicht zuverlässig, was die Qualität des Outputs betrifft: Teilweise extrahieren sie nur einzelne Buchstaben oder trennen Wörter. \\
+Auffallend ist, das obschon KEK und KGSI auf die Extraktion von Abstracts trainiert wurden, die Ergebnisse sich so deutlich unterscheiden. Naheliegend wäre in diesem Fall, dass das zugrundeliegende Modell in diesem Fall für diesen Case passender war.
+\\
+Für unsere weitere Arbeit an unserem Projekt würde ich deshalb KGSI oder AML nutzen, da dort die Ergebnisse am besten waren. Gleichzeitig sind nun auch die Schwächen und Limitationen bekannt.
+\\
+Meine These ist, dass GPT 4.0 durch das grössere Language Modell sowie die erhöhte Rechenkapazität qualitativ nicht durch solche deutlich kleineren und lokal ausgeführten Modelle zu schlagen ist. Eine spannende Idee wäre die Umsetzung von \emph{Specialized Large Language Models}: Diese würden auf Basis von grosser Datenmenge für spezifische Anforderungen trainiert werden und hätten das Potential, die nicht-spezialisierten Modelle zu schlagen. Dies wäre andererseits entsprechend aufwändiger und kostenintensiver.\\
+Weitere Forschung könnte auch in Zukunft untersuchen, wie sich verschiedene Modelle in bestimmten Use Cases verhalten und ob der Gap zu den LLMs grösser oder kleiner wird. Als Limitation in der Arbeit ist aufzuführen, dass Anzahl von Beschreibungstexten und Modellen noch erhöht werden könnte, was die Präzision erhöhen könnte. Bezüglich der Methodik ist weiterhin zu bedenken, dass Chat GPT eher ein pragmatischer Ansatz ist, um ein Testscoring durchzuführen. Auch dies könnte in späterer Forschung noch überdacht werden. 
+\section{Anmerkungen}
+Zur Korrektur des Textes und zur Erstellung der Plots wurde (\cite{ChatGPT}) verwendet.
+
+Korrigiere aber nur auf Grammatik als dass die Rechschreibung korrekt ist
+ChatGPT
+Der Text ist überwiegend gut geschrieben, aber ich habe einige Grammatik- und Rechtschreibfehler sowie einige stilistische Punkte gefunden, die verbessert werden könnten, um die Klarheit und formelle Korrektheit des Textes zu erhöhen. Hier sind meine Korrekturen und Vorschläge:
+
+Korrektur der Groß- und Kleinschreibung sowie der Rechtschreibung:
+„Internetplatformen“ sollte als „Internetplattformen“ geschrieben werden.
+„Aus diesen Grund suchen wir wir ein geeignetes Language Model“ sollte korrigiert werden zu: „Aus diesem Grund suchen wir ein geeignetes Language Model“.
+„In diesen Paper möchte ich als Teilschritt der Arbeit eine Evaluation verschiedener Language Modelle düchführen.“ Hier sollte es heißen: „In diesem Paper möchte ich als Teilschritt der Arbeit eine Evaluation verschiedener Language Modelle durchführen.“
+„besonders gute Ergebnisse aufzeigte.“ sollte „aufzeigten“ sein, um mit dem Subjekt „sie“ übereinzustimmen.
+„Hierbeit handelt es sich somit um“ sollte sein: „Hierbei handelt es sich somit um“.
+„Am Ende wurden vier \emph{Specialized Language Models} auswählt:“ sollte „ausgewählt“ sein.
+Artikel und Präpositionen:
+„Das dritte Model ist \textbf{sentence-transformers/all-MiniLM-L6-v2(AML)} und basiert auf MiniLM Model“ – hier fehlt der Artikel „dem“ vor „MiniLM Model“.
+„Mittels dem Github Copilot wurde ein Python Skript“ sollte „Mithilfe des Github Copilot wurde ein Python-Skript“ sein.
+Plural und Singular:
+„welches sie analysieren sollten und die Keywords extrahieren sollten.“ Hier könnte man das Doppelte „sollten“ vermeiden: „welches sie analysieren und daraus Keywords extrahieren sollten.“
+Kommafehler:
+Vor „welches“ sollte in vielen Fällen ein Komma stehen, wenn es sich um einen Relativsatz handelt, z. B. „Das vierte und letzte Modell nennt sich \textbf{ml6team/keyphrase-generation-t5-small-inspec(KGSI)}, welches ebenfalls mit Abstracts, analog zu KBIR, trainiert wurde.“
+Stilistische Klarheit:
+„Eine eigens erstelltes GPT“ sollte „Ein eigens erstelltes GPT“ sein, um mit dem unbestimmten Artikel „ein“ übereinzustimmen.
+„Naheliegend wäre in diesem Fall, dass das zugrundeliegende Modell in diesem Fall für diesen Case passender war.“ – Hier gibt es eine Wiederholung von „in diesem Fall“. Vorschlag: „Naheliegend wäre, dass das zugrundeliegende Modell für diesen Fall besser geeignet war.“
+Durch diese Änderungen wird der Text klarer und grammatikalisch korrekter, was die professionelle Qualität der Arbeit unterstreicht.
+
+User
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{multicol}
+\usepackage{hyperref}
+\bibliographystyle{apalike}
+\usepackage{listings}
+\usepackage{tabularx}
+\usepackage{pgfplots}
+\pgfplotsset{width=10cm,compat=1.15}
+
+\usepackage[
+backend=biber,
+style=apa,
+]{biblatex}
+\addbibresource{ref.bib}
+\usepackage{fancyhdr}
+\usepackage[export]{adjustbox}
+\renewcommand{\baselinestretch}{1.25} 
+
+\title{%
+  Vergleich von verschiedenen Sprachmodellen zur Extraktion von Keywords in Eventbeschreibungen \\
+  \large Working paper}
+\author{Louis Huber\thanks{louisphilippe.huber@student.unisg.ch, 19-742-949}, Student MBI, Universtiät St.Gallen}
+\date{St.Gallen, April 2024}
+
+\begin{document}
+\pagestyle{fancy}
+\fancyhead{} % clear all header fields
+\fancyhead[RO,LE]{{\tiny Working Paper: Vergleich von verschiedenen Sprachmodellen zur Extraktion von Keywords in Eventbeschreibungen}}
+\maketitle
+\begin{abstract}
+    In dieser Arbeit werden vier beliebte \emph{Specialized Language Models} daran getestet, wie gut sie im Vergleich zu GPT 4.0 Keywords aus Beschreibungstext von Events extrahieren können. Es konnten grosse Unterschiede zwischen den Modellen unter sich festgestellt werden und GPT 4.0 liefert immer noch die besseren Ergebnisse. 
+\end{abstract}
+\begin{multicols}{2}
+
+\section{Einleitung}
+Für das Modul \emph{IC: From Data2Dollar - Dein Technologiekoffer von der Datenbeschaffung bis zur Visualisierung\footnote{\href{https://courses.unisg.ch/event/events/by-term/cdb7331b-2557-46b9-b5dd-4151d8bf0962/14492427}{Kurswebseite: https://courses.unisg.ch/event/events/by-term/cdb7331b-2557-46b9-b5dd-4151d8bf0962/14492427}}} führen wir eine Analyse von Eventangeboten verschiedener Internetplattformen durch. Unter anderem führen wir auch eine Analyse der Beschreibungen\footnote{Ein Beispiel wäre: \href{https://www.getyourguide.com/new-york-city-l59/liberty-harbor-helicopter-adventure-t15252/}{https://www.getyourguide.com/new-york-city-l59/liberty-harbor-helicopter-adventure-t15252/}, nach dem Zwischentitel "Full description"} der jeweiligen Angebote der Webseite durch. \\Da wir die wichtigsten Wörter/Termini aus den einzelnen Beschreibungen auslesen wollen, müssen diese zuerst aus den teil längeren Texten extrahiert werden. Aus diesem Grund suchen wir ein geeignetes Language Model, in diesem Kontext kommen grundsätzlich \emph{Large Language Models(LLMs)} und \emph{Specialized Language Models} in betracht. Letztere wurden auf einen spezifischen Use Case trainiert. \\
+In diesem Paper möchte ich als Teilschritt der Arbeit eine Evaluation verschiedener Language Modelle durchführen. Primär ist das Ziel, die Beantwortung der Frage, welches Language Modell am vollständigsten und präzisesten die semantisch relevanten Keywords  aus den en auslesen kann. \\Gleichzeitig ist dies ebenfalls eine allgemein intressante Arbeit für die Forschung an Language Models, da sie die Unterschiede von diesen Anhang eines sehr spezifischen Beispiels betrachtet.
+\section{Literatur}
+Eine Übersicht über die Entwicklung der LLMs finden wir bei (\cite{zhao2023survey}). LLMs werden definiert als Tranformer Language Models welche mit einer gewaltigen Menge an Daten trainiert wurden. Beispiele hierfür wären Meta's Llama 3 oder das bekannte GPT 4.0 von OpenAI. Sie sind in der Lage, komplexe Aufgabenstellungen zu lösen, in unseren Fall müssen sie Keywords aus Texten auslesen. \\
+Das Paper von (\cite{grangier2024specialized}) setzt sich mit den unterschieden von kleinen und grossen Languange Models auseinander und fokussiert sich dabei insbesondere auf die Trainingskosten und dessen Intensität. Bei einem kleinem Budget wird von den Autoren empfohlen, sich auf generisches Pretraining zu fokussieren.\\
+(\cite{ding2024mastering}) haben wiederum aufgezeigt durch ihr erstelltes Framework \emph{ULTRAFUSER} mithilfe eines qualitativ hochwertigem und spezialisiertem Datasest ein Modell zu kreieren, welches in den Bereichen Natural Language, Programmiercode und mathematischen Symbolen besonders gute Ergebnisse aufzeigten.  Daraus kann man schliessen, dass die Spezialisierung eines Modells dieses deutlich verbessern kann und entsprechend den generischen Modellen auch gegebenenfalls vorzuziehen ist.
+
+\section{Methodik}
+Für die Suche nach geeigneten Modellen wurde die Plattform hugginface\footnote{\href{http://huggingface.co/}{huggingface.co}} verwendet und nach den Begriffen "keyword extractor" und "keyphrase extractor" gesucht und die am meisten verwendeten ausgewählt, welche auch für englische Texte geeignet sind. Hierbei handelt es sich somit um \emph{Specialized Language Models}, die für diesen speziellen Gebrauch erstellt wurden, aber deutlich kleiner sind als LLMs. Als Beispiel dafür wurde das beliebte OpenAI's ChatGPT 4.0 verwendet. \\
+Am Ende wurden vier \emph{Specialized Language Models} ausgewählt: \textbf{yanekyuk/ bert-keyword-extractor(BKW)\footnote{\href{https://huggingface.co/yanekyuk/bert-keyword-extractor}{https://huggingface.co/yanekyuk/bert-keyword-extractor}}}, welches auf googles BERT\footnote{\href{https://huggingface.co/google-bert/bert-base-cased}{https://huggingface.co/google-bert/bert-base-cased}} basiert, welches anschliessend noch entsprechend "fine tuned" wurde.\\
+Als nächstes das Modell \textbf{ml6team/ keyphrase-extraction-kbir-inspec(KEK)\footnote{\href{https://huggingface.co/ml6team/keyphrase-extraction-kbir-inspec}{https://huggingface.co/ml6team/keyphrase-extraction-kbir-inspec}}} und basiert auf dem Keyphrase Boundary Infilling with Replacement (KBIR) Model\footnote{\href{https://huggingface.co/bloomberg/KBIR}{https://huggingface.co/bloomberg/KBIR}}, welches dann auf das Trainieren von Abstracts trainiert wurde. Die Ersteller empfehlen es auch ausschliesslich dafür zu verwenden, jedoch ist es gerade interessant, es für andere Texte zu verwenden. \\
+Das dritte Modell ist \textbf{sentence-transformers/ all-MiniLM-L6-v2(AML)\footnote{\href{https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2}{https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2}}} und basiert auf dem MiniLM Model\footnote{\href{https://huggingface.co/nreimers/MiniLM-L6-H384-uncased}{https://huggingface.co/nreimers/MiniLM-L6-H384-uncased}} und wurde für spezifisch für das Clustering und semantischer Suche trainiert.\\
+Das vierte und letzte Modell nennt sich \textbf{ml6team/keyphrase-generation-t5-small-inspec(KGSI)\footnote{\href{https://huggingface.co/ml6team/keyphrase-generation-t5-small-inspec}{https://huggingface.co/ml6team/keyphrase-generation-t5-small-inspec}}} und wurde ebenfalls mit Abstracts, analog zu KBIR, trainiert, basiert aber auf google's T5 small Model\footnote{\href{https://huggingface.co/google-t5/t5-small}{https://huggingface.co/google-t5/t5-small}}. \\
+Mithilfe des Github Copilot wurde ein Python Skript(\hyperref[sec:PythonSkript]{siehe Anhag}) erstellt, welches neun zufällig ausgewählte Eventbeschreibungen mit unterschiedlicher Länge mit dem jeweiligen Modells ausführte.\\
+Da ChatGPT 4.0 die besten Ergebnisse produziert hat\footnote{Dies wird im Diskussionteil noch erläutert}, werden dessen Ergebnisse als Benchmark verwendet. Ein eigens erstelltes GPT\footnote{\href{https://chat.openai.com/g/g-Lu88eIIxw-keyword-rater}{https://chat.openai.com/g/g-Lu88eIIxw-keyword-rater}}vergleicht nun die Liste der Ergebnisse der einzelnen Models mit den von ChatGPT anhand der semantischen Ähnlichkeit auf einer Skala von 0 bis 1.
+\section{Ergebnisse}
+Die Ergebnisse der einzelnen Modelle fielen sehr unterschiedlich aus. Ein Beispiel wird im Anhang (\hyperref[sec:extraktion]{Keyword Extraktion: Beispiel}) aufgezeigt. Die gesamten Ergebnisse sind als Tabelle im Anhang (\hyperref[sec:Ergebnisse]{Ergebnisse}) zu finden, sowie einen \hyperref[sec:Plot]{Plot der Ergebnisse}. \\
+Insgesamt hat sich gezeigt, dass AML und KGSI die besseren Ergebnisse geliefert haben. Sie haben jeweils deutlich mehr Keywords extrahieren können. Ein besonderer Beschreibungstext war die Nummer fünf, wo nur ein sehr kurzer Text untersucht wurde. Dort wurden von KEK gar keine Keywords extrahiert. Mit einem Durchschnitt von 0.89 kommt KGSI dem Ergebnis von GPT 4.0 gemäss dieser Überprüfung schon recht nahe. AML ist mit diesem Ergebnis fast gleichauf. Auffallend ist dabei, dass sowohl bei AML und bei KGSI deutlich mehr Keywords extrahiert wurden, was je nach Use Case nicht wünschenswert ist. Die Modelle generieren auch immer völlig unsinnige Keywords: Beispielsweise ein "St" ohne das folgende, entscheidende Wort auch mitzuextrahieren. Teilweise werden auch einfach Wörter getrennt: Statt "Roasted" (von Roasted Duck) extrahierte KEK "Ro" und "asted" getrennt. 
+\section{Diskussion}
+In dieser Arbeit wurden zuerst vier verschiedene Language Modelle ausgewählt und ihnen zufällige Eventbeschreibungen gegeben, welche sie analysieren sollten und die Keywords extrahieren sollten. Das Ergebnis hat gezeigt, dass die Specialized Language Models noch nicht auf den Stand der LLMs, in diesem Fall GPT 4.0, sind: Sie lassen Vieles weg oder extrahieren deutlich mehr Daten als nötig. Sie sind auch nicht zuverlässig, was die Qualität des Outputs betrifft: Teilweise extrahieren sie nur einzelne Buchstaben oder trennen Wörter. \\
+Auffallend ist, das obschon KEK und KGSI auf die Extraktion von Abstracts trainiert wurden, die Ergebnisse sich so deutlich unterscheiden. Naheliegend wäre es, dass das zugrundeliegende Modell in diesem Fall für diesen Case passender war.
+\\
+Für unsere weitere Arbeit an unserem Projekt würde ich deshalb KGSI oder AML nutzen, da dort die Ergebnisse am besten waren. Gleichzeitig sind nun auch die Schwächen und Limitationen bekannt.
+\\
+Meine These ist, dass GPT 4.0 durch das grössere Language Modell sowie die erhöhte Rechenkapazität qualitativ nicht durch solche deutlich kleineren und lokal ausgeführten Modelle zu schlagen ist. Eine spannende Idee wäre die Umsetzung von \emph{Specialized Large Language Models}: Diese würden auf Basis von grosser Datenmenge für spezifische Anforderungen trainiert werden und hätten das Potential, die nicht-spezialisierten Modelle zu schlagen. Dies wäre andererseits entsprechend aufwändiger und kostenintensiver.\\
+Weitere Forschung könnte auch in Zukunft untersuchen, wie sich verschiedene Modelle in bestimmten Use Cases verhalten und ob der Gap zu den LLMs grösser oder kleiner wird. Als Limitation in der Arbeit ist aufzuführen, dass Anzahl von Beschreibungstexten und Modellen noch erhöht werden könnte, was die Präzision erhöhen könnte. Bezüglich der Methodik ist weiterhin zu bedenken, dass Chat GPT eher ein pragmatischer Ansatz ist, um ein Testscoring durchzuführen. Auch dies könnte in späterer Forschung noch überdacht werden. 
+\section{Anmerkungen}
+Zur Korrektur des Textes und zur Erstellung der Plots wurde (\cite{ChatGPT}) verwendet.
+
+\end{multicols}
+\newpage
+\section*{Appendix}
+\subsection*{Python Skript}
+\label{sec:PythonSkript}
+
+\begin{lstlisting}[language=Python]
+from transformers import AutoTokenizer, 
+AutoModelForTokenClassification, 
+T5ForConditionalGeneration, T5Tokenizer
+import torch
+
+# Load the model and tokenizer
+tokenizer = AutoTokenizer.from_pretrained
+('ml6team/keyphrase-generation-t5-small-inspec')
+model = AutoModelForTokenClassification.
+from_pretrained('ml6team/keyphrase-generation-t5-small-inspec')
+
+def extract_keywords(texts):
+    for text in texts:
+        keywords = []
+        # Tokenize the text
+        inputs = tokenizer(text, return_tensors="pt", 
+        truncation=True, max_length=512)
+        # Get the model's output
+        outputs = model(**inputs)
+        # Get the predictions
+        predictions = torch.argmax(outputs.logits, dim=-1)
+        # Extract the keywords
+        for i, token in enumerate(inputs["input_ids"][0]):
+            if predictions[0, i].item() == 1:
+                keywords.append(tokenizer.decode([token]))
+        print(', '.join(keywords))
+
+# Test the function
+texts=["Hier sind die Beschreibungen der Events."]
+extract_keywords(texts)
+\end{lstlisting}
+\newpage
+\subsection*{Keyword Extraktion: Beispiel}
+\label{sec:extraktion}
+Die originale Beschreibung finden Sie hier: \href{https://www.getyourguide.com/new-york-city-l59/washington-dc-day-trip-by-bus-from-new-york-t69848/}{https://www.getyourguide.com/new-york-city-l59/washington-dc-day-trip-by-bus-from-new-york-t69848/}. Die folgenden Ergebnisse haben die Modelle produziert:
+\begin{itemize}
+    \item \textbf{GPT 4.0}: Washington DC, day trip, New York City, American Revolution, Civil War, Lincoln Memorial, Vietnam Veterans Memorial, Arlington Cemetery, Capitol Hill, White House, photo opportunity, Jefferson, Iwo Jima Memorial, Union Station
+    \item \textbf{yanekyuk/bert-keyword-extractor(BKW)}(Score:0.65): Washington, New, American, Lincoln, Vietnam, Arlington, New, Washington, Capital, White, I, Vietnam, Arlington, time, Union
+    \item \textbf{ml6team/keyphrase-extraction-kbir-inspec(KEK)}(Score:0.80):  DC,  Revolution,  War,  Memorial,  Veterans,  Memorial,  Cemetery,  DC,  Hill,  House,  of,  Independence,  Cemetery,  War, ed, ys,  Station
+    \item \textbf{sentence-transformers/all-MiniLM-L6-v2(ALM)}(Score:0.90): discover, monuments, of, dc, on, day, trip, from, new, learn, about, dive, into, key, like, american, revolution, war, see, sights, like, lincoln, memorial, vietnam, memorial, arlington, cemetery, depart, new, travel, air, conditioned, bus, to, dc, relax, on, drive, head, to, hill, once, get, dc, where, meets, stop, hear, more, from, guide, about, workings, of, admire, memorials, to, jefferson, who, of, independence, lincoln, who, visit, i, \#\#wo, jim, \#\#a, and, vietnam, memorials, understand, these, events, country, visit, arlington, cemetery, over, 200, 000, soldiers, civil, war, kennedy, were, buried, finally, some, time, at, station
+    \item \textbf{ml6team/keyphrase-generation-t5-small-inspec(KGSI)}(Score:0.88): from, New, York, City, Learn, about, the, government, and, dive, into, key, historic, moments, like, the, American, Revolution, and, War, See, like, Memorial, ,, part, New, York, City, and, travel, spacious, air, conditioned, to, Relax, on, the, drive, and, head, to, once, you, get, to, to, find, out, where, congress, meets, Stop, outside, White, House, for, photo, opportunity, and, hear, more, from, guide, about, inner, working, of, the, building, e, to, ,, who, wrote, the, of, and, who, ended, Visit, w, o, Jim, to, understand, events, country, Visit, Cemetery, where, over, 200,000, since, the, War, s, were, buried, Finally, ,, time, at, Station, </s>
+\end{itemize}
+\newpage
+\subsection*{Ergebnisse}
+\label{sec:Ergebnisse}
+\begin{table}[]
+\caption{Tabelle der Ergebnisse.}
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+Model:    & \begin{tabular}[c]{@{}l@{}}yanekyuk/\\ bert-keyword-\\ extractor(BKW)\end{tabular} & \begin{tabular}[c]{@{}l@{}}ml6team/\\ keyphrase-\\ extraction-\\ kbir-inspec(KEK)\end{tabular} & \begin{tabular}[c]{@{}l@{}}sentence-\\ transformers\\ /all-MiniLM-L6-\\v2(AML)\end{tabular} & \begin{tabular}[c]{@{}l@{}}ml6team/\\ keyphrase-\\ generation-\\ t5-small-inspec\\(KGSI)\end{tabular} \\ \hline
+Score 1:  & 0.65                                                                          & 0.85                                                                                      & 0.8                                                                                  & 0.72                                                                                          \\ \hline
+Score 2:  & 0.7                                                                           & 0.75                                                                                      & 0.85                                                                                 & 0.88                                                                                          \\ \hline
+Score 3:  & 0.6                                                                           & 0.85                                                                                      & 0.88                                                                                 & 0.9                                                                                           \\ \hline
+Score 4:  & 0.65                                                                          & 0.8                                                                                       & 0.9                                                                                  & 0.88                                                                                          \\ \hline
+
+Score 5:  & 0.65                                                                          & 0.8                                                                                       & 0.9                                                                                  & 0.88                                                                                          \\ \hline
+Score 6:  & 0.25                                                                          & 0.35                                                                                      & 0.9                                                                                  & 0.95                                                                                          \\ \hline
+Score 7:  & 0.45                                                                          & 0.8                                                                                       & 0.86                                                                                 & 0.95                                                                                          \\ \hline
+Score 8:  & 0.35                                                                          & 0.6                                                                                       & 0.9                                                                                  & 0.95                                                                                          \\ \hline
+Score 9: & 0.45                                                                          & 0.8                                                                                       & 0.95                                                                                 & 0.9                                                                                           \\ \hline
+median:   & 0.6                                                                         & 0.8                                                                                       & 0.9                                                                                 & 0.9                                                                                           \\ \hline
+avg:      & 0.528                                                                         & 0.733                                                                                      & 0.88                                                                                & 0.89                                                                                         \\ \hline
+\end{tabular}
+\end{table}
+\newpage
+\subsection*{Plot der Ergebnisse}
+\label{sec:Plot}
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    title={Scatter Plot der Ergebnisse},
+    xlabel={Model},
+    ylabel={Score},
+    xmin=0, xmax=5,
+    ymin=0, ymax=1,
+    xtick={1,2,3,4},
+    xticklabels={BKW, KEK, AML, KGSI},
+    ytick={0,0.2,0.4,0.6,0.8,1},
+    legend pos=south east,
+    ymajorgrids=true,
+    grid style=dashed,
+    scatter/classes={
+        a={mark=square*,blue},
+        b={mark=triangle*,red},
+        c={mark=o,draw=black,fill=black},
+        d={mark=diamond*,green},
+        e={mark=triangle*,yellow},
+        f={mark=square*,yellow}
+    }
+]
+
+\addplot[scatter,only marks,scatter src=explicit symbolic]
+table[meta=label]{
+x y label
+1	0.65	a
+1	0.7	a
+1	0.6	a
+1	0.65	a
+1	0.65	a
+1	0.25	a
+1	0.45	a
+1	0.35	a
+1	0.45	a
+2	0.85	b
+2	0.75	b
+2	0.85	b
+2	0.8	b
+2	0.8	b
+2	0.35	b
+2	0.8	b
+2	0.6	b
+2	0.8	b
+3	0.8	c
+3	0.85	c
+3	0.88	c
+3	0.9	c
+3	0.9	c
+3	0.9	c
+3 0.86 c
+3	0.9	c
+3	0.95	c
+4	0.72	d
+4	0.88	d
+4	0.9	d
+4	0.88	d
+4	1	d
+4	0.88	d
+4	0.95	d
+4	0.95	d
+4	0.95	d
+4	0.9	d
+1 0.6 e
+2 0.8 e
+3 0.9 e
+4 0.9 e
+1 0.528 f
+2 0.73 f
+3 0.88 f
+4 0.89 f
+};
+\legend{BKW, KEK, AML, KGSI,mean,avg}
+
+\end{axis}
+\end{tikzpicture}
+\caption{Scatter Plot der Ergebnisse}
+\end{figure}
+
+\printbibliography
+
+
+\end{document}
+ChatGPT
+Your LaTeX document is already well-structured and includes a range of packages to enhance its functionality, such as for bibliographies, graphics, and multicolumn layout. Below are a few corrections and suggestions to improve it further, especially regarding LaTeX syntax and practices:
+
+Header Consistency:
+For fancyhdr, you use RO,LE which corresponds to right odd and left even pages. Ensure this is intentional and consistent with the rest of your layout preferences, especially if the document is single-sided (typical for academic papers), you might just use R or L.
+Bibliography Management:
+You use biblatex with biber backend, which is modern and robust for bibliography management. Make sure your .bib file is correctly formatted and contains all the references cited with @article, @book, etc.
+Hyphenation and Special Characters:
+When writing in German, LaTeX may sometimes struggle with hyphenation and special characters. Ensure you use packages like inputenc with \usepackage[utf8]{inputenc} (for older LaTeX distributions) or ensure your editor is set to UTF-8 encoding. This will help handle umlauts and special characters correctly.
+Language and Hyphenation:
+If you are writing in German, consider using \usepackage[ngerman]{babel} to adjust hyphenation rules and translate terms like "Table" to "Tabelle" automatically.
+Overfull \hbox Messages:
+You may encounter warnings about "Overfull \hbox" if text or formulas are too wide for the page layout. Consider revising sentences or changing wordings to fit within the margins or adjusting the geometry package settings.
+Footnotes in Section Titles:
+While technically possible, using footnotes in section titles or captions is generally discouraged because it can lead to issues with header formatting and numbering. Consider moving footnotes into the text immediately following the section title.
+Math Mode Consistency:
+Ensure that all mathematical symbols, especially subscripts and Greek letters in the context of your text, are correctly formatted using $...$ for inline math mode.
+Use of Hyperref:
+You've included hyperref for links. Make sure all links are necessary and functional, particularly when linking to external websites. Test each link to confirm it leads to the intended destination.
+Graphics and Plots:
+The use of pgfplots is correctly implemented. Ensure that all data points and legends are correctly aligned with your data analysis for clarity and accuracy in presentation.
+Code Listing:
+The lstlisting environment is used for code; ensure that language-specific highlighting (like for Python) is enabled, which you’ve done. Adjustments may be needed if the code wraps or doesn't display correctly.
+General Proofreading:
+Proofread for any LaTeX syntax errors or warnings in the log after compiling. It's essential to resolve these to ensure the document's integrity and formatting.
+Here's a minor LaTeX syntax improvement within your provided content:
+
+Instead of using \\ for new lines in section paragraphs, consider using \par for starting a new paragraph, which respects the document's paragraph indentation and spacing rules.
+
+Your document setup is robust, ensuring that these considerations are checked will enhance the final output's professionalism and readability.
+
+User
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{multicol}
+\usepackage{hyperref}
+\bibliographystyle{apalike}
+\usepackage{listings}
+\usepackage{tabularx}
+\usepackage{pgfplots}
+\pgfplotsset{width=10cm,compat=1.15}
+
+\usepackage[
+backend=biber,
+style=apa,
+]{biblatex}
+\addbibresource{ref.bib}
+\usepackage{fancyhdr}
+\usepackage[export]{adjustbox}
+\renewcommand{\baselinestretch}{1.25} 
+
+\title{%
+  Vergleich von verschiedenen Sprachmodellen zur Extraktion von Keywords in Eventbeschreibungen \\
+  \large Working paper}
+\author{Louis Huber\thanks{louisphilippe.huber@student.unisg.ch, 19-742-949}, Student MBI, Universtiät St.Gallen}
+\date{St.Gallen, April 2024}
+
+\begin{document}
+\pagestyle{fancy}
+\fancyhead{} % clear all header fields
+\fancyhead[RO,LE]{{\tiny Working Paper: Vergleich von verschiedenen Sprachmodellen zur Extraktion von Keywords in Eventbeschreibungen}}
+\maketitle
+\begin{abstract}
+    In dieser Arbeit werden vier beliebte \emph{Specialized Language Models} daran getestet, wie gut sie im Vergleich zu GPT 4.0 Keywords aus Beschreibungstext von Events extrahieren können. Es konnten grosse Unterschiede zwischen den Modellen unter sich festgestellt werden und GPT 4.0 liefert immer noch die besseren Ergebnisse. 
+\end{abstract}
+\begin{multicols}{2}
+
+\section{Einleitung}
+Für das Modul \emph{IC: From Data2Dollar - Dein Technologiekoffer von der Datenbeschaffung bis zur Visualisierung\footnote{\href{https://courses.unisg.ch/event/events/by-term/cdb7331b-2557-46b9-b5dd-4151d8bf0962/14492427}{Kurswebseite: https://courses.unisg.ch/event/events/by-term/cdb7331b-2557-46b9-b5dd-4151d8bf0962/14492427}}} führen wir eine Analyse von Eventangeboten verschiedener Internetplattformen durch. Unter anderem führen wir auch eine Analyse der Beschreibungen\footnote{Ein Beispiel wäre: \href{https://www.getyourguide.com/new-york-city-l59/liberty-harbor-helicopter-adventure-t15252/}{https://www.getyourguide.com/new-york-city-l59/liberty-harbor-helicopter-adventure-t15252/}, nach dem Zwischentitel "Full description"} der jeweiligen Angebote der Webseite durch. \\Da wir die wichtigsten Wörter/Termini aus den einzelnen Beschreibungen auslesen wollen, müssen diese zuerst aus den teil längeren Texten extrahiert werden. Aus diesem Grund suchen wir ein geeignetes Language Model, in diesem Kontext kommen grundsätzlich \emph{Large Language Models(LLMs)} und \emph{Specialized Language Models} in betracht. Letztere wurden auf einen spezifischen Use Case trainiert. \\
+In diesem Paper möchte ich als Teilschritt der Arbeit eine Evaluation verschiedener Language Modelle durchführen. Primär ist das Ziel, die Beantwortung der Frage, welches Language Modell am vollständigsten und präzisesten die semantisch relevanten Keywords  aus den en auslesen kann. \\Gleichzeitig ist dies ebenfalls eine allgemein intressante Arbeit für die Forschung an Language Models, da sie die Unterschiede von diesen Anhang eines sehr spezifischen Beispiels betrachtet.
+\section{Literatur}
+Eine Übersicht über die Entwicklung der LLMs finden wir bei (\cite{zhao2023survey}). LLMs werden definiert als Tranformer Language Models welche mit einer gewaltigen Menge an Daten trainiert wurden. Beispiele hierfür wären Meta's Llama 3 oder das bekannte GPT 4.0 von OpenAI. Sie sind in der Lage, komplexe Aufgabenstellungen zu lösen, in unseren Fall müssen sie Keywords aus Texten auslesen. \\
+Das Paper von (\cite{grangier2024specialized}) setzt sich mit den unterschieden von kleinen und grossen Languange Models auseinander und fokussiert sich dabei insbesondere auf die Trainingskosten und dessen Intensität. Bei einem kleinem Budget wird von den Autoren empfohlen, sich auf generisches Pretraining zu fokussieren.\\
+(\cite{ding2024mastering}) haben wiederum aufgezeigt durch ihr erstelltes Framework \emph{ULTRAFUSER} mithilfe eines qualitativ hochwertigem und spezialisiertem Datasest ein Modell zu kreieren, welches in den Bereichen Natural Language, Programmiercode und mathematischen Symbolen besonders gute Ergebnisse aufzeigten.  Daraus kann man schliessen, dass die Spezialisierung eines Modells dieses deutlich verbessern kann und entsprechend den generischen Modellen auch gegebenenfalls vorzuziehen ist.
+
+\section{Methodik}
+Für die Suche nach geeigneten Modellen wurde die Plattform hugginface\footnote{\href{http://huggingface.co/}{huggingface.co}} verwendet und nach den Begriffen "keyword extractor" und "keyphrase extractor" gesucht und die am meisten verwendeten ausgewählt, welche auch für englische Texte geeignet sind. Hierbei handelt es sich somit um \emph{Specialized Language Models}, die für diesen speziellen Gebrauch erstellt wurden, aber deutlich kleiner sind als LLMs. Als Beispiel dafür wurde das beliebte OpenAI's ChatGPT 4.0 verwendet. \\
+Am Ende wurden vier \emph{Specialized Language Models} ausgewählt: \textbf{yanekyuk/ bert-keyword-extractor(BKW)\footnote{\href{https://huggingface.co/yanekyuk/bert-keyword-extractor}{https://huggingface.co/yanekyuk/bert-keyword-extractor}}}, welches auf googles BERT\footnote{\href{https://huggingface.co/google-bert/bert-base-cased}{https://huggingface.co/google-bert/bert-base-cased}} basiert, welches anschliessend noch entsprechend "fine tuned" wurde.\\
+Als nächstes das Modell \textbf{ml6team/ keyphrase-extraction-kbir-inspec(KEK)\footnote{\href{https://huggingface.co/ml6team/keyphrase-extraction-kbir-inspec}{https://huggingface.co/ml6team/keyphrase-extraction-kbir-inspec}}} und basiert auf dem Keyphrase Boundary Infilling with Replacement (KBIR) Model\footnote{\href{https://huggingface.co/bloomberg/KBIR}{https://huggingface.co/bloomberg/KBIR}}, welches dann auf das Trainieren von Abstracts trainiert wurde. Die Ersteller empfehlen es auch ausschliesslich dafür zu verwenden, jedoch ist es gerade interessant, es für andere Texte zu verwenden. \\
+Das dritte Modell ist \textbf{sentence-transformers/ all-MiniLM-L6-v2(AML)\footnote{\href{https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2}{https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2}}} und basiert auf dem MiniLM Model\footnote{\href{https://huggingface.co/nreimers/MiniLM-L6-H384-uncased}{https://huggingface.co/nreimers/MiniLM-L6-H384-uncased}} und wurde für spezifisch für das Clustering und semantischer Suche trainiert.\\
+Das vierte und letzte Modell nennt sich \textbf{ml6team/keyphrase-generation-t5-small-inspec(KGSI)\footnote{\href{https://huggingface.co/ml6team/keyphrase-generation-t5-small-inspec}{https://huggingface.co/ml6team/keyphrase-generation-t5-small-inspec}}} und wurde ebenfalls mit Abstracts, analog zu KBIR, trainiert, basiert aber auf google's T5 small Model\footnote{\href{https://huggingface.co/google-t5/t5-small}{https://huggingface.co/google-t5/t5-small}}. \\
+Mithilfe des Github Copilot wurde ein Python Skript(\hyperref[sec:PythonSkript]{siehe Anhag}) erstellt, welches neun zufällig ausgewählte Eventbeschreibungen mit unterschiedlicher Länge mit dem jeweiligen Modells ausführte.\\
+Da ChatGPT 4.0 die besten Ergebnisse produziert hat\footnote{Dies wird im Diskussionteil noch erläutert}, werden dessen Ergebnisse als Benchmark verwendet. Ein eigens erstelltes GPT\footnote{\href{https://chat.openai.com/g/g-Lu88eIIxw-keyword-rater}{https://chat.openai.com/g/g-Lu88eIIxw-keyword-rater}}vergleicht nun die Liste der Ergebnisse der einzelnen Models mit den von ChatGPT anhand der semantischen Ähnlichkeit auf einer Skala von 0 bis 1.
+\section{Ergebnisse}
+Die Ergebnisse der einzelnen Modelle fielen sehr unterschiedlich aus. Ein Beispiel wird im Anhang (\hyperref[sec:extraktion]{Keyword Extraktion: Beispiel}) aufgezeigt. Die gesamten Ergebnisse sind als Tabelle im Anhang (\hyperref[sec:Ergebnisse]{Ergebnisse}) zu finden, sowie einen \hyperref[sec:Plot]{Plot der Ergebnisse}. \\
+Insgesamt hat sich gezeigt, dass AML und KGSI die besseren Ergebnisse geliefert haben. Sie haben jeweils deutlich mehr Keywords extrahieren können. Ein besonderer Beschreibungstext war die Nummer fünf, wo nur ein sehr kurzer Text untersucht wurde. Dort wurden von KEK gar keine Keywords extrahiert. Mit einem Durchschnitt von 0.89 kommt KGSI dem Ergebnis von GPT 4.0 gemäss dieser Überprüfung schon recht nahe. AML ist mit diesem Ergebnis fast gleichauf. Auffallend ist dabei, dass sowohl bei AML und bei KGSI deutlich mehr Keywords extrahiert wurden, was je nach Use Case nicht wünschenswert ist. Die Modelle generieren auch immer völlig unsinnige Keywords: Beispielsweise ein "St" ohne das folgende, entscheidende Wort auch mitzuextrahieren. Teilweise werden auch einfach Wörter getrennt: Statt "Roasted" (von Roasted Duck) extrahierte KEK "Ro" und "asted" getrennt. 
+\section{Diskussion}
+In dieser Arbeit wurden zuerst vier verschiedene Language Modelle ausgewählt und ihnen zufällige Eventbeschreibungen gegeben, welche sie analysieren sollten und die Keywords extrahieren sollten. Das Ergebnis hat gezeigt, dass die Specialized Language Models noch nicht auf den Stand der LLMs, in diesem Fall GPT 4.0, sind: Sie lassen Vieles weg oder extrahieren deutlich mehr Daten als nötig. Sie sind auch nicht zuverlässig, was die Qualität des Outputs betrifft: Teilweise extrahieren sie nur einzelne Buchstaben oder trennen Wörter. \\
+Auffallend ist, das obschon KEK und KGSI auf die Extraktion von Abstracts trainiert wurden, die Ergebnisse sich so deutlich unterscheiden. Naheliegend wäre es, dass das zugrundeliegende Modell in diesem Fall für diesen Case passender war.
+\\
+Für unsere weitere Arbeit an unserem Projekt würde ich deshalb KGSI oder AML nutzen, da dort die Ergebnisse am besten waren. Gleichzeitig sind nun auch die Schwächen und Limitationen bekannt.
+\\
+Meine These ist, dass GPT 4.0 durch das grössere Language Modell sowie die erhöhte Rechenkapazität qualitativ nicht durch solche deutlich kleineren und lokal ausgeführten Modelle zu schlagen ist. Eine spannende Idee wäre die Umsetzung von \emph{Specialized Large Language Models}: Diese würden auf Basis von grosser Datenmenge für spezifische Anforderungen trainiert werden und hätten das Potential, die nicht-spezialisierten Modelle zu schlagen. Dies wäre andererseits entsprechend aufwändiger und kostenintensiver.\\
+Weitere Forschung könnte auch in Zukunft untersuchen, wie sich verschiedene Modelle in bestimmten Use Cases verhalten und ob der Gap zu den LLMs grösser oder kleiner wird. Als Limitation in der Arbeit ist aufzuführen, dass Anzahl von Beschreibungstexten und Modellen noch erhöht werden könnte, was die Präzision erhöhen könnte. Bezüglich der Methodik ist weiterhin zu bedenken, dass Chat GPT eher ein pragmatischer Ansatz ist, um ein Testscoring durchzuführen. Auch dies könnte in späterer Forschung noch überdacht werden. 
+\section{Anmerkungen}
+Zur Korrektur des Textes und zur Erstellung der Plots wurde (\cite{ChatGPT}) verwendet.
+
+\end{multicols}
+\newpage
+\section*{Appendix}
+\subsection*{Python Skript}
+\label{sec:PythonSkript}
+
+\begin{lstlisting}[language=Python]
+from transformers import AutoTokenizer, 
+AutoModelForTokenClassification, 
+T5ForConditionalGeneration, T5Tokenizer
+import torch
+
+# Load the model and tokenizer
+tokenizer = AutoTokenizer.from_pretrained
+('ml6team/keyphrase-generation-t5-small-inspec')
+model = AutoModelForTokenClassification.
+from_pretrained('ml6team/keyphrase-generation-t5-small-inspec')
+
+def extract_keywords(texts):
+    for text in texts:
+        keywords = []
+        # Tokenize the text
+        inputs = tokenizer(text, return_tensors="pt", 
+        truncation=True, max_length=512)
+        # Get the model's output
+        outputs = model(**inputs)
+        # Get the predictions
+        predictions = torch.argmax(outputs.logits, dim=-1)
+        # Extract the keywords
+        for i, token in enumerate(inputs["input_ids"][0]):
+            if predictions[0, i].item() == 1:
+                keywords.append(tokenizer.decode([token]))
+        print(', '.join(keywords))
+
+# Test the function
+texts=["Hier sind die Beschreibungen der Events."]
+extract_keywords(texts)
+\end{lstlisting}
+\newpage
+\subsection*{Keyword Extraktion: Beispiel}
+\label{sec:extraktion}
+Die originale Beschreibung finden Sie hier: \href{https://www.getyourguide.com/new-york-city-l59/washington-dc-day-trip-by-bus-from-new-york-t69848/}{https://www.getyourguide.com/new-york-city-l59/washington-dc-day-trip-by-bus-from-new-york-t69848/}. Die folgenden Ergebnisse haben die Modelle produziert:
+\begin{itemize}
+    \item \textbf{GPT 4.0}: Washington DC, day trip, New York City, American Revolution, Civil War, Lincoln Memorial, Vietnam Veterans Memorial, Arlington Cemetery, Capitol Hill, White House, photo opportunity, Jefferson, Iwo Jima Memorial, Union Station
+    \item \textbf{yanekyuk/bert-keyword-extractor(BKW)}(Score:0.65): Washington, New, American, Lincoln, Vietnam, Arlington, New, Washington, Capital, White, I, Vietnam, Arlington, time, Union
+    \item \textbf{ml6team/keyphrase-extraction-kbir-inspec(KEK)}(Score:0.80):  DC,  Revolution,  War,  Memorial,  Veterans,  Memorial,  Cemetery,  DC,  Hill,  House,  of,  Independence,  Cemetery,  War, ed, ys,  Station
+    \item \textbf{sentence-transformers/all-MiniLM-L6-v2(ALM)}(Score:0.90): discover, monuments, of, dc, on, day, trip, from, new, learn, about, dive, into, key, like, american, revolution, war, see, sights, like, lincoln, memorial, vietnam, memorial, arlington, cemetery, depart, new, travel, air, conditioned, bus, to, dc, relax, on, drive, head, to, hill, once, get, dc, where, meets, stop, hear, more, from, guide, about, workings, of, admire, memorials, to, jefferson, who, of, independence, lincoln, who, visit, i, \#\#wo, jim, \#\#a, and, vietnam, memorials, understand, these, events, country, visit, arlington, cemetery, over, 200, 000, soldiers, civil, war, kennedy, were, buried, finally, some, time, at, station
+    \item \textbf{ml6team/keyphrase-generation-t5-small-inspec(KGSI)}(Score:0.88): from, New, York, City, Learn, about, the, government, and, dive, into, key, historic, moments, like, the, American, Revolution, and, War, See, like, Memorial, ,, part, New, York, City, and, travel, spacious, air, conditioned, to, Relax, on, the, drive, and, head, to, once, you, get, to, to, find, out, where, congress, meets, Stop, outside, White, House, for, photo, opportunity, and, hear, more, from, guide, about, inner, working, of, the, building, e, to, ,, who, wrote, the, of, and, who, ended, Visit, w, o, Jim, to, understand, events, country, Visit, Cemetery, where, over, 200,000, since, the, War, s, were, buried, Finally, ,, time, at, Station, </s>
+\end{itemize}
+\newpage
+\subsection*{Ergebnisse}
+\label{sec:Ergebnisse}
+\begin{table}[]
+\caption{Tabelle der Ergebnisse.}
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+Model:    & \begin{tabular}[c]{@{}l@{}}yanekyuk/\\ bert-keyword-\\ extractor(BKW)\end{tabular} & \begin{tabular}[c]{@{}l@{}}ml6team/\\ keyphrase-\\ extraction-\\ kbir-inspec(KEK)\end{tabular} & \begin{tabular}[c]{@{}l@{}}sentence-\\ transformers\\ /all-MiniLM-L6-\\v2(AML)\end{tabular} & \begin{tabular}[c]{@{}l@{}}ml6team/\\ keyphrase-\\ generation-\\ t5-small-inspec\\(KGSI)\end{tabular} \\ \hline
+Score 1:  & 0.65                                                                          & 0.85                                                                                      & 0.8                                                                                  & 0.72                                                                                          \\ \hline
+Score 2:  & 0.7                                                                           & 0.75                                                                                      & 0.85                                                                                 & 0.88                                                                                          \\ \hline
+Score 3:  & 0.6                                                                           & 0.85                                                                                      & 0.88                                                                                 & 0.9                                                                                           \\ \hline
+Score 4:  & 0.65                                                                          & 0.8                                                                                       & 0.9                                                                                  & 0.88                                                                                          \\ \hline
+
+Score 5:  & 0.65                                                                          & 0.8                                                                                       & 0.9                                                                                  & 0.88                                                                                          \\ \hline
+Score 6:  & 0.25                                                                          & 0.35                                                                                      & 0.9                                                                                  & 0.95                                                                                          \\ \hline
+Score 7:  & 0.45                                                                          & 0.8                                                                                       & 0.86                                                                                 & 0.95                                                                                          \\ \hline
+Score 8:  & 0.35                                                                          & 0.6                                                                                       & 0.9                                                                                  & 0.95                                                                                          \\ \hline
+Score 9: & 0.45                                                                          & 0.8                                                                                       & 0.95                                                                                 & 0.9                                                                                           \\ \hline
+median:   & 0.6                                                                         & 0.8                                                                                       & 0.9                                                                                 & 0.9                                                                                           \\ \hline
+avg:      & 0.528                                                                         & 0.733                                                                                      & 0.88                                                                                & 0.89                                                                                         \\ \hline
+\end{tabular}
+\end{table}
+\newpage
+\subsection*{Plot der Ergebnisse}
+\label{sec:Plot}
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    title={Scatter Plot der Ergebnisse},
+    xlabel={Model},
+    ylabel={Score},
+    xmin=0, xmax=5,
+    ymin=0, ymax=1,
+    xtick={1,2,3,4},
+    xticklabels={BKW, KEK, AML, KGSI},
+    ytick={0,0.2,0.4,0.6,0.8,1},
+    legend pos=south east,
+    ymajorgrids=true,
+    grid style=dashed,
+    scatter/classes={
+        a={mark=square*,blue},
+        b={mark=triangle*,red},
+        c={mark=o,draw=black,fill=black},
+        d={mark=diamond*,green},
+        e={mark=triangle*,yellow},
+        f={mark=square*,yellow}
+    }
+]
+
+\addplot[scatter,only marks,scatter src=explicit symbolic]
+table[meta=label]{
+x y label
+1	0.65	a
+1	0.7	a
+1	0.6	a
+1	0.65	a
+1	0.65	a
+1	0.25	a
+1	0.45	a
+1	0.35	a
+1	0.45	a
+2	0.85	b
+2	0.75	b
+2	0.85	b
+2	0.8	b
+2	0.8	b
+2	0.35	b
+2	0.8	b
+2	0.6	b
+2	0.8	b
+3	0.8	c
+3	0.85	c
+3	0.88	c
+3	0.9	c
+3	0.9	c
+3	0.9	c
+3 0.86 c
+3	0.9	c
+3	0.95	c
+4	0.72	d
+4	0.88	d
+4	0.9	d
+4	0.88	d
+4	1	d
+4	0.88	d
+4	0.95	d
+4	0.95	d
+4	0.95	d
+4	0.9	d
+1 0.6 e
+2 0.8 e
+3 0.9 e
+4 0.9 e
+1 0.528 f
+2 0.73 f
+3 0.88 f
+4 0.89 f
+};
+\legend{BKW, KEK, AML, KGSI,mean,avg}
+
+\end{axis}
+\end{tikzpicture}
+\caption{Scatter Plot der Ergebnisse}
+\end{figure}
+
+\printbibliography
+
+
+\end{document}
+
+
+überprüfe die Rechtschreibung
+ChatGPT
+Ihr LaTeX-Dokument ist größtenteils korrekt und klar formatiert, jedoch gibt es einige kleinere Rechtschreibfehler und Tippfehler, die korrigiert werden sollten. Hier sind die Korrekturen, die ich empfehle:
+
+Universität St.Gallen:
+Falsche Schreibweise in der Autorzeile: "Universtiät" sollte zu "Universität" korrigiert werden.
+Großschreibung:
+Im Deutschen werden Substantive großgeschrieben. Überprüfen Sie den Text auf Konsistenz in der Groß- und Kleinschreibung. Zum Beispiel in der Überschrift "Vergleich von verschiedenen Sprachmodellen zur Extraktion von Keywords in Eventbeschreibungen", wo "Keywords" korrekt großgeschrieben ist, aber auch andere Begriffe wie "Sprachmodellen" und "Eventbeschreibungen" als Nomen großgeschrieben werden sollten, wenn sie isoliert auftreten.
+Grammatikalische Feinheiten:
+„Für das Modul \emph{IC: From Data2Dollar - Dein Technologiekoffer von der Datenbeschaffung bis zur Visualisierung} führen wir eine Analyse von Eventangeboten verschiedener Internetplattformen durch.“ – Es gibt hier keine offensichtlichen Rechtschreibfehler, aber die Formulierung könnte flüssiger gestaltet werden.
+Sprachliche Präzision:
+„Hierbei handelt es sich somit um \emph{Specialized Language Models}, die für diesen speziellen Gebrauch erstellt wurden, aber deutlich kleiner sind als LLMs.“ – Dieser Satz ist grammatikalisch korrekt, doch das Wort "somit" könnte entfernt werden für eine straffere Sprache.
+Spezifische Ausdrücke und Fachbegriffe:
+Überprüfen Sie fachspezifische Termini auf korrekte Schreibweise, wie "Transformer Language Models", "programmiercode" und "mathematischen Symbolen". Stellen Sie sicher, dass diese konsistent und korrekt verwendet werden.
+Konsistenz bei Eigennamen und Technologien:
+Achten Sie auf die konsistente Schreibweise von Technologienamen und Modellen. Zum Beispiel "Google’s BERT" sollte immer gleich geschrieben werden (entweder "Google’s" oder "Googles", je nachdem, ob ein Genitiv-Apostroph im Deutschen verwendet wird oder nicht).
+Fußnoten und Hyperlinks:
+Stellen Sie sicher, dass alle Hyperlinks korrekt und vollständig sind. Zum Beispiel in Fußnoten, wo URLs angegeben werden, sollten diese überprüft werden, um sicherzustellen, dass sie vollständig und korrekt sind.
+Diese Änderungen verbessern die Lesbarkeit und formale Korrektheit Ihres Dokuments. Generell ist Ihr Text gut geschrieben, und diese kleinen Anpassungen tragen dazu bei, die Professionalität weiter zu erhöhen.
