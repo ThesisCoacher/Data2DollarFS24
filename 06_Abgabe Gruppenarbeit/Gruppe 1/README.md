@@ -6,7 +6,7 @@ Enthält das working paper für die Auswahl des Language Models.<br />
 Enthält nicht mehr gebrauchte Daten. Zur Vollständigkeit belassen wir sie.<br />
 ## data<br />
 Enthält unsere Daten und die Zwischenschritte zur Erlangung der Daten.<br />
-final_all_data_cleaned_with_categories_with_quartiles.csv ist der finale Datensatz.<br />
+final_all_data_cleaned_with_categories_with_quartiles.csv ist der finale Datensatz. Ist im Ordner "Gruppe 1".<br />
 ## keywordextractors<br />
 Die Pythonskripts, welche aus den Datensätzen mithilfe des Language Models die jeweiligen Keywords extrahiert.<br />
 ## linkextractors<br />
