@@ -1,0 +1,1246 @@
+Name,Country,Year,Price,Rating,Rating Counter,Tastes
+Puglia IGT Primitivo Massaro Giordano,Italien,2022,16.50,4.2,6209,"['65.3956%', '20.9643%', '55.8631%', '12.1129%']"
+Amarone della Valpolicella DOCG Rocca Alata,Italien,2020,14.95,4.0,26875,"['85%', '22.7776%', '48.5099%', '23.2829%']"
+Toscana IGT Rosso Villa Antinori,Italien,2021,12.95,3.8,123255,"['47.7876%', '40.2676%', '10.0666%', '49.0752%']"
+Primitivo di Manduria DOC Collection Giordano,Italien,2022,13.95,3.8,11426,"['65.8689%', '23.6765%', '41.9515%', '15.3833%']"
+Ripasso della Valpolicella DOC Rocca Alata 6x 75cl,Italien,2020,41.70,4.0,26875,"['85%', '22.7776%', '48.5099%', '23.2829%']"
+Douro DOC Fabelhaft Niepoort,Portugal,2021,10.80,3.7,18853,"['79.2556%', '53.4931%', '9.54613%', '44.9907%']"
+Malbec Reserva Mendoza Argentina Alvaro,Argentinien,2022,9.90,3.6,211,"['57.4659%', '34.892%', '26.108%', '37.5549%']"
+Antonini Monte Chiara Montepulciano d'Abruzzo DOC,Italien,2022,3.75,3.3,2059,"['36.1836%', '44.3312%', '0px', '61.1158%']"
+Chianti Classico DOCG Riserva Rocca Guicciarda,Italien,2020,19.50,3.8,21095,None
+Valais AOC Pinot Noir Fleur du Rhône,Schweiz,2022,10.95,3.3,1694,"['11.8461%', '25.5977%', '8.80386%', '67.2463%']"
+Pays d'Oc IGP La Cuvée Mythique,Frankreich,2021,13.50,3.5,520,"['60.807%', '61.0322%', '4.659%', '63.3989%']"
+Ripasso della Valpolicella Superiore DOC Palazzo Maffei,Italien,2020,16.50,3.9,7339,"['65.3152%', '36.7018%', '31.1362%', '24.6443%']"
+Rioja DOCa Reserva Cune,Spanien,2019,17.95,3.8,38488,"['62.6304%', '59.946%', '7.86912%', '59.5939%']"
+Primitivo del Salento IGT San Marciano Bag in Box,Italien,,12.95,3.7,591,"['58.3174%', '19.4919%', '36.2593%', '17.936%']"
+Shiraz/Cabernet Sauvignon Australia Koonunga Hill Penfolds,Australien,2020,15.95,3.7,55278,"['85%', '48.1416%', '10.0252%', '44.7091%']"
+"Pays d'Oc IGP Syrah, bag-in-box",Frankreich,,9.95,3.8,308,None
+Schaffhausen AOC Blauburgunder Hallauer Weinkeller zum Stauffacher 6x 75cl,Schweiz,2022,41.70,3.5,711,"['0px', '17.5846%', '18.8037%', '56.1499%']"
+Rioja DOCa Crianza Cune,Spanien,2020,7.95,3.6,76741,"['56.5534%', '55.6689%', '9.40905%', '58.858%']"
+Rioja DOCa Las Flores,Spanien,2021,8.95,3.6,2114,"['58.5512%', '57.0632%', '15.1756%', '64.2845%']"
+Vino Rosso d’Italia Edizione Cinque Autoctoni Fantini Farnese,Italien,2020,29.50,4.3,438,"['70.8831%', '36.2698%', '23.6308%', '52.1073%']"
+Amarone della Valpolicella DOCG Vigne Alte Zeni,Italien,2021,16.95,4.2,5195,"['82.6965%', '26.0679%', '47.5185%', '24.4123%']"
+Graubünden AOC Maienfelder Pinot Noir Steinbock,Schweiz,2022,9.45,3.8,1328,"['5.86303%', '17.2382%', '20.8731%', '63.4311%']"
+Three Graces Barossa Valley Australia Château Tanunda,Australien,2021,7.45,3.8,96,"['80%', '55%', '5%', '42.5%']"
+Primitivo di Manduria DOP Moi Varvaglione,Italien,2021,8.35,3.7,4145,"['61.8327%', '27.3203%', '37.6858%', '19.1492%']"
+Veneto IGT Merlot Fontanera,Italien,,2.95,2.8,370,"['37.3374%', '40.8633%', '9.67638%', '34.1011%']"
+Douro DOC Reserva Quinta dos Quatro Ventos,Portugal,2019,16.95,4.2,1265,"['81.3629%', '52.4971%', '14.2174%', '45.1828%']"
+Primitivo del Salento IGT Dell'Arca Antonini 6x 75cl,Italien,2021,22.50,3.3,2804,"['60.6744%', '30.3571%', '36.4683%', '26.7461%']"
+Ripasso della Valpolicella DOC Superiore Vigne Alte Zeni,Italien,2021,14.95,3.8,5330,"['62.9127%', '36.8718%', '32.2367%', '26.3023%']"
+Barbera d'Asti Superiore La Luna e i Falo DOCG,Italien,2021,14.95,3.9,12500,None
+Vaud AOC Assemblage Rouge L'As de Coeur Cave de Jolimont,Schweiz,2022,9.75,3.5,1419,None
+Gigondas AOP Château Saint-André,Frankreich,2022,11.95,3.8,4057,"['80.3873%', '38.5045%', '7.8588%', '44.3695%']"
+Naturaplan Bio Valais AOC Nez Noir Les Domaines Rouvinez,Schweiz,2022,14.95,3.9,1820,None
+Châteauneuf-du-Pape AOP Château Saint-André,Frankreich,2022,22.95,3.8,4057,"['80.3873%', '38.5045%', '7.8588%', '44.3695%']"
+Vino Nobile di Montepulciano DOCG Tenuta Trerose,Italien,2020,16.95,3.7,6851,"['54.2639%', '57.8856%', '8.63293%', '60.3615%']"
+Primitivo del Salento IGT Vecchia Torre,Italien,2020,7.95,3.7,10087,"['62.9592%', '21.9642%', '40.8022%', '15.7737%']"
+Ribera del Duero DO Tinto Fino Roble Legaris,Spanien,2021,19.10,3.4,143,"['63.6291%', '50.7997%', '0px', '61.8609%']"
+Santa Ana Malbec Mendoza Reserve,Argentinien,2021,9.95,3.2,89,"['67.5%', '42.5%', '36.25%', '55%']"
+Naturaplan Bio Alentejo DOC Colheita Marqués de Borba João Portugal Ramos,Portugal,2021,9.95,3.8,11571,"['58.4377%', '45.9334%', '17.1743%', '41.9552%']"
+Cabernet Sauvignon California Robert Mondavi Private Selection,USA,2021,18.95,3.7,61063,None
+Chianti Classico DOCG Riserva Ducale Ruffino,Italien,2020,19.95,3.9,59263,"['45.4545%', '54.768%', '2.65523%', '64.2123%']"
+Naturaplan Bio-Corbières AOC Grand Vin du Château Pech-Latt,Frankreich,2022,14.95,3.3,64,"['42.5%', '0px', '55.6964%']"
+Südtirol DOC Lagrein Alto Adige Collection KG Gries Baron Eyrl,Italien,2022,15.50,3.9,3013,"['60.4402%', '40.6391%', '15.8141%', '29.4184%']"
+Rioja DOCa Gran Reserva Faustino I,Spanien,2011,16.75,4.1,92276,"['61.9755%', '58.0482%', '8.25259%', '59.6464%']"
+Viña Sutil Reserva Cabernet Sauvignon Carmenère Colchagua Valley,Chile,2019,2.95,3.6,76,"['77.25%', '56.75%', '3.25%', '46.375%']"
+Zürich AOC Blauburgunder Staatsschreiber Staatskellerei Zürich,Schweiz,2022,12.35,3.9,3433,"['3.13887%', '18.2008%', '16.7693%', '64.1058%']"
+Malbec Puro Mendoza Dieter Meier,Argentinien,2021,19.95,3.9,8730,None
+Puglia IGT Primitivo Negroamaro Elettra Giordano,Italien,2022,11.70,4.3,2268,"['73.2888%', '37.2525%', '51.6478%', '31.029%']"
+Terre Siciliane IGT Nero d'Avola Bromeus,Italien,2022,9.50,3.8,6021,"['79.2048%', '38.8506%', '36.0907%', '25.4391%']"
+Ticino DOC Merlot Selezione d'Ottobre Matasci,Schweiz,2021,15.50,3.5,3615,"['53.7267%', '38.4706%', '8.14993%', '47.2032%']"
+Cannonau di Sardegna DOC Costera Argiolas,Italien,2021,15.95,3.8,19449,"['66.8312%', '40.6196%', '8.57487%', '44.4077%']"
+Vino Rosso d'Italia Tavernello,Italien,,2.95,3.2,6401,"['36.1219%', '32.6645%', '23.0792%', '43.0563%']"
+Malbec Mendoza Argentina La Mascota 6x 75cl,Argentinien,2021,53.70,3.9,29690,"['63.9202%', '31.4716%', '20.9055%', '37.0037%']"
+Chianti DOCG Rufina Riserva Frescobaldi Castello di Nipozzano,Italien,2020,19.95,3.8,66721,"['46.3218%', '57.192%', '4.37626%', '64.0216%']"
+Naturaplan Bio Côtes du Rhône AOP Terra Amata,Frankreich,2022,7.95,3.4,1299,"['60.4723%', '49.1336%', '14.9678%', '52.8851%']"
+Rioja DOCa Reserva Montes de Ciria 6x 75cl,Spanien,2019,38.70,3.7,611,"['57.47%', '62.7262%', '4.13379%', '58.8379%']"
+Toscana IGT Lucente Frescobaldi,Italien,2021,19.50,3.6,44184,"['42.1008%', '38.5194%', '5.18006%', '45.0895%']"
+Rioja DOCa Reserva Marqués de Riscal,Spanien,2019,20.95,4.1,227142,"['63.8968%', '59.2479%', '9.35047%', '59.4018%']"
+Vaud AOC Assemblage Rouge L'As de Coeur Cave de Jolimont,Schweiz,2022,9.75,3.5,1419,None
+Gigondas AOP Château Saint-André,Frankreich,2022,11.95,3.8,4057,"['80.3873%', '38.5045%', '7.8588%', '44.3695%']"
+Naturaplan Bio Valais AOC Nez Noir Les Domaines Rouvinez,Schweiz,2022,14.95,3.9,1820,None
+Châteauneuf-du-Pape AOP Château Saint-André,Frankreich,2022,22.95,3.8,4057,"['80.3873%', '38.5045%', '7.8588%', '44.3695%']"
+Vino Nobile di Montepulciano DOCG Tenuta Trerose,Italien,2020,16.95,3.7,6851,"['54.2639%', '57.8856%', '8.63293%', '60.3615%']"
+Primitivo del Salento IGT Vecchia Torre,Italien,2020,7.95,3.7,10087,"['62.9592%', '21.9642%', '40.8022%', '15.7737%']"
+Ribera del Duero DO Tinto Fino Roble Legaris,Spanien,2021,19.10,3.4,143,"['63.6291%', '50.7997%', '0px', '61.8609%']"
+Santa Ana Malbec Mendoza Reserve,Argentinien,2021,9.95,3.2,89,"['67.5%', '42.5%', '36.25%', '55%']"
+Naturaplan Bio Alentejo DOC Colheita Marqués de Borba João Portugal Ramos,Portugal,2021,9.95,3.8,11571,"['58.4377%', '45.9334%', '17.1743%', '41.9552%']"
+Cabernet Sauvignon California Robert Mondavi Private Selection,USA,2021,18.95,3.7,61063,None
+Chianti Classico DOCG Riserva Ducale Ruffino,Italien,2020,19.95,3.9,59263,"['45.4545%', '54.768%', '2.65523%', '64.2123%']"
+Naturaplan Bio-Corbières AOC Grand Vin du Château Pech-Latt,Frankreich,2022,14.95,3.3,64,"['42.5%', '0px', '55.6964%']"
+Südtirol DOC Lagrein Alto Adige Collection KG Gries Baron Eyrl,Italien,2022,15.50,3.9,3013,"['60.4402%', '40.6391%', '15.8141%', '29.4184%']"
+Rioja DOCa Gran Reserva Faustino I,Spanien,2011,16.75,4.1,92276,"['61.9755%', '58.0482%', '8.25259%', '59.6464%']"
+Viña Sutil Reserva Cabernet Sauvignon Carmenère Colchagua Valley,Chile,2019,2.95,3.6,76,"['77.25%', '56.75%', '3.25%', '46.375%']"
+Zürich AOC Blauburgunder Staatsschreiber Staatskellerei Zürich,Schweiz,2022,12.35,3.9,3433,"['3.13887%', '18.2008%', '16.7693%', '64.1058%']"
+Malbec Puro Mendoza Dieter Meier,Argentinien,2021,19.95,3.9,8730,None
+Puglia IGT Primitivo Negroamaro Elettra Giordano,Italien,2022,11.70,4.3,2268,"['73.2888%', '37.2525%', '51.6478%', '31.029%']"
+Terre Siciliane IGT Nero d'Avola Bromeus,Italien,2022,9.50,3.8,6021,"['79.2048%', '38.8506%', '36.0907%', '25.4391%']"
+Ticino DOC Merlot Selezione d'Ottobre Matasci,Schweiz,2021,15.50,3.5,3615,"['53.7267%', '38.4706%', '8.14993%', '47.2032%']"
+Cannonau di Sardegna DOC Costera Argiolas,Italien,2021,15.95,3.8,19449,"['66.8312%', '40.6196%', '8.57487%', '44.4077%']"
+Vino Rosso d'Italia Tavernello,Italien,,2.95,3.2,6401,"['36.1219%', '32.6645%', '23.0792%', '43.0563%']"
+Malbec Mendoza Argentina La Mascota 6x 75cl,Argentinien,2021,53.70,3.9,29690,"['63.9202%', '31.4716%', '20.9055%', '37.0037%']"
+Chianti DOCG Rufina Riserva Frescobaldi Castello di Nipozzano,Italien,2020,19.95,3.8,66721,"['46.3218%', '57.192%', '4.37626%', '64.0216%']"
+Naturaplan Bio Côtes du Rhône AOP Terra Amata,Frankreich,2022,7.95,3.4,1299,"['60.4723%', '49.1336%', '14.9678%', '52.8851%']"
+Rioja DOCa Reserva Montes de Ciria 6x 75cl,Spanien,2019,38.70,3.7,611,"['57.47%', '62.7262%', '4.13379%', '58.8379%']"
+Toscana IGT Lucente Frescobaldi,Italien,2021,19.50,3.6,44184,"['42.1008%', '38.5194%', '5.18006%', '45.0895%']"
+Rioja DOCa Reserva Marqués de Riscal,Spanien,2019,20.95,4.1,227151,"['63.8968%', '59.2479%', '9.3505%', '59.4017%']"
+Primitivo Salento IGT Emporio Antonini 6x75cl,Italien,,79.00,3.9,1413,"['57.5244%', '18.4486%', '47.0234%', '17.5468%']"
+Ripasso della Valpolicella Superiore DOC Bosan Cesari,Italien,2019,18.95,4.0,9811,None
+Rioja Reserva DOCa Campo Viejo,Spanien,2017,15.95,3.8,80013,"['63.5443%', '59.8607%', '6.07064%', '61.5352%']"
+Salice Salentino DOP Rosso Vecchia Torre,Italien,2019,8.95,3.7,5839,"['76.8326%', '40.7002%', '32.5704%', '28.2876%']"
+Toscana IGT Santa Cristina Antinori,Italien,2022,9.95,3.6,66605,"['44.334%', '38.0874%', '8.58064%', '44.919%']"
+Valais AOC Dôle de Salquenen Les Dailles 6x 75cl,Schweiz,2022,49.80,3.4,1997,"['12.5218%', '20.739%', '5.98163%', '73.4153%']"
+Rioja DOCa Reserva Las Flores,Spanien,2019,11.95,3.6,2114,"['58.5512%', '57.0632%', '15.1756%', '64.2845%']"
+Ticino DOC Merlot Roccolo,Schweiz,2020,7.95,3.5,1001,"['54.6854%', '38.7837%', '10.3125%', '47.3956%']"
+Naturaplan Bio-Corbières AOP Prestige Château de Caraguilhes,Frankreich,2022,8.95,3.8,2014,"['62.4294%', '54.9714%', '6.46043%', '60.4294%']"
+Toscana IGT Insoglio del Cinghiale Tenuta di Biserno,Italien,2022,23.95,4.0,28456,None
+Rioja DOCa Reserva Mayor de Ondarre,Spanien,2018,19.95,3.9,4575,"['63.0523%', '61.6734%', '2.21818%', '61.7276%']"
+Legaris Crianza Ribera del Duero DO,Spanien,2020,19.10,3.8,15456,"['66.2306%', '57.0645%', '12.8319%', '61.3341%']"
+Amarone della Valpolicella DOCG classico Zeni,Italien,2021,24.95,4.2,15610,None
+Mendoza Argentina Gran Reserva Bodega Septima,Argentinien,2021,21.50,4.1,36017,None
+Douro DOC Quatro Ventos,Portugal,2021,6.95,3.8,11491,"['75.3702%', '54.4339%', '13.2694%', '42.4756%']"
+Naturaplan Bio-Corbières Boutenac AOP Solus Château de Caraguilhes,Frankreich,2021,21.50,4.0,1818,"['67.3056%', '54.1928%', '20.5565%', '60.4398%']"
+Valais AOC Humagne Rouge Terrasses du Rhône Bibacchus,Schweiz,2021,12.70,3.4,660,None
+Primitivo di Manduria DOP 60 anni Sessantanni Feudi di San Marzano,Italien,2018,19.95,4.5,102252,None
+Red Blend Mendoza Argentina Loco Selection Dieter Meier,Argentinien,2021,9.95,3.8,1234,"['71.6042%', '52.375%', '11.2354%', '43.1333%']"
+Valdepeñas DO Tempranillo Pata Negra Oro 6x 75cl,Spanien,2021,19.80,3.6,53003,"['61.1316%', '50.0945%', '12.6278%', '38.1012%']"
+Barbera d'Alba DOC Superiore Tenuta Cappallotto,Italien,2021,13.50,3.5,1014,"['52.9212%', '24.9485%', '14.0101%', '63.6937%']"
+Valais AOC Syrah Jean-René Germanier,Schweiz,2022,19.95,3.8,3061,"['64.5458%', '58.5149%', '8.73389%', '55.6124%']"
+Valais AOC Syrah Bibacchus,Schweiz,2022,14.95,3.4,1071,"['49.2275%', '51.0179%', '19.123%', '49.6345%']"
+Primitivo del Salento IGP Barocco Reale Vecchia Torre,Italien,2017,17.95,4.1,6085,"['69.3402%', '26.1586%', '41.8424%', '16.0942%']"
+"Pays d’Oc IGP Cabernet Sauvignon/Syrah J.P. Chenet, bag-in-box",Frankreich,,18.95,3.4,52092,"['55.081%', '49.9827%', '12.7035%', '55.3846%']"
+Chianti Riserva DOCG Orlano,Italien,2019,11.50,3.6,350,"['41.9116%', '64.7541%', '0px', '68.8729%']"
+Naturaplan Bio-Ribera del Duero DO Crianza Carmiña,Spanien,2019,11.20,3.9,492,"['56.183%', '61.6518%', '12.2674%', '54.4373%']"
+Naturaplan Bio-Montepulciano d'Abruzzo DOC Jasci 6x 75cl,Italien,2020,39.90,3.3,64,"['42.5%', '0px', '55.6964%']"
+Naturaplan Bio Siciliane Nero d'Avola Ophelia,Italien,2022,7.95,3.8,3215,"['71.7792%', '39.173%', '28.0086%', '33.6736%']"
+Veneto IGT Fontanera Merlot,Italien,,2.10,2.8,370,"['37.3374%', '40.8633%', '9.67638%', '34.1011%']"
+Pays d’Oc IGP Cabernet Sauvignon/Syrah J.P. Chenet,Frankreich,2022,6.95,3.4,52092,"['55.081%', '49.9827%', '12.7035%', '55.3846%']"
+Ribera del Duero DO Reserva Legaris,Spanien,2019,27.70,4.0,4277,"['68.7845%', '59.3776%', '16.7589%', '59.6315%']"
+Rioja DOCa Crianza Viña Real,Spanien,2019,8.95,3.6,16938,"['57.7312%', '58.6894%', '9.88322%', '60.6293%']"
+Rioja DOCa Reserva Imperial Cune,Spanien,2018,37.50,3.8,38488,"['62.6304%', '59.946%', '7.86912%', '59.5939%']"
+Primitivo di Manduria DOP Monte Sasso,Italien,2021,5.95,3.9,704,"['66.1114%', '37.7632%', '39.7118%', '33.3754%']"
+Cabernet Sauvignon California Beringer Classics,USA,2021,9.95,3.6,826,"['85%', '57.987%', '18.5083%', '39.9455%']"
+Château de Laussac Castillon Côtes de Bordeaux AOC,Frankreich,2019,22.95,3.8,1519,"['63.8156%', '59.9795%', '9.36066%', '62.7721%']"
+Suisse VDP la Porte de Novembre Maison Gilliard,Schweiz,,19.95,4.1,1232,None
+Valais AOC Pinot Noir Salquenen,Schweiz,2022,9.95,3.4,1997,"['12.5218%', '20.739%', '5.98163%', '73.4153%']"
+Terre Siciliane IGP Tripudium Cantine Pellegrino,Italien,2021,11.70,3.7,2126,"['77.811%', '41.9123%', '26.0062%', '35.2102%']"
+Aigle Les Murailles Rouge Pinot Noir Chablais AOC H. Badoux,Schweiz,2022,22.50,3.7,1835,"['12.6305%', '24.8305%', '9.30035%', '65.0276%']"
+Naturaplan Bio AOP Châteauneuf-du-Pape Terra Amata,Frankreich,2022,24.95,3.8,937,"['78.5048%', '45.4183%', '13.4145%', '52.2222%']"
+J.P. Chenet Cabernet-Syrah Vin de Pays d'Oc,Frankreich,2022,2.95,3.4,52092,"['55.081%', '49.9827%', '12.7035%', '55.3846%']"
+Médoc AOC Cru Bourgeois Château Laffitte Laujac,Frankreich,2020,9.95,3.6,6327,"['69.4879%', '72.8185%', '2.63008%', '73.3591%']"
+Loco Malbec Mendoza Selection Dieter Meier,Argentinien,2021,14.95,3.8,2291,"['65.9556%', '29.9253%', '20.9945%', '30.9249%']"
+Naturaplan Bio Valais AOC Rebbio Jean-René Germanier,Schweiz,2022,13.95,3.6,841,None
+Amarone della Valpolicella DOC Costasera Masi,Italien,2018,39.50,4.3,101155,"['85%', '23.5851%', '48.0385%', '23.011%']"
+Ribera del Duero DO Tempranillo Bela Roble,Spanien,2021,11.20,3.8,4540,"['61.9947%', '52.3817%', '14.2437%', '58.9004%']"
+Pinot Noir France Vin de Table AOP,Frankreich,,2.25,3.5,17913,None
+Naturaplan Bio-Rioja DOCa Crianza Señorio de Arriezu,Spanien,2018,13.50,3.6,1391,"['57.2694%', '72.2273%', '1.49398%', '60.7747%']"
+Valais AOC Cornalin Terrasses du Rhône Bibacchus,Schweiz,2022,16.95,3.5,942,"['42.5%', '37.8209%', '23.0896%', '55.0037%']"
+Burgenland Qualitätswein Cuvée Reserve Big John Scheiblhofer,Österreich,2021,13.95,4.1,14730,None
+Cabernet Sauvignon Chile Gran Reserva Cromas Los Vascos,Chile,2019,8.75,3.8,1833,"['73.191%', '45.6846%', '4.97648%', '42.1687%']"
+Red Blend Clancy's Peter Lehmann,Australien,2021,8.75,3.6,7376,"['77.694%', '47.7018%', '20.1441%', '41.2907%']"
+Ribera del Duero DO Tempranillo Roble Nebla Vicente Gandia,Spanien,2022,5.20,3.1,182,"['67.5%', '62.2235%', '0px', '67.9546%']"
+Valais AOC Dôle Gloire du Rhône,Schweiz,2022,9.95,2.9,510,"['42.5%', '17.5%', '5%', '80%']"
+Valais AOC Pinot Noir Saint-Léonard Domaines des Virets,Schweiz,2022,9.95,3.3,1928,"['0px', '18.2772%', '4.72028%', '66.9655%']"
+Pauillac AOP Clos Châtelet,Frankreich,2019,14.95,3.9,188,"['67.564%', '77.3779%', '0px', '80%']"
+19 Crimes Cali Red California - Snoop Dogg,USA,2020,14.95,3.7,29224,"['82.6035%', '48.6262%', '33.0833%', '59.112%']"
+Mendoza Vineyards Malbec Gran Reserva,Argentinien,2021,17.95,3.9,9180,"['64.5358%', '25.1786%', '14.9646%', '35.1614%']"
+Zinfandel Bourbon Barrel Aged California 1000 Stories,USA,2021,19.95,3.7,2887,"['80.7346%', '25.3651%', '48.6917%', '10.0713%']"
+Naturaplan Bio Saint-Emilion AOC Château Guibeau Puisseguin,Frankreich,2021,16.95,3.7,2036,"['72.3222%', '59.3399%', '4.31376%', '54.3134%']"
+Ribera del Duero DO Conde de San Cristóbal,Spanien,2020,16.45,3.9,14260,"['63.9522%', '50.9235%', '12.3634%', '54.4953%']"
+Château Grand Ormeau Lalande de Pomerol AOC,Frankreich,2020,20.95,4.0,3625,"['69.1535%', '50.6538%', '4.63392%', '47.1446%']"
+Cabernet Sauvignon Napa Valley Black Stallion,USA,2020,29.95,4.1,37916,"['85%', '52.0291%', '8.76091%', '52.5124%']"
+Rioja DOCa Crianza Bodegas Izadi,Spanien,2020,14.95,3.7,89102,"['62.1426%', '60.5804%', '7.53641%', '59.6925%']"
+Valais AOC Pinot Noir Hurlevent Les Fils de Charles Favre,Schweiz,2022,15.95,3.5,1938,"['2.78105%', '27.3874%', '9.75501%', '75.5429%']"
+Douro DOC Fabelhaft Niepoort,Portugal,2021,8.95,3.7,18853,"['79.2556%', '53.4931%', '9.54613%', '44.9907%']"
+Grand Barossa Cabernet Sauvignon Château Tanunda,Australien,2021,19.95,3.9,4119,"['66.766%', '57.8428%', '7.84004%', '54.4493%']"
+Naturaplan Bio-Aude Hauterive IGP Cigalus Rouge Gérard Bertrand,Frankreich,2021,35.95,3.6,30740,"['62.8735%', '48.3212%', '4.80374%', '54.1456%']"
+Côtes-du-Rhône AOP Grand Palais Bag in Box,Frankreich,,11.95,2.9,321,"['55.0936%', '40.0219%', '0px', '63.4708%']"
+Dell'Arca Antonini Primitivo Salento IGT,Italien,2022,2.95,3.3,2804,"['60.6744%', '30.3571%', '36.4683%', '26.7461%']"
+Naturaplan Bio Yecla DO Campo Arriba,Spanien,2021,9.95,3.6,7683,"['74.3327%', '46.8605%', '9.82712%', '49.9529%']"
+Amarone della Valpolicella DOCG Palazzo Maffei,Italien,2021,27.50,4.1,7935,"['85%', '20.2716%', '51.3748%', '23.7106%']"
+Bardolino classico Zeni DOC,Italien,2022,3.95,3.4,2004,"['45.3025%', '35.4697%', '17.9722%', '32.5168%']"
+Naturaplan Bio Douro DOC Quinta do Vallado,Portugal,2020,16.95,3.8,26904,None
+Ticino DOC Merlot Riserva Roncaia Vinattieri Ticino,Schweiz,2021,19.95,4.1,970,None
+Fuego Tempranillo La Mancha DO Bag in Box,Spanien,,11.95,3.2,538,"['70.5419%', '63.0047%', '4.25621%', '37.8463%']"
+Brunello di Montalcino DOCG Della Robbia,Italien,2018,22.50,3.6,3075,"['45.002%', '59.9685%', '17.8452%', '61.5488%']"
+Pinotage SA Kadette Kanonkop,Südafrika,2021,9.95,3.9,16606,None
+Ticino DOC Merlot Merlino,Schweiz,2019,14.95,3.7,381,"['50.8096%', '36.0661%', '17.4249%', '46.3912%']"
+Naturaplan Bio Rioja DOCa Reserva Señorio de Arriezu,Spanien,2015,11.95,3.6,898,"['64.7394%', '60.096%', '10.7911%', '60.8018%']"
+Rioja DOCa Gran Reserva Viña Real,Spanien,2017,23.95,4.1,7514,"['61.1004%', '58.5951%', '8.28181%', '60.9006%']"
+Savigny-les-Beaune AOC Albert Bichot,Frankreich,2020,20.60,3.8,1467,"['29.7332%', '22.5397%', '1.46166%', '67.0109%']"
+Naturaplan Bio Carmenère Cabernet Novas Gran Reserva Colchagua Valley D.O. Chile,Chile,2019,9.95,3.7,11062,"['85%', '56.6698%', '8.03199%', '44.29%']"
+Tenuta Montalbano Merlot Ticino DOC,Schweiz,2020,16.95,3.3,274,"['54.5762%', '39.4695%', '0px', '46.0787%']"
+Fine Food Ribera del Duero DO Reserva Pago de los Capellanes,Spanien,2020,28.45,4.2,19717,None
+Fleurie Les trois Pucelles AOC,Frankreich,2021,10.95,3.1,433,"['0px', '9.07961%', '0.0509925%', '83.5124%']"
+Schaffhausen AOC Blauburgunder Wilchinger,Schweiz,2022,6.70,3.4,190,"['9.89015%', '21.142%', '11.5379%', '73.4508%']"
+Carignano DOC Riserva Rocca Rubia Cantina di Santadi,Italien,2020,21.95,4.0,23906,None
+Château Franc Grace-Dieu Grand Cru St-Emilion AOC,Frankreich,2020,24.95,3.7,3343,"['71.4985%', '58.7682%', '3.41697%', '54.8274%']"
+Fleurie Les trois Pucelles AOC,Frankreich,2021,10.95,3.1,433,"['0px', '9.07961%', '0.0509925%', '83.5124%']"
+Naturaplan BIO Schaffhausen AOC Hallauer Regent Graf von Spiegelberg,Schweiz,2022,13.95,4.0,109,None
+Vaudois AOC Salvagnin Vaudois Monastier,Schweiz,2022,6.95,3.0,160,None
+Chianti Classico DOCG Riserva La Madonnina Triacca,Italien,2019,14.95,3.5,3292,"['45.6933%', '60.8658%', '0.791398%', '63.5052%']"
+Faugères AOC Mas Gabinèle,Frankreich,2020,24.95,3.8,2282,"['64.318%', '54.3339%', '17.8539%', '58.7273%']"
+Naturaplan Bio Rosso Toscana IGT Raphael Dal Bo,Italien,2021,16.50,3.9,222,"['46.5364%', '35.997%', '11.3242%', '35.997%']"
+Cabernet Sauvignon California Round Hill,USA,2020,5.95,3.7,5706,"['78.8664%', '49.3331%', '16.1138%', '42.7983%']"
+Merlot Veneto Fagiani Antonini,Italien,2022,4.20,3.3,278,"['64.5348%', '46.9842%', '13.6994%', '20.8418%']"
+Santenay AOC Domaine Françoise & Denis Clair,Frankreich,2021,22.95,3.8,443,"['33.3078%', '24.7725%', '6.60341%', '64.6995%']"
+Shiraz Cabernet South Australia Max's Penfolds,Australien,2020,21.50,3.9,10189,"['85%', '48.1356%', '8.14741%', '44.1676%']"
+Cabernet Sauvignon Mendoza La Mascota 6x 75cl,Argentinien,2021,53.70,3.8,26860,"['64.6496%', '53.2143%', '8.06628%', '44.8341%']"
+Jeninser AOC Pinot Noir Steinhuhn,Schweiz,2022,13.50,3.6,390,"['0.0081325%', '19.3303%', '5.48984%', '66.9522%']"
+Bolgheri DOC Poggio ai Ginepri Tenuta Argentiera,Italien,2022,23.00,3.8,15252,None
+Cabernet Sauvignon California Stone Eagle,USA,2022,4.95,3.2,254,"['83.574%', '49.4439%', '9.74362%', '42.3648%']"
+Pays d'Oc IGP Cuvée Rouge H de l'Hospitalet Gérard Bertrand,Frankreich,2022,14.50,3.8,264,"['62.7585%', '54.0796%', '0px', '51.7386%']"
+Primitivo di Manduria DOC Collection Giordano,Italien,2022,6.95,3.8,11426,"['65.8689%', '23.6765%', '41.9515%', '15.3833%']"
+Cabernet Sauvignon Chile Los Vascos Domaines Lafite Rothschild 6x 75cl,Chile,2021,45.00,3.4,29373,"['74.7942%', '46.9643%', '4.29401%', '44.6149%']"
+Rioja DOCa Gran Reserva Campo Viejo,Spanien,2016,12.95,3.9,35953,"['64.2364%', '58.8589%', '7.17106%', '60.7668%']"
+19 Crimes Cabernet Sauvignon/Syrah South Eastern Australia,Australien,2021,9.95,3.9,221,"['76.2104%', '56.6006%', '6.00915%', '49.3659%']"
+Puglia IGT Susumaniello Luccarelli,Italien,2021,8.95,4.1,209,"['64.1645%', '27.926%', '42.4102%', '18.1049%']"
+Château de Cardaillan Graves AOC,Frankreich,2017,13.95,3.6,810,"['70.487%', '73.5537%', '0px', '78.3524%']"
+Sicilia DOC Nero d'Avola Cardilla,Italien,2022,8.50,3.7,1499,"['49.2901%', '39.168%', '38.9375%', '41.6522%']"
+Naturaplan Bio Primitivo Puglia IGT Sassi d'Oro,Italien,2022,5.95,3.9,15478,None
+Ripasso della Valpolicella Superiore DOC Rovertondo Tenuta Valleselle,Italien,2019,17.50,4.1,9660,"['65.3227%', '37.0486%', '26.3424%', '25.0578%']"
+Naturaplan Bio Puglia IGP Palmento,Italien,2020,12.95,3.9,15478,None
+Ribera del Duero DO Crianza Portia,Spanien,2020,11.95,3.7,8948,"['63.9711%', '55.4327%', '9.7893%', '61.1586%']"
+19 Crimes Chardonnay South Eastern Australia - Chard,Australien,2022,9.95,3.5,5650,None
+Faugères AOP Mas Olivier 6x75cl,Frankreich,,79.00,3.6,2746,"['58.572%', '48.2568%', '11.9212%', '53.0262%']"
+Côtes-du-Rhône AOC E. Guigal,Frankreich,2020,13.95,3.7,83348,"['65.0311%', '47.9629%', '6.09714%', '53.0201%']"
+Côtes du Ventoux AOC Terres de Truffes,Frankreich,2021,7.50,3.7,2975,"['65.1899%', '47.2523%', '14.6774%', '52.5092%']"
+Vaud AOC Assemblage Rouge Escargot,Schweiz,2022,8.95,3.9,250,None
+Cabernet Sauvignon California Founders' Estate Beringer 6x 75cl,USA,2021,49.50,3.7,39181,"['85%', '52.7225%', '13.9572%', '42.781%']"
+Cabernet Sauvignon California Foxhollow,USA,2021,8.50,3.5,1015,"['78.7895%', '56.2139%', '19.7145%', '44.9256%']"
+Chablais AOC Yvorne Rouge La Fierrausaz,Schweiz,2022,14.50,3.4,166,"['0px', '16.7669%', '0px', '68.6385%']"
+Chianti Classico DOCG Riserva Ser Lapo Castello di Fonterutoli,Italien,2020,24.95,3.9,21503,None
+Rioja DOCa Crianza Cune,Spanien,2020,4.65,3.6,76741,"['56.5534%', '55.6689%', '9.40905%', '58.858%']"
+Apothic Inferno Red Blend Wine with a Whiskey Soul,USA,2018,19.95,3.8,564,"['79.3645%', '49.214%', '9.11676%', '62.5997%']"
+Naturaplan Bio Castel del Monte DOC Parco Grande,Italien,2021,6.95,3.3,704,"['78.9097%', '46.8441%', '27.1427%', '27.2727%']"
+Salice Salentino DOC Riserva Vecchia Torre,Italien,2016,12.95,3.8,3042,"['68.157%', '40.793%', '27.607%', '32.5525%']"
+Malbec Ojo de Agua Dieter Meier,Argentinien,2021,19.95,4.0,7982,"['63.3303%', '23.6079%', '17.7062%', '34.6412%']"
+Naturaplan Bio-Vin d'Hérault IGP Terre Rouge Domaine St-Blaise,Frankreich,2020,11.95,3.3,551,"['60.0032%', '46.6361%', '8.03797%', '56.4536%']"
+Portugal Red Blend Silk & Spice Sogrape Vinhos,Portugal,2021,10.95,4.1,43750,"['74.4241%', '39.0951%', '24.398%', '47.3152%']"
+Toscana IGT Cooperation Wines Frescobaldi,Italien,2020,16.95,3.6,44184,"['42.1008%', '38.5194%', '5.18006%', '45.0895%']"
+Valdepeñas DO Reserva Pata Negra,Spanien,2017,9.95,3.6,42798,"['69.8542%', '52.6951%', '7.16476%', '34.8338%']"
+Naturaplan Bio Château Pech-Latt Corbières AOC,Frankreich,2022,7.50,3.3,64,"['42.5%', '0px', '55.6964%']"
+Aigle Noir G. Bertrand Pays d'Oc IGP,Frankreich,2021,13.95,3.5,1876,"['50.3234%', '49.6852%', '0.820038%', '61.5406%']"
+Châteauneuf-du-Pape AOC La Petite Crau Château Saint-André,Frankreich,2022,21.95,3.8,994,"['71.1621%', '38.9754%', '7.63533%', '42.1191%']"
+Ripasso della Valpolicella DOC Rocca Alata,Italien,2020,5.50,4.0,26875,"['85%', '22.7776%', '48.5099%', '23.2829%']"
+Thurgau AOC Iselisberger Blauburgunder,Schweiz,2022,9.95,3.0,27,"['14.5175%', '36.7105%', '10.0439%', '70.5702%']"
+"Cabernet Sauvignon Deutschland VIV, alkoholfrei",Deutschland,,12.95,3.5,166764,"['71.2577%', '47.2353%', '8.37636%', '44.7135%']"
+Dell'Arca Antonini Primitivo Salento IGT,Italien,2022,4.95,3.3,2804,"['60.6744%', '30.3571%', '36.4683%', '26.7461%']"
+Valais AOC Cornalin Fleur du Rhône,Schweiz,2022,10.95,3.5,942,"['42.5%', '37.8209%', '23.0896%', '55.0037%']"
+Ticino DOC Merlot Bucaneve,Schweiz,2022,14.50,3.7,3160,None
+Bordeaux AC Mouton Cadet Baron Ph de Rothschild,Frankreich,2020,14.95,3.4,215,"['67.2088%', '67.7629%', '0px', '72.799%']"
+Bolgheri DOC Il Bruciato Tenuta Guado al Tasso,Italien,2021,26.50,4.1,85079,None
+Chianti Classico DOCG Riserva Rocca Guicciarda,Italien,2021,19.50,3.8,21095,"['45.2037%', '55.8096%', '5.96151%', '62.8577%']"
+Rioja DOCa Tempranillo Campo Viejo,Spanien,2021,3.95,3.6,96980,"['62.1853%', '60.9134%', '6.87629%', '60.783%']"
+Vin de Pays Suisse Assemblages Rouge Dolce Vita 6x 75cl,Schweiz,2022,35.70,3.6,2075,None
+Côtes du Rhône AOP Croix d'Amont,Frankreich,,4.75,2.6,155,"['67.5%', '55%', '0px', '55%']"
+Lagrein Riserva Prestige Line Südtirol Alto Adige DOC,Italien,2020,24.50,3.9,1993,"['63.4515%', '37.9944%', '19.8173%', '25.6025%']"
+Yecla DO Monastrell Heredad Candela,Spanien,2019,23.95,3.9,2930,"['60.6349%', '62.6815%', '13.5995%', '51.818%']"
+Valais AOC Favi Assemblage de Cépages rouges,Schweiz,2022,14.95,3.7,1471,None
+Pays Gamay de Romandie Rubiette,Schweiz,,5.95,2.8,131,"['29.7972%', '10.8679%', '20.8302%', '79.3774%']"
+Apothic Inferno Small Batch Limited Release,USA,2019,19.95,3.8,28345,"['85%', '54.2335%', '15.6098%', '62.0106%']"
+Bordeaux AOC Château La Rose Saint-Germain Rouge,Frankreich,2019,4.50,3.5,646,"['63.2134%', '57.3518%', '0px', '59.6324%']"
+Priorato DOQ Scala Dei Prior,Spanien,2019,29.95,3.9,582,"['64.4696%', '41.7306%', '21.7551%', '41.3383%']"
+Puglia IGT Cabernet Sauvignon Elettra Giordano,Italien,2021,18.50,3.0,302,"['83.1915%', '46.0771%', '24.6782%', '38.2926%']"
+Valais AOC Dôle Étoile Dorée,Schweiz,2019,9.30,3.6,63,"['42.5%', '30%', '23.75%', '61.25%']"
+Cahors AOC Château de Mercuès,Frankreich,2019,11.50,3.8,6155,"['64.4318%', '49.3793%', '2.72532%', '45.7883%']"
+Malanser Steinadler Pinot Noir,Schweiz,2022,13.50,3.7,170,"['0px', '15.5448%', '18.0542%', '47.6392%']"
+Naturaplan Bio-Valencia DOC Reserva Tempranillo Finca Gaeta,Spanien,2017,10.95,3.5,475,"['76.7593%', '58.9608%', '0px', '30.1996%']"
+Naturaplan Bio Vino Rosso d'Italia Vino della Casa,Italien,2021,6.50,3.4,159,"['51%', '55%', '0px', '71.75%']"
+Bio Maremma Toscana DOC Sangiovese Tenuta Valdifalco,Italien,2021,14.95,4.0,53,"['48.0668%', '45.233%', '0.0575925%', '38.4254%']"
+Château Etang des Colombes Corbières AOC,Frankreich,2021,6.95,3.6,1563,"['62.0222%', '51.9324%', '4.93536%', '60.6409%']"
+Château Phélan Ségur Saint-Estèphe AOC,Frankreich,2016,54.95,4.1,28449,None
+Bagnoli DOC Friularo Ambasciatore,Italien,2017,19.95,4.0,9294,"['64.9998%', '40.2215%', '27.3789%', '28.5551%']"
+Cabernet Sauvignon California Woodbridge Robert Mondavi,USA,,9.95,3.4,32868,"['82.4007%', '50.9279%', '11.5009%', '42.3228%']"
+Lambrusco Rosso Riunite Amabile Emilia IGT,Italien,,5.70,3.9,7249,"['31.4403%', '50.3159%', '68.0896%']"
+Primitivo di Manduria DOC Torri d'Oro,Italien,2022,9.95,4.1,5777,"['66.5286%', '25.8608%', '39.5569%', '15.3854%']"
+Puro Malbec Cabernet Mendoza Dieter Meier,Argentinien,2020,19.95,3.9,3937,"['77.6173%', '43.8177%', '14.2244%', '42.3852%']"
+Bolgheri DOC Azienda Agricola Donne Fittipaldi,Italien,2021,25.50,4.0,4946,"['64.7536%', '63.4921%', '7.52566%', '53.8278%']"
+Schaffhausen AOC Hallauer Pinot Noir Spätlese Graf von Spiegelberg,Schweiz,2021,16.50,3.4,287,"['12.8847%', '32.5704%', '0px', '65.5973%']"
+Alentejo Vinhas Velhas Tinto Marquês de Borba,Portugal,2021,10.95,4.0,2710,"['63.3581%', '50.1026%', '15.5536%', '41.0572%']"
+"Epesses Rouge Lavaux AOC, Union Vinicole Cully",Schweiz,2022,14.95,3.4,90,"['4.625%', '27%', '11.75%', '70.25%']"
+Naturaplan Bio Monte Tabor Valpolicella Ripasso DOC,Italien,2019,15.95,3.6,803,"['56.6774%', '39.0852%', '26.4218%', '23.6913%']"
+Rioja DOCa Tempranillo Torre Aldea,Spanien,2022,4.95,3.3,2293,"['54.4928%', '62.8767%', '13.0193%', '62.5026%']"
+Rioja DOCa Tempranillo Campo Viejo,Spanien,2021,9.95,3.6,96980,"['62.1853%', '60.9134%', '6.87629%', '60.783%']"
+Toscana IGT Il Pino di Biserno Tenuta di Biserno,Italien,2020,52.50,4.3,19398,None
+Valais AOC Pinot Noir de Sierre Clavien,Schweiz,2023,9.95,3.7,387,"['0.428095%', '21.7533%', '0px', '73.1079%']"
+Cabernet Sauvignon Beringer Knights Valley,USA,2018,29.95,4.1,49511,"['85%', '52.8696%', '9.12627%', '43.0859%']"
+Givry AOC Champ La Dame Albert Bichot,Frankreich,2019,19.95,4.1,102,"['22.649%', '26.7798%', '0px', '68.8262%']"
+Campo de Borja DO Aragonia Selección Especial,Spanien,2019,14.50,4.0,4927,"['84.7724%', '37.5069%', '17.839%', '44.4462%']"
+Red Blend Chile Colchagua Acrux Viña Sutil,Chile,2019,19.95,3.9,3639,"['80.798%', '51.1587%', '13.9768%', '47.1327%']"
+Shiraz Barossa Valley Château Tanunda Grand Barossa,Australien,2021,19.95,3.9,15866,"['84.7246%', '44.5632%', '16.9087%', '42.3195%']"
+Sicilia IGT Nero d'Avola Bromeus,Italien,2021,7.95,3.8,6021,"['79.2048%', '38.8506%', '36.0907%', '25.4391%']"
+Barbera IGT Pavia La Reggia,Italien,,3.50,4.2,1449,"['59.0515%', '25.7939%', '11.0449%', '63.3556%']"
+Heideboden Cuvée Rot Burgenland Hannes Reeh,Österreich,2020,15.95,3.8,499,"['42.2477%', '34.1651%', '27.2477%', '53.4392%']"
+Naturaplan Bio-Costières de Nîmes AOC M. Chapoutier,Frankreich,2022,10.95,3.6,312,"['62.6841%', '52.163%', '4.75929%', '46.2137%']"
+Ribera del Duero DO Crianza Protos,Spanien,2019,17.95,3.9,35784,"['65.5841%', '55.8658%', '12.168%', '59.2542%']"
+Valais AOC Dôle de Salquenen Les Dailles 6x 75cl,Schweiz,2021,49.80,3.4,1997,"['12.5218%', '20.739%', '5.98163%', '73.4153%']"
+Primitivo Salento IGT Cosmo Oro,Italien,2021,14.50,4.0,634,"['61.3516%', '24.9852%', '37.493%', '17.5008%']"
+Toro DO Prima Maurodos,Spanien,2020,16.95,3.8,15306,None
+Valais AOC Merlot Bibacchus,Schweiz,2022,8.95,3.5,256,"['68.4167%', '36.5294%', '12.1732%', '32.2222%']"
+La Timbale Beaujolais AC,Frankreich,,5.50,2.5,57,"['0px', '10.7857%', '0px', '85%']"
+Barolo DOCG Tenuta Cappallotto,Italien,2020,22.50,3.4,2117,"['55.7542%', '73.359%', '9.25723%', '75.7336%']"
+Naturaplan Bio-España Monastrell Santa Augusta,Spanien,2021,4.50,3.5,1921,"['74.1332%', '48.5507%', '0.63917%', '51.6292%']"
+Primitivo del Salento IGT Eventus Giordano,Italien,2021,9.50,3.4,1078,"['63.0892%', '21.9167%', '39.4697%', '16.351%']"
+Primitivo di Manduria DOC Riserva Alberello 50 Giordano,Italien,2019,21.00,4.1,12300,"['67.8148%', '27.049%', '46.9485%', '15.194%']"
+Naturaplan Bio-Languedoc AOP Rouge Or et Azur Gérard Bertrand,Frankreich,2022,14.50,3.7,532,"['57.7424%', '56.7041%', '13.1587%', '56.4579%']"
+Amarone della Valpolicella DOCG Brigaldara Cavolo,Italien,2018,29.95,4.2,3227,"['80.4054%', '24.6401%', '46.1484%', '28.6129%']"
+Bordeaux AOC Baron de Lestac,Frankreich,2021,8.95,3.6,27100,"['62.0786%', '53.2402%', '8.06884%', '60.4756%']"
+Bolgheri DOC Cont'Ugo Tenuta Guado al Tasso,Italien,2021,39.50,4.2,12943,None
+Bolgheri DOC Le Serre Nuove dell'Ornellaia Tenuta dell'Ornellaia,Italien,2020,54.95,4.3,55038,"['64.9215%', '64.0695%', '8.52648%', '54.0297%']"
+Gigondas AOC E. Guigal,Frankreich,2020,28.50,3.9,13942,None
+Naturaplan Bio Piemonte Doc Barbera La Raia,Italien,2022,9.95,3.5,659,"['54.5521%', '31.2864%', '1.84695%', '68.3151%']"
+Rioja DOCa Reserva Azabache,Spanien,2018,5.95,3.7,1682,"['64.282%', '60.7261%', '12.5178%', '58.8328%']"
+Châteauneuf-du-Pape AOC Les Granières Château La Nerthe,Frankreich,2020,39.95,4.1,3436,"['82.9812%', '37.9723%', '2.98541%', '46.4815%']"
+Ripasso della Valpolicella DOC Superiore Brigaldara,Italien,2020,16.50,3.9,7151,"['63.8917%', '39.7449%', '32.894%', '29.0211%']"
+Ted Hill Cabernet Sauvignon,USA,,4.50,3.2,100,"['85%', '67.5%', '0px', '43.3152%']"
+Vinho Regional Alentejano DO Dom Martinho Quinta do Carmo 6x 75cl,Portugal,2020,46.50,3.7,16668,None
+Vino de la Tierra de Castilla y Léon Mauro,Spanien,2020,45.00,3.9,214,"['71.4413%', '55.6675%', '5.75%', '26.5263%']"
+Taperia La Mancha Cabernet Sauvignon DO,Spanien,,4.95,2.7,65,"['85%', '67.5%', '0px', '55%']"
+Langhe DOC Bricco Manzoni Rocche dei Manzoni,Italien,2017,32.50,4.1,3383,"['66.514%', '48.7167%', '14.292%', '29.9851%']"
+Salento IGT Primitivo Cosmo,Italien,2020,9.50,4.0,634,"['61.3516%', '24.9852%', '37.493%', '17.5008%']"
+Terre Siciliane IGT Due Lune,Italien,2021,14.70,4.2,18079,"['80.8144%', '38.073%', '39.1471%', '25.4701%']"
+Costers del Segre DO Tempranillo Pirinenca Raimat,Spanien,2021,15.95,3.4,9786,"['57.3713%', '39.493%', '14.8183%', '42.1224%']"
+Glühwein Vin Chaud rouge,Europa,,2.45,3.4,48,None
+Demeter Naturtalent Cabernet Jura Vin de Pays Suisse,Schweiz,2022,17.95,4.3,34,None
+Genève AOC Gamaret Feuille d’Or La Cave de Genève,Schweiz,2022,8.95,3.9,75,None
+Pro Montagna Ticino DOC Merlot Tre Valli,Schweiz,2021,14.50,3.5,474,"['45.9129%', '40.2645%', '25.6452%', '47.429%']"
+Amarone della Valpolicella DOCG Cesari,Italien,2018,14.95,4.2,22955,None
+Château Pierre 1er Saint-Emilion AC Grand Cru,Frankreich,2020,24.95,3.9,4589,"['74.6772%', '58.6154%', '5.60711%', '51.1207%']"
+La Côte AOC Salvagnin Valroux,Schweiz,,4.50,3.1,139,None
+Ticino DOC Merlot Collivo,Schweiz,2021,13.95,3.5,564,"['47.9948%', '40.0629%', '22.0918%', '50.653%']"
+Toscana IGT Guidalberto Tenuta San Guido,Italien,2020,36.95,4.1,57064,"['51.0189%', '41.4612%', '8.26564%', '46.3312%']"
+Legaris Roble Ribera del Duero DO,Spanien,2022,12.70,3.5,13621,"['59.1911%', '54.6785%', '12.3853%', '59.1665%']"
+Salento IGT Primitivo Cosmo,Italien,2021,9.50,4.0,634,"['61.3516%', '24.9852%', '37.493%', '17.5008%']"
+Schaffhausen AOC Blauburgunder Hallauer Weinkeller zum Stauffacher,Schweiz,2022,3.50,3.5,711,"['0px', '17.5846%', '18.8037%', '56.1499%']"
+Ticino DOC Merlot Cannaiola Terreni alla Maggia,Schweiz,2020,15.15,3.7,537,"['51.1275%', '49.9858%', '23.5844%', '50.9194%']"
+Naturaplan Bio Primitivo del Salento IGT Cosmo,Italien,2021,9.95,3.6,32,"['67.5%', '17.5%', '30%', '5%']"
+Zürich AOC Blauburgunder Weinkeller zum Stauffacher,Schweiz,2023,9.50,3.2,165,"['0px', '11.7892%', '11.1386%', '80.0843%']"
+Toscana IGT Tignanello Antinori,Italien,2020,135.00,4.5,152977,None
+Veneto IGT Corvina leggermente Appassito Rocca Alata,Italien,2018,7.95,3.7,135,"['59.0844%', '31.0067%', '25.3189%', '25.8311%']"
+Toscana IGT Le Difese Tenuta San Guido,Italien,2021,21.50,3.8,45975,None
+Château La Cardonne AOC Cru Bourgeois Médoc,Frankreich,2012,19.95,3.8,1742,"['67.8534%', '66.3797%', '0.267045%', '66.0637%']"
+Crozes-Hermitage AOC E.Guigal,Frankreich,2020,24.95,3.8,20917,"['64.8325%', '49.2003%', '4.89565%', '45.7887%']"
+Primitivo di Manduria DOP Luccarelli,Italien,2021,14.50,4.4,21447,"['68.5252%', '26.336%', '45.5302%', '13.3153%']"
+Pinot Noir France Vin de Pays AOP,Frankreich,,5.95,3.5,17913,None
+Chianti Classico DOCG Riserva Marchese Antinori Tenuta Tignanello,Italien,2021,35.50,4.2,52187,"['48.9352%', '55.2076%', '7.07371%', '62.6436%']"
+Languedoc AOC Mythique,Frankreich,2022,8.50,3.5,10345,None
+Nizza DOCG Bansella Prunotto,Italien,2021,14.80,4.1,4558,"['59.4126%', '28.4791%', '14.9598%', '47.4053%']"
+Barolo DOCG Albarello,Italien,2020,12.95,3.5,365,"['56.7128%', '69.196%', '4.69257%', '68.5608%']"
+Bordeaux rouge DBR Roth Légende,Frankreich,2019,12.50,3.6,9373,"['61.4157%', '53.9276%', '2.06637%', '63.48%']"
+Graubünden AOC Malans Pinot Noir Bündner Banner,Schweiz,2022,17.95,3.5,451,"['7.50344%', '32.7878%', '6.20447%', '64.8634%']"
+Merlot California Rum Barrel Aged Robert Mondavi,USA,2019,18.95,3.9,8342,"['67.4965%', '20.9616%', '25.9506%', '12.1695%']"
+Primitivo del Salento IGP Barocco Reale Vecchia Torre,Italien,2017,9.95,4.1,6085,"['69.3402%', '26.1586%', '41.8424%', '16.0942%']"
+Rioja DOCa Gran Reserva 904 La Rioja Alta,Spanien,2015,59.95,4.4,46244,"['60.865%', '58.8189%', '8.33273%', '61.4909%']"
+Saint-Emilion AC Grand Cru Château Vieux Pourret,Frankreich,2019,14.95,3.9,2495,"['75.4124%', '54.6944%', '13.4107%', '53.5555%']"
+Zinfandel California Fetzer,USA,2020,15.50,4.0,17828,"['77.8893%', '29.8048%', '36.8979%', '15.8039%']"
+Côtes-du-Rhône AOC La Renjardière,Frankreich,2022,6.95,3.6,1096,"['65.4879%', '46.7079%', '0px', '55.014%']"
+Vaud AOC Nobles Cépages L'AS de Coeur Cave de Jolimont,Schweiz,2022,6.95,4.0,51,None
+Ribera del Duero DO Crianza Pesquera,Spanien,2019,18.70,4.0,60625,None
+Ripasso della Valpolicella Superiore DOC Rovertondo Tenuta Valleselle,Italien,2021,17.50,4.1,9660,"['65.3227%', '37.0486%', '26.3424%', '25.0578%']"
+Zürich AOC Blauburgunder Weininger Weinkeller zum Stauffacher,Schweiz,2022,9.95,3.4,98,"['0px', '17.5%', '0px', '80%']"
+Bourgogne AOC Pinot Noir Louis Jadot,Frankreich,2022,18.95,3.6,43508,"['29.7162%', '23.8891%', '0.79723%', '65.3403%']"
+Bree Free Red alkoholfrei,Deutschland,,4.95,2.9,34,"['30%', '30%', '5%', '67.5%']"
+Cabernet Sauvignon California Beringer,USA,2022,9.95,3.7,39181,"['85%', '52.7225%', '13.9572%', '42.781%']"
+Côtes-du-Rhône AOP Château Saint-André,Frankreich,2021,8.95,3.5,402,"['64.5276%', '48.0256%', '0px', '51.622%']"
+Naturaplan Bio Puglia IGT Susumaniello Luminante,Italien,2021,13.95,4.1,86,"['84.8186%', '42.9583%', '36.3134%', '24.5391%']"
+Toscana IGT Poggio ai Ginepri Tenuta Argentiera,Italien,2021,23.00,3.6,448,"['48.4662%', '23.4878%', '67.1534%']"
+Naturaplan Bio-Amarone della Valpolicella DOC Monte Tabor,Italien,2017,32.95,4.0,659,"['85%', '28.1514%', '39.8435%', '30.6437%']"
+Ribera del Duero DO Protos Roble,Spanien,2021,10.45,3.8,58096,"['62.4122%', '53.9999%', '14.95%', '58.9749%']"
+Terre Siciliane IGT Passimiento,Italien,2021,13.50,4.1,16963,"['83.1949%', '31.295%', '39.1186%', '20.2578%']"
+Zürich AOC Blauburgunder Stammheimer Weinkeller zum Stauffacher,Schweiz,2022,9.95,3.4,51,"['0px', '26.875%', '0px', '80%']"
+Médoc AOC Château Moulin de Noaillac,Frankreich,2021,6.95,3.4,1315,"['70.6094%', '64.6738%', '0px', '73.1816%']"
+Minervois AOP Rouge La Cigale 6x 75cl,Frankreich,2022,29.70,4.5,1313,"['71.3952%', '59.3159%', '6.83565%', '62.3306%']"
+Naturaplan Bio La Côte AOC Cuvée Noble Rouge Capitaine,Schweiz,2022,25.95,3.8,422,None
+Rioja DOCa Reserva Ardanza La Rioja Alta,Spanien,2016,32.95,4.3,77806,None
+Saint-Joseph AOC Domaine Courbis,Frankreich,2022,17.95,4.0,2730,"['75.1443%', '47.3366%', '5.44232%', '54.0749%']"
+Shiraz South East Australia Yellow Tail Casella Family,Australien,2022,8.50,3.5,55200,"['84.167%', '45.0069%', '24.9197%', '42.5195%']"
+Zürich AOC Cuvée Barrique Staatsschreiber Staatskellerei Zürich,Schweiz,2020,22.95,4.2,7139,None
+Bourgogne Hautes Côtes de Nuits AOC Cuvée des Dames de Vergy,Frankreich,2022,16.95,3.7,6686,"['33.4897%', '27.0679%', '2.32488%', '67.996%']"
+Lisboa IG Mula Velha Premium Parras Wines,Portugal,2020,7.95,3.7,11159,"['59.1911%', '37.0879%', '17.0386%', '39.7701%']"
+Montepulciano d`Abruzzo DOC Edizione limitata Casale Vecchio,Italien,2022,14.50,3.8,17940,"['39.5101%', '41.6377%', '13.9131%', '64.1591%']"
+Pommard AOC L. Jadot,Frankreich,2020,52.50,3.9,3406,"['33.046%', '25.9451%', '3.71135%', '64.0922%']"
+Amarone della Valpolicella Bosan Cesari DOC,Italien,2015,52.00,4.4,3653,"['84.228%', '25.1824%', '48.9179%', '24.9612%']"
+Catalunya DO Sangre de Toro Torres,Spanien,2021,9.95,3.5,39683,"['61.2324%', '38.4836%', '9.58502%', '43.6635%']"
+Château du Raux Cru Bourgeois Haut-Médoc AOC,Frankreich,2019,14.95,3.8,2490,"['73.8507%', '68.8051%', '6.72149%', '64.1064%']"
+Château Belgrave Haut-Médoc AOC 5ème Cru Classé,Frankreich,2017,39.95,4.0,16952,None
+Les Tourelles de Longueville 2ème Vin du Château Pichon-Baron AC,Frankreich,2020,39.95,4.1,13142,"['73.5507%', '70.4227%', '5.5293%', '71.9438%']"
+Shiraz Cabernet South Eastern Australia Jacob's Creek,Australien,2021,11.50,3.4,28201,"['84.9498%', '45.7521%', '6.77391%', '43.4746%']"
+Sicilia DOC Nero d'Avola Passimora,Italien,2021,11.95,4.0,571,"['78.0277%', '41.1705%', '28.9435%', '34.5357%']"
+Beaujolais-Villages AOP La Ferronnière,Frankreich,2020,6.95,2.7,128,"['0px', '22.7801%', '16.1506%', '84.0422%']"
+Château Clément Pichon Haut-Médoc AC,Frankreich,2017,27.50,3.9,5198,None
+Pays d'Oc IGP Syrah Grenache Laurentin,Frankreich,2021,9.95,3.6,747,"['58.1204%', '61.5213%', '12.9383%', '56.013%']"
+Saint-Amour AOC Georges Duboeuf,Frankreich,2021,13.95,3.5,1685,"['3.84881%', '16.737%', '8.3145%', '76.653%']"
+Valais AOC Humagne Rouge Valisiana,Schweiz,,9.95,3.3,185,None
+Cabernet Sauvignon California Robert Mondavi Private Selection aged in Bourbon Barrels,USA,2019,18.95,4.1,60385,None
+Château d'Auvernier Pinot Noir Neuchâtel AOC,Schweiz,2022,19.95,3.7,516,"['3.90114%', '24.7509%', '10.7351%', '68.616%']"
+Château du Tertre Margaux AC 5ème Cru Classé,Frankreich,2018,49.95,4.2,23634,None
+Genève AOC Gamanote Noire Domaine du Paradis,Schweiz,2022,12.50,3.4,75,None
+Navarra DO Gran Feudo Reserva,Spanien,2018,7.70,3.5,9958,"['63.5139%', '40.4822%', '7.86669%', '44.5849%']"
+Puglia IGT Primitivo Rinforzato Giordano,Italien,2022,19.95,4.1,1185,"['79.1819%', '28.2794%', '36.5902%', '22.9404%']"
+Ripasso della Valpolicella DOC Superiore Conte di Valle Palazzo Maffei,Italien,2018,18.95,3.9,2008,"['77.3206%', '27.3576%', '38.272%', '23.0093%']"
+Valais AOC Le Tourmentin,Schweiz,2021,26.95,4.0,1890,None
+Zürich AOC Blauburgunder Weinkeller zum Stauffacher,Schweiz,2023,6.50,3.2,165,"['0px', '11.7892%', '11.1386%', '80.0843%']"
+Naturaplan Bio Corbières AOP Château Caraguilhes Pre,Frankreich,2022,6.95,3.8,2014,"['62.4294%', '54.9714%', '6.46043%', '60.4294%']"
+Rosso Verona IGT Cooperation Wines Masi,Italien,2017,15.50,3.7,736,"['55.6694%', '47.8536%', '24.5822%', '31.2188%']"
+Shiraz Australia Kangaroo Ridge,Australien,2022,8.95,3.2,735,"['85%', '48.1045%', '12.2579%', '41.2492%']"
+Aloxe-Corton AOC Ravaut,Frankreich,2020,42.50,3.9,542,"['39.3726%', '23.8642%', '12.7695%', '63.0347%']"
+Amarone della Valpolicella DOCG Brigaldara Cavolo,Italien,2019,29.95,4.2,3227,"['80.4054%', '24.6401%', '46.1484%', '28.6129%']"
+Cabernet Sauvignon Limited Edition Bourbon Barrel Aged Double Black 1924 Wines,USA,2020,17.95,4.1,14598,None
+Cadillac Côtes de Bordeaux AOC Château de Ricaud,Frankreich,2017,8.35,3.7,4261,None
+Château d'Armailhac Pauillac AC 5ème Cru Classé,Frankreich,2016,62.50,4.1,31622,"['72.4459%', '71.7912%', '7.21698%', '71.7407%']"
+Salice Salentino DOC Riserva Vecchia Torre,Italien,2017,12.95,3.8,3042,"['68.157%', '40.793%', '27.607%', '32.5525%']"
+The Chocolate Block Swartland WO Boekenhoutskloof,Südafrika,2020,35.95,4.2,73275,None
+Ticino DOC Merlot Baiocco,Schweiz,2021,17.95,3.7,2689,"['59.5235%', '39.9061%', '2.5204%', '40.4492%']"
+Vinho Regional Alentejano Tinto Reserva Herdade Aldeia de Cima,Portugal,2019,22.50,3.2,60,"['67.5%', '42.5%', '0px', '42.5%']"
+Chianti Riserva DOCG Alfieri,Italien,2019,5.95,3.7,29,None
+Naturaplan Bio Valais AOC Bibacchus assemblage rouge,Schweiz,2022,16.95,3.6,2211,None
+Shiraz/Cabernet Sauvignon Koonunga Hill Penfolds,Australien,2021,9.95,3.7,55278,"['85%', '48.1416%', '10.0252%', '44.7091%']"
+Neusiedlersee DAC Zweigelt Hannes Reeh,Österreich,2022,11.95,4.1,10103,None
+Ribera del Duero DO Crianza Legaris,Spanien,2020,10.45,3.8,15456,None
+Ticino DOC Merlot l'Ariete Valsangiacomo,Schweiz,2019,11.60,3.3,472,"['62.3024%', '45.8306%', '0.57481%', '48.2973%']"
+Baden Kaiserstuhl Spätlese Pinot Noir,Deutschland,2020,9.95,3.6,149,"['1.04762%', '18.8512%', '17.8095%', '68.1697%']"
+Naturaplan Bio Vacqueyras Terra Amata,Frankreich,2022,11.95,3.5,34,"['63.9921%', '49.0952%', '0px', '52.8095%']"
+19 Crimes Red Blend South Eastern Australia - The Banished,Australien,2021,14.95,4.0,42645,"['85%', '44.2493%', '21.4666%', '42.0971%']"
+Alentejo DOC Quinta da Vicosa João Portugal Ramos,Portugal,2019,24.95,4.2,500,"['66.6227%', '45.0791%', '6.92399%', '42.3663%']"
+Côtes-du-Rhône AOP Château Saint-André,Frankreich,2022,8.95,3.5,402,"['64.5276%', '48.0256%', '0px', '51.622%']"
+Sicilia DOC Bonera Mandrarossa,Italien,2020,12.95,3.6,2858,None
+Douro Casa Ferreirinha Papa Figos,Portugal,2022,10.50,3.9,83693,"['74.162%', '52.5022%', '13.556%', '42.2915%']"
+Natureo Tinto Torres alkoholfrei,Spanien,2023,9.95,3.6,5029,"['55.086%', '42.7503%', '14.0802%', '40.1993%']"
+Piemonte DOC Barbera Amaranto Borgovecchio,Italien,2021,6.95,3.0,249,"['52.9944%', '22.8848%', '2.73315%', '63.0028%']"
+Salquenen AOC Pinot Noir Grand Cru,Schweiz,2022,20.95,3.9,176,"['0px', '29.7239%', '4.29908%', '74.6626%']"
+Veneto IGT Rosso Passito Amadea,Italien,2021,13.50,3.6,1603,"['60.138%', '39.3897%', '21.5878%', '25.9425%']"
+Bonvillars AOC Pinot Noir Vin des Croisés Cave Viticulteurs de Bonvillars,Schweiz,2022,10.95,3.4,584,"['6.7879%', '19.6104%', '13.3863%', '65.2533%']"
+Burgenland Blauer Zweigelt Mundart,Österreich,2021,7.95,3.3,1222,"['39.7081%', '45.127%', '10.7492%', '54.6979%']"
+Chianti DOCG Borgovecchio,Italien,2022,15.95,3.3,81,"['42.5%', '67.5%', '0px', '67.9239%']"
+Coop Fine Food Toscana IGT Geminus Teruzzi,Italien,2020,23.50,3.9,168,"['46.5599%', '52.0669%', '0px', '45.0176%']"
+Côtes du Rhône AOP Croix d'Amont,Frankreich,,2.95,2.6,155,"['67.5%', '55%', '0px', '55%']"
+Förstertropfen Kalterersee DOC,Italien,,4.95,2.9,30,"['67.5%', '42.5%', '5%', '17.5%']"
+Primitivo di Manduria DOP Gocce Feudi Salentini,Italien,2019,19.50,4.2,5259,"['67.1283%', '22.7983%', '50.3772%', '11.4104%']"
+Rioja DOCa Reserva Ondarre,Spanien,2022,9.95,3.9,24815,"['63.9008%', '60.6697%', '7.2376%', '60.1683%']"
+Shiraz Coonawarra Wynns Estate,Australien,2019,8.75,3.6,7533,"['80.9473%', '44.566%', '17.0764%', '42.6277%']"
+Graveline Assemblage Rouge AOC,Schweiz,,6.50,3.1,85,None
+Binissalem Mallorca DO Crianza José L. Ferrer,Spanien,2019,13.50,3.7,6420,"['63.742%', '39.684%', '11.8197%', '41.7677%']"
+Château du Port Cahors Cuvée Prestige AOC,Frankreich,2018,12.95,3.6,1333,"['66.7489%', '48.9467%', '4.22175%', '45.7228%']"
+Château La Gurgue Margaux AOC,Frankreich,2018,24.35,3.9,3792,"['60.5863%', '62.6031%', '8.12439%', '68.8963%']"
+Shiraz Kalimna Barossa Valley Australia Bin 28 Penfolds,Australien,2021,38.95,4.4,72,"['85%', '44.345%', '20.0971%', '42.5%']"
+Toscana IGT Tignanello Antinori,Italien,2020,59.00,4.5,152977,None
+Aargau AOC Blauburgunder Falkenkönig Weinkeller zum Stauffacher,Schweiz,2022,9.95,3.5,711,"['0px', '17.5846%', '18.8037%', '56.1499%']"
+Barbera d'Asti DOCG Fontana La Spinetta,Italien,2021,17.50,3.8,692,"['56.3885%', '31.8145%', '3.98529%', '66.5939%']"
+Brunello di Montalcino DOCG Greppone Mazzi,Italien,2018,56.50,4.2,9943,None
+Château Marrin Saint-Emilion AOC Grand Cru,Frankreich,2018,19.95,4.1,22360,"['73.471%', '55.0242%', '7.41583%', '51.8486%']"
+Château Saint-Paul Haut-Médoc AOC Cru Bourgeois,Frankreich,2019,17.95,3.6,2621,"['72.383%', '64.8469%', '3.14071%', '69.7662%']"
+Douro DOC Altano Symington Family Estates,Portugal,2021,9.95,4.3,3177,"['75.8221%', '56.5613%', '27.8981%', '42.7416%']"
+Fine Food Châteauneuf-du-Pape AOC Domaine de la Côte de l'Ange,Frankreich,2021,34.95,4.1,3519,"['84.9987%', '42.9064%', '7.65679%', '48.6255%']"
+Primitivo di Manduria DOC Identità,Italien,2019,26.50,3.9,2844,"['62.5263%', '22.9692%', '43.7646%', '20.4987%']"
+Primitivo di Manduria DOP Luccarelli,Italien,2020,14.50,4.4,21447,None
+Rioja DOCa Selección Especial Cooperation Wines Cune,Spanien,2018,18.95,3.6,574,"['58.0925%', '70.063%', '2.61661%', '59.1056%']"
+Barolo DOCG Rocche dei Manzoni,Italien,2019,44.50,4.3,4286,"['63.71%', '73.5678%', '9.35026%', '79.2373%']"
+Bourgogne AOC Pinot Noir Mercurey Les Montelons Domaine Adélie,Frankreich,2021,26.50,3.9,1866,"['27.9937%', '21.6476%', '0.988993%', '65.8459%']"
+Cabernet Sauvignon Valley Oaks California Fetzer,USA,2020,15.50,3.5,11325,"['83.8741%', '53.2345%', '11.9687%', '43.3566%']"
+Châteauneuf-du-Pape AOP Château Mont-Redon,Frankreich,2019,47.95,4.2,20898,"['83.9551%', '39.4707%', '8.13035%', '44.0178%']"
+Chianti DOCG Selezione Donatello,Italien,2020,4.95,3.1,214,"['38.4917%', '53.7104%', '0.07292%', '65.4938%']"
+Piemont Nebbiolo Barbaresco Piazzo Argè,Italien,2020,22.50,4.0,208,"['56.3289%', '67.0168%', '9.26846%', '76.1393%']"
+Sicilia IGT Rosso Corvo,Italien,2021,8.95,3.5,22910,"['70.8221%', '39.5235%', '28.7587%', '32.0204%']"
+Valais AOC Syrah Cayas Jean-René Germanier,Schweiz,2021,39.95,3.8,3061,"['64.5458%', '58.5149%', '8.73389%', '55.6124%']"
+Vino de la Tierra de Castilla Tinto Mía Freixenet,Spanien,2021,6.95,3.9,214,"['71.4413%', '55.6675%', '5.75%', '26.5263%']"
+Beaune du Château Domaine Bouchard Père et Fils AOC,Frankreich,2020,39.95,4.1,13421,"['33.0105%', '24.3481%', '2.83129%', '62.0978%']"
+Bordeaux supérieur AOC Baron Eugène Haussmann,Frankreich,2020,5.95,3.5,5886,"['60.3604%', '52.4116%', '12.9566%', '56.7714%']"
+Château Chasse-Spleen Moulis en Médoc AOC,Frankreich,2019,44.95,4.0,33416,None
+Femar Roma DOC Rosso,Italien,2021,14.95,3.8,2886,"['51.691%', '43.9622%', '14.0212%', '42.5914%']"
+Hautes-Côtes de Nuits Les Dames Huguette 6x 75cl,Frankreich,2023,129.00,4.0,625,"['54.956%', '4.68215%', '46.0031%']"
+La Côte AOC Château d`Allaman,Schweiz,2022,14.95,3.5,460,None
+La Côte AOC Luins Rouge Collection Berner Geschichte,Schweiz,2022,7.95,3.0,67,None
+Malbec Mendoza Argentina Bodega Septima,Argentinien,2022,14.50,3.4,30540,"['62.0843%', '25.9984%', '18.9675%', '36.9385%']"
+Vacqueyras AOC Beaumiral Cave de Gigondas,Frankreich,2022,9.95,3.7,506,"['66.7978%', '53.6152%', '2.15273%', '50.7082%']"
+Château de Dracy Bourgogne AOC,Frankreich,2021,12.50,3.6,5817,"['29.7145%', '23.0782%', '2.4528%', '62.7924%']"
+Givry 1er Cru la Grande Berge 6x 75cl,Frankreich,2023,159.00,4.2,1520,"['42.2632%', '5.46053%', '44.1722%']"
+Hautes-Côtes de Beaune Le Clou 6x 75cl,Frankreich,2023,119.70,3.9,184,"['38.0041%', '23.8946%', '0px', '64.5186%']"
+Naturaplan Bio Château Gombaude-Guillot Pomerol L'école Famille Laval,Frankreich,2019,47.50,4.3,3404,"['74.7643%', '50.2031%', '5.35638%', '52.2332%']"
+Navarra DO Gran Feudo Crianza 626 Barricas,Spanien,2017,8.95,3.3,351,"['52.3441%', '51.1883%', '9.458%', '38.3239%']"
+Poggio Solivo Merlot Ticino DOC,Schweiz,2020,9.95,3.4,478,"['60.1388%', '45.6977%', '8.26824%', '56.1518%']"
+Sangiovese di Romagna DOC Appassimento Galante,Italien,2021,9.95,4.0,62,"['67.5%', '43.4%', '8.5%', '19%']"
+Terre di Chieti IGT Leggermente Appassite Patroferno,Italien,2021,13.50,4.2,25,"['44.6395%', '37.6861%', '0px', '35.5465%']"
+Toscana IGT Rèmole Rosso Frescobaldi,Italien,2022,9.50,3.6,44184,"['42.1008%', '38.5194%', '5.18006%', '45.0895%']"
+Barolo DOCG Palladino,Italien,2019,9.95,4.0,3975,None
+"Naturaplan Bio Blauer Zweigelt Biokult, Niederösterreich Qualitätswein",Österreich,2022,11.50,3.1,178,"['42.5%', '56.8229%', '0px', '65.8802%']"
+Naturaplan Bio-Côtes du Roussillon AOP John Wine Cazes,Frankreich,2022,8.70,3.6,329,"['64.0636%', '57.7696%', '5.95957%', '64.5326%']"
+Naturaplan Bio-Pinot Noir Neuchâtel AOC Domaine des Coccinelles,Schweiz,2022,19.50,3.5,207,"['18.1143%', '20.1626%', '0px', '72.303%']"
+Primitivo di Manduria DOC Identità,Italien,2018,26.50,3.9,2844,"['62.5263%', '22.9692%', '43.7646%', '20.4987%']"
+Priorat DOQ Ritme Acustic Celler,Spanien,2021,13.95,3.9,8229,"['84.5273%', '48.659%', '10.0506%', '53.3574%']"
+Valais AOC Pinot Noir Telegram Maye,Schweiz,2022,14.95,3.8,62,"['13.7866%', '27.2317%', '6.98171%', '63.8598%']"
+Château du Glana Saint-Julien AC,Frankreich,2018,24.95,3.9,9300,None
+Colchagua Valley Carmenère Los Vascos,Chile,2019,17.50,3.9,3766,"['75.3552%', '33.3314%', '5.74816%', '43.1171%']"
+Genève AOC Gamaret La clémence Cave de Genève,Schweiz,2020,19.95,3.5,408,None
+Naturaplan Bio Château Peybonhomme Les Tours AOC,Frankreich,2021,12.50,3.9,2641,"['63.1717%', '11.275%', '38.522%']"
+Naturaplan Bio-Côtes Catalanes IGP Le Canon du Marechal Cazes,Frankreich,2022,9.95,3.4,2256,"['64.2627%', '53.6599%', '6.90833%', '58.7198%']"
+Ticino DOC Merlot Biasca Premium,Schweiz,2021,21.95,3.7,1375,"['62.1212%', '39.1915%', '7.96057%', '45.2622%']"
+Ticino DOC Merlot Collivo Riserva,Schweiz,2020,21.50,3.8,689,"['56.4886%', '42.9226%', '9.75437%', '49.2649%']"
+Toscana IGT Rosso Villa Antinori,Italien,2020,11.50,3.8,123255,None
+Valais AOC Dôle Valisiana,Schweiz,,5.50,3.1,202,"['41.3095%', '17.5%', '27.0238%', '77.9762%']"
+Toscana IGT Ca'Marcanda Promis di Angelo Gaja,Italien,2021,47.95,4.1,49074,"['49.322%', '40.0115%', '5.77678%', '45.6304%']"
+Château Fonplégade Saint-Emilion AC Grand Cru Classé,Frankreich,2018,49.95,4.2,6519,"['74.5028%', '54.968%', '5.55046%', '52.4558%']"
+"Châteauneuf-du-Pape AOP, Mémora",Frankreich,2021,26.95,4.3,786,"['85%', '34.8191%', '0px', '44.2786%']"
+Châteauneuf-du-Pape AOP Château de Nalys E. Guigal,Frankreich,2016,64.95,4.1,6279,None
+Gigondas AOP Château Saint-André,Frankreich,2022,9.50,3.8,4057,"['80.3873%', '38.5045%', '7.8588%', '44.3695%']"
+Rioja DOCa Reserva Ondarre,Spanien,2019,9.95,3.9,24815,"['63.9008%', '60.6697%', '7.2376%', '60.1683%']"
+Savigny-lès-Beaune 1er Cru Ies Vergelesses 6x 75cl,Frankreich,2023,185.70,4.1,1374,"['33.4657%', '23.854%', '2.96247%', '65.2841%']"
+Vin de Pays Roman Rouge Apologia,Schweiz,2022,13.95,3.6,2075,None
+Château Langoa-Barton Saint-Julien AC 3ème Cru Classé,Frankreich,2015,52.50,4.2,12973,None
+Château la Pensée Lalande-de-Pomerol,Frankreich,2020,20.95,3.9,820,"['65.2754%', '52.7512%', '0px', '51.0875%']"
+Chianti Classico DOCG Riserva La Madonnina Triacca,Italien,2018,14.95,3.5,3292,"['45.6933%', '60.8658%', '0.791398%', '63.5052%']"
+Lavaux AOC Saint Saphorin Domaine des Faverges Grand Cru,Schweiz,2022,20.95,3.6,607,None
+Naturaplan Bio Chianti classico Concadoro DOCG,Italien,2020,12.95,3.2,456,"['44.7235%', '63.0971%', '7.375%', '62.2721%']"
+Neusiedlersee DAC Zweigelt Scheiblhofer,Österreich,2022,10.95,3.6,1508,"['44.4736%', '47.2182%', '16.6807%', '59.3719%']"
+Santenay 1er Cru Clos des Mouches 6x 75cl,Frankreich,2023,173.70,4.2,722,"['32.5334%', '22.8982%', '13.1115%', '61.9811%']"
+Château d'Escurac Médoc AC,Frankreich,2018,22.50,3.8,2777,"['71.6834%', '73.5671%', '8.76809%', '67.8081%']"
+Châteauneuf-du-Pape AOP Château La Nerthe,Frankreich,2020,49.95,4.2,24451,None
+Corton les Hautes-Mourottes Grand Cru 6x 75cl,Frankreich,2023,389.70,4.4,31,"['27.4071%', '16.9857%', '0px', '68.0571%']"
+Isola dei Nuraghi IGT Korem Argiolas,Italien,2020,33.95,4.1,5365,"['82.5082%', '43.35%', '26.8012%', '28.5994%']"
+Naturaplan Bio Gigondas AOP Terra Amata,Frankreich,2022,18.95,3.4,584,"['61.7062%', '55.4685%', '10.6952%', '53.3733%']"
+Rioja Azabache Crianza DOCa,Spanien,2020,5.95,3.5,5689,"['60.1843%', '57.9376%', '11.6868%', '58.5394%']"
+Rioja DOCa Reserva Viña Tondonia Lopez de Heredia,Spanien,2011,42.50,4.2,74325,None
+St-Estèphe AOC Château Tour de Pez,Frankreich,2016,23.95,3.8,5813,"['74.3176%', '74.753%', '7.38039%', '72.8931%']"
+Valais AOC Syrah Valisiana,Schweiz,,8.95,3.3,138,"['59.891%', '65.4079%', '3.00188%', '55.2312%']"
+Naturaplan Bio Catalunya DO Boira Garnatxa Negra Raimat,Spanien,2019,15.95,3.4,1262,"['74.5885%', '42.5844%', '8.28675%', '42.3324%']"
+Pinotage Durbanville WO South Africa Diemersdal,Südafrika,2022,22.95,3.9,5627,None
+Rasteau AOP Château Saint-André,Frankreich,2021,12.95,3.8,4057,"['80.3873%', '38.5045%', '7.8588%', '44.3695%']"
+Amarone della Valpolicella Conte di Valle Palazzo Maffei DOC,Italien,2017,41.95,4.2,2338,"['83.4866%', '22.2669%', '51.1548%', '23.1804%']"
+Bolgheri DOC Il Seggio Poggio al Tesoro,Italien,2021,33.50,4.1,16101,None
+Maremma Toscana IGT Botrosecco Le Mortelle Marchesi Antinori,Italien,2021,21.95,3.9,10114,None
+Ribera del Duero DO Tempranillo Roble Nebla Vicente Gandia,Spanien,2022,6.70,3.1,182,"['67.5%', '62.2235%', '0px', '67.9546%']"
+Rioja DOCa Reserva Bodegas Roda,Spanien,2019,31.50,4.2,27237,"['64.2269%', '61.9301%', '12.1139%', '59.9852%']"
+Magnum Toscana IGT Insoglio del Cinghiale Tenuta di Biserno,Italien,2021,52.00,4.0,28456,None
+Alentejo DOC Reserva Herdade do Peso,Portugal,2020,24.50,4.1,5827,"['75.0865%', '46.122%', '15.9903%', '39.8211%']"
+Amarone della Valpolicella DOCG Riserva Conte di Valle Palazzo Maffei,Italien,2016,41.95,4.2,2338,"['83.4866%', '22.2669%', '51.1548%', '23.1804%']"
+Cabernet Sauvignon Coonawarra The Siding Wynns Estate,Australien,2021,14.95,3.6,4673,"['65.9876%', '52.7971%', '11.6003%', '50.8015%']"
+Cabernet Sauvignon Wester Cape South Africa WO Selection Kleine Zalze,Südafrika,2020,21.50,3.1,165,"['60.9939%', '64.8773%', '18.2117%', '63.3804%']"
+Chianti Classico DOCG Riserva La Madonnina Triacca,Italien,2018,8.95,3.5,3292,"['45.6933%', '60.8658%', '0.791398%', '63.5052%']"
+Graubünden AOC Maienfeld Pinot Noir Bündner Banner,Schweiz,2022,17.95,3.6,549,"['9.20675%', '16.6445%', '8.68253%', '72.0926%']"
+Magnum Amarone della Valpolicella Classico DOCG Zeni,Italien,2019,49.95,4.2,15610,None
+Naturaplan Bio Alicante DO Viñas Viejas Castillo de Alicante,Spanien,2018,8.95,3.4,261,"['55.2565%', '47.2794%', '0px', '48.4379%']"
+Nederburg Cabernet Sauvignon Western Cape WO,Südafrika,2021,15.50,3.6,2830,"['71.0047%', '64.4311%', '8.47547%', '59.1288%']"
+Provincia di Verona IGT Corvina Ripa Magna,Italien,2021,15.50,4.1,14727,"['64.081%', '40.2505%', '20.1321%', '30.0209%']"
+Rioja Reserva DOCa Viña Real,Spanien,2017,12.65,3.8,12425,None
+Sardegna IGT Turriga Isola dei Nuraghi Argiolas,Italien,2019,84.00,4.4,15707,None
+Sforzato di Valtellina DOCG San Domenico Triacca,Italien,2018,29.50,4.0,2661,"['65.0643%', '75.1356%', '16.4186%', '78.6079%']"
+Toscana IGT Sangiovese Fontalloro Fèlsina,Italien,2019,47.50,4.2,13634,"['50.9029%', '45.373%', '9.93018%', '49.6938%']"
+Château Beau-Séjour Bécot Saint-Emilion 1er Grand Cru Classé B AOC,Frankreich,2018,82.50,4.3,12798,None
+Langhe DOC Nebbiolo Argo Villadoria,Italien,2021,9.95,3.6,671,"['66.5221%', '76.9172%', '0px', '84.603%']"
+Naturaplan Bio Languedoc-Roussillon Cap au Sud Domaine Cazes,Frankreich,2021,7.50,3.5,4294,"['61.9854%', '51.8081%', '10.7423%', '55.7671%']"
+Ribera del Duero DO Pruno Finca Villacreces,Spanien,2020,12.70,3.8,39292,"['62.6217%', '57.4704%', '10.0558%', '61.4452%']"
+Ripasso della Valpolicella DOC Superiore Brigaldara,Italien,2021,16.50,3.9,7151,"['63.8917%', '39.7449%', '32.894%', '29.0211%']"
+Salento IGP Susumaniello Feudi Salentini,Italien,2021,13.00,4.1,180,"['69.6984%', '33.3619%', '22.8399%', '27.5551%']"
+Ticino DOC Merlot Giornico Oro Gialdi Vini,Schweiz,2021,24.95,3.8,2008,"['59.6022%', '37.8034%', '17.0947%', '45.5666%']"
+Vinho Regional Alentejano Reserva Howards Folly,Portugal,2016,29.95,4.2,616,None
+Douro DOC Pomares Tinto Quinta Nova,Portugal,2021,11.50,3.9,5316,None
+Château Franc Grace-Dieu Grand Cru St-Emilion AOC,Frankreich,2019,24.95,3.7,3343,"['71.4985%', '58.7682%', '3.41697%', '54.8274%']"
+Château Phélan-Ségur Saint-Estèphe AC,Frankreich,2020,57.50,4.1,28449,None
+Dão DOC Taboadella Touriga Nacional Reserva,Portugal,2020,23.50,4.1,829,"['63.7132%', '50.2078%', '2.95101%', '54.5199%']"
+Ladoix 1er Cru les Basses Mourottes 6x 75cl,Frankreich,2023,179.70,4.0,305,"['35.7584%', '25.6077%', '1.57678%', '64.1517%']"
+Maremma Toscana DOC Poggio Bestiale Fattoria di Magliano,Italien,2018,37.50,4.0,3323,"['53.8723%', '45.3679%', '10.6521%', '46.0186%']"
+Neuchâtel AOC Pinot Noir Domaine Saint-Sébaste,Schweiz,2022,21.95,3.7,408,"['14.2443%', '17.9252%', '6.53629%', '67.0714%']"
+Neusiedlersee DAC Zweigelt Unplugged Hannes Reeh,Österreich,2021,24.95,4.1,10103,None
+Valais AOC Assemblage Rouge La Perle Noire Domaine du Mont d'Or,Schweiz,2022,19.95,3.8,573,None
+Valais AOC Syrah Les Perlines Maison Gilliard,Schweiz,2022,19.95,3.8,408,"['64.8129%', '64.4831%', '12.3006%', '57.4034%']"
+Western Cape WO Manor Nederburg House Cabernet Sauvignon,Südafrika,2019,14.50,3.5,3865,"['75.2297%', '62.6543%', '13.0266%', '61.9067%']"
+Beffroi du Barrail Saint Emilion AOC,Frankreich,2020,10.95,3.9,3220,"['72.6717%', '55.4555%', '3.91954%', '52.4396%']"
+Cabernet Sauvignon California Founders' Estate Beringer 6x 75cl,USA,2020,49.50,3.7,39181,"['85%', '52.7225%', '13.9572%', '42.781%']"
+Château Rouget Pomerol AOC,Frankreich,2017,45.95,4.2,7355,None
+Dolcetto d'Alba DOC Piazzo,Italien,2021,8.95,3.2,316,"['49.5332%', '42.2861%', '14.0605%', '30.2656%']"
+Geschenkbox 2x75cl Sicilia DOC Noto Rosso Zisola & Sicilia DOC Doppiozeta Noto Rosso Zisola,Italien,,44.25,4.0,3457,"['71.0102%', '42.0743%', '22.1956%', '35.2587%']"
+Gevrey-Chambertin 1er cru la Romanée Monopole 6x 75cl,Frankreich,2023,525.00,4.3,646,"['43.8045%', '40.3105%', '6.42949%', '71.8626%']"
+Magnum Toscana IGT Rosso Villa Antinori,Italien,2020,39.50,3.8,123255,None
+Naturaplan Bio Nussbaumer Cuvée Barrique,Schweiz,2022,12.95,3.8,174,None
+Nuits-Saint-Georges AOC Bichot,Frankreich,2021,46.50,4.0,1742,"['41.274%', '34.5939%', '6.00605%', '66.7133%']"
+Rioja DOCa Gran Reserva Marqués de Riscal,Spanien,2016,43.50,4.2,22695,"['65.5419%', '58.5532%', '9.80006%', '60.2741%']"
+Valais AOC Humagne Rouge Bibacchus,Schweiz,2021,9.30,3.6,2211,None
+Aigle Noir G. Bertrand Pays d'Oc IGP,Frankreich,2022,13.95,3.5,1876,"['50.3234%', '49.6852%', '0.820038%', '61.5406%']"
+Carmel King David Concord Koscher,Carmel,,16.95,3.3,241,"['64%', '53.1579%', '28.6053%', '42.5%']"
+Château Laroque Saint-Émilion Grand Cru Classé AOC,Frankreich,2017,36.50,4.1,19842,"['72.3165%', '56.078%', '7.95096%', '53.5459%']"
+Château Rol Valentin Saint-Emilion AOC Grand Cru,Frankreich,2018,32.95,4.1,3751,"['73.2885%', '52.2959%', '14.2549%', '50.5699%']"
+Free From Naturae Syrah Pays d'Oc IGP,Frankreich,2022,9.95,3.5,2385,"['61.8022%', '55.216%', '6.89027%', '62.3419%']"
+Langhe DOC Nebbiolo Sogni al Campo Terre da Vino,Italien,2021,15.90,3.3,184,"['39.5491%', '58.0617%', '18.4335%', '57.8244%']"
+Manduria DOP Primitivo Uno Riserva Masseria la Volpe,Italien,2020,19.95,4.3,3695,"['69.4195%', '26.2311%', '42.2514%', '13.4217%']"
+Naturaplan Bio Château Peybonhomme Les Tours Cru Bourgeois AOC,Frankreich,2021,6.95,3.5,1666,"['64.8245%', '63.0158%', '4.57865%', '67.0101%']"
+Toscana IGT Il Pino di Biserno Tenuta di Biserno,Italien,2021,52.50,4.3,19398,None
+Valais AOC Humagne Rouge Maître de Chais,Schweiz,2021,28.95,3.6,579,None
+Chianti Classico DOCG Riserva Villa Antinori,Italien,2021,22.50,4.0,45107,"['48.8189%', '55.743%', '5.98123%', '62.685%']"
+Babić Dalmatian Ego Fjaka Galić,Kroatien,2021,12.50,3.9,155,"['67.5%', '49.2308%', '0px', '42.5%']"
+Genève AOC Merlot Barrique Domaine des Charmes,Schweiz,2021,25.95,3.8,82,"['45.1974%', '36.5965%', '0px', '51.6667%']"
+Graubünden AOC Jeninser Pinot Noir Jürg Obrecht,Schweiz,2022,18.50,3.7,446,"['2.30488%', '19.6159%', '16.7117%', '64.3171%']"
+Pays d'Oc IGP La Cuvée Mythique,Frankreich,2021,6.95,3.5,520,"['60.807%', '61.0322%', '4.659%', '63.3989%']"
+Valais AOC Assemblage Rouge La Perle Noire Domaine du Mont d'Or,Schweiz,2022,19.95,3.8,573,None
+Valais AOC Syrah Les Perlines Maison Gilliard,Schweiz,2022,19.95,3.8,408,"['64.8129%', '64.4831%', '12.3006%', '57.4034%']"
+Western Cape WO Manor Nederburg House Cabernet Sauvignon,Südafrika,2019,14.50,3.5,3865,"['75.2297%', '62.6543%', '13.0266%', '61.9067%']"
+Beffroi du Barrail Saint Emilion AOC,Frankreich,2020,10.95,3.9,3220,"['72.6717%', '55.4555%', '3.91954%', '52.4396%']"
+Cabernet Sauvignon California Founders' Estate Beringer 6x 75cl,USA,2020,49.50,3.7,39181,"['85%', '52.7225%', '13.9572%', '42.781%']"
+Château Rouget Pomerol AOC,Frankreich,2017,45.95,4.2,7355,None
+Dolcetto d'Alba DOC Piazzo,Italien,2021,8.95,3.2,316,"['49.5332%', '42.2861%', '14.0605%', '30.2656%']"
+Geschenkbox 2x75cl Sicilia DOC Noto Rosso Zisola & Sicilia DOC Doppiozeta Noto Rosso Zisola,Italien,,44.25,4.0,3457,"['71.0102%', '42.0743%', '22.1956%', '35.2587%']"
+Gevrey-Chambertin 1er cru la Romanée Monopole 6x 75cl,Frankreich,2023,525.00,4.3,646,"['43.8045%', '40.3105%', '6.42949%', '71.8626%']"
+Magnum Toscana IGT Rosso Villa Antinori,Italien,2020,39.50,3.8,123255,None
+Naturaplan Bio Nussbaumer Cuvée Barrique,Schweiz,2022,12.95,3.8,174,None
+Nuits-Saint-Georges AOC Bichot,Frankreich,2021,46.50,4.0,1742,"['41.274%', '34.5939%', '6.00605%', '66.7133%']"
+Rioja DOCa Gran Reserva Marqués de Riscal,Spanien,2016,43.50,4.2,22695,"['65.5419%', '58.5532%', '9.80006%', '60.2741%']"
+Valais AOC Humagne Rouge Bibacchus,Schweiz,2021,9.30,3.6,2211,None
+Aigle Noir G. Bertrand Pays d'Oc IGP,Frankreich,2022,13.95,3.5,1876,"['50.3234%', '49.6852%', '0.820038%', '61.5406%']"
+Carmel King David Concord Koscher,Carmel,,16.95,3.3,241,"['64%', '53.1579%', '28.6053%', '42.5%']"
+Château Laroque Saint-Émilion Grand Cru Classé AOC,Frankreich,2017,36.50,4.1,19842,"['72.3165%', '56.078%', '7.95096%', '53.5459%']"
+Château Rol Valentin Saint-Emilion AOC Grand Cru,Frankreich,2018,32.95,4.1,3751,"['73.2885%', '52.2959%', '14.2549%', '50.5699%']"
+Free From Naturae Syrah Pays d'Oc IGP,Frankreich,2022,9.95,3.5,2385,"['61.8022%', '55.216%', '6.89027%', '62.3419%']"
+Langhe DOC Nebbiolo Sogni al Campo Terre da Vino,Italien,2021,15.90,3.3,184,"['39.5491%', '58.0617%', '18.4335%', '57.8244%']"
+Manduria DOP Primitivo Uno Riserva Masseria la Volpe,Italien,2020,19.95,4.3,3695,"['69.4195%', '26.2311%', '42.2514%', '13.4217%']"
+Naturaplan Bio Château Peybonhomme Les Tours Cru Bourgeois AOC,Frankreich,2021,6.95,3.5,1666,"['64.8245%', '63.0158%', '4.57865%', '67.0101%']"
+Toscana IGT Il Pino di Biserno Tenuta di Biserno,Italien,2021,52.50,4.3,19398,None
+Valais AOC Humagne Rouge Maître de Chais,Schweiz,2021,28.95,3.6,579,None
+Chianti Classico DOCG Riserva Villa Antinori,Italien,2021,22.50,4.0,45107,"['48.8189%', '55.743%', '5.98123%', '62.685%']"
+Babić Dalmatian Ego Fjaka Galić,Kroatien,2021,12.50,3.9,155,"['67.5%', '49.2308%', '0px', '42.5%']"
+Genève AOC Merlot Barrique Domaine des Charmes,Schweiz,2021,25.95,3.8,82,"['45.1974%', '36.5965%', '0px', '51.6667%']"
+Graubünden AOC Jeninser Pinot Noir Jürg Obrecht,Schweiz,2022,18.50,3.7,446,"['2.30488%', '19.6159%', '16.7117%', '64.3171%']"
+Pays d'Oc IGP La Cuvée Mythique,Frankreich,2021,6.95,3.5,520,"['60.807%', '61.0322%', '4.659%', '63.3989%']"
+Rasteau AOC Château Saint-André,Frankreich,2022,12.95,3.8,4057,"['80.3873%', '38.5045%', '7.8588%', '44.3695%']"
+Ribera del Duero DO Prima,Spanien,2021,11.20,3.6,5402,"['59.741%', '56.9138%', '14.9442%', '59.6262%']"
+Toscana IGT Governo all'uso Toscano,Italien,2018,7.50,4.0,15100,"['53.0255%', '38.6686%', '17.9167%', '41.0095%']"
+Valais AOC Humagne Rouge Les Perlines Maison Giliard,Schweiz,2022,19.95,3.7,63,None
+Château Labégorce Margaux AOC,Frankreich,2017,34.95,4.0,17778,"['64.4306%', '64.8557%', '4.13551%', '72.0453%']"
+Beaujolais Gamay Juliénas Georges Duboeuf,Frankreich,2019,11.50,4.0,222,"['0px', '4.12615%', '0px', '85%']"
+Los Vascos Cabernet Sauvignon Chile Barons de Rothschild,Chile,2020,6.95,3.5,1124,"['78.2611%', '45.7897%', '5.23473%', '43.9744%']"
+Médoc AOC Château Laffitte Laujac,Frankreich,2021,8.95,3.6,6327,"['69.4879%', '72.8185%', '2.63008%', '73.3591%']"
+Primitivo di Manduria DOP Riserva Concura,Italien,2018,29.50,4.3,2195,"['69.5342%', '21.7177%', '47.2047%', '11.4754%']"
+Saint-Chinian AOC Bardou Laurent Miquel,Frankreich,2016,15.50,4.0,709,"['66.7528%', '60.9864%', '5.68182%', '63.9593%']"
+Saint-Émilion Grand Cru AOC L'Hirondelle de Faugères,Frankreich,2019,14.95,3.8,991,"['72.8878%', '56.7579%', '13.6607%', '55.4135%']"
+Teperberg Cabernet Sauvignon Koscher,Efrat,,19.80,3.7,1360,"['73.3739%', '48.5393%', '16.0153%', '44.213%']"
+Ticino DOC Merlot Roncobello Valsangiacomo,Schweiz,2020,20.95,3.6,810,"['56.5778%', '44.6994%', '4.22123%', '45.1937%']"
+Vinho Regional Alentejano Reserva Herdade do Rocim,Portugal,2020,21.95,4.0,3377,"['68.9269%', '45.5186%', '12.7211%', '47.0533%']"
+Barolo Paesi Tuoi DOCG,Italien,2018,24.95,3.9,4495,"['62.4284%', '75.3388%', '4.1007%', '79.0738%']"
+Bio Naturaplan Terra Alpina Vino Rosso,Europa,2021,14.95,3.7,432,"['63.5%', '50.625%', '4.74022%', '80.3272%']"
+Bündner Pinot Noir Cottinelli,Schweiz,2022,10.95,3.5,58,"['0px', '17.5%', '0px', '80%']"
+Chambolle-Musigny AOC Les Cras Domaine Antonin Guyon,Frankreich,2020,59.95,4.2,1163,"['39.8996%', '32.892%', '4.25604%', '70.9291%']"
+Château Pey La Tour Bordeaux AOC,Frankreich,2021,6.95,3.5,11224,"['63.9309%', '55.4998%', '4.85544%', '61.9239%']"
+Le Dix de Los Vascos Domaines Barons de Rothschild,Chile,2018,49.95,4.2,6392,"['73.103%', '49.8047%', '11.6147%', '45.6458%']"
+Red Blend Clancy's Peter Lehmann,Australien,2017,8.75,3.6,7376,"['77.694%', '47.7018%', '20.1441%', '41.2907%']"
+Ribera del Duero DO Tempranillo Roble Pata Negra,Spanien,2022,6.70,3.5,231,"['54.7243%', '62.0093%', '8.01852%', '52.5432%']"
+Ticino DOC Merlot Ligornetto,Schweiz,2021,46.50,4.2,3132,"['59.8601%', '39.3044%', '12.4251%', '46.933%']"
+Toscana IGT Potenti Petra Wine,Italien,2021,28.95,4.1,2750,"['55.7378%', '45.4854%', '11.6917%', '48.865%']"
+Vignoble Mayard Châteauneuf-du-Pape AOP La Crau de ma Mère,Frankreich,2019,44.95,4.2,1850,"['85%', '41.1242%', '10.4812%', '44.292%']"
+Vino Nobile di Montepulciano Riserva DOCG Tenuta Trerose,Italien,2018,18.95,3.6,1186,"['54.3818%', '55.9498%', '4.24601%', '66.1033%']"
+Aglianico del Vulture DOC Piano del Cerro,Italien,2020,17.95,4.2,15578,None
+Château Haut-Bages Libéral Pauillac AOC 5ème Cru Classé,Frankreich,2017,47.50,4.1,19100,None
+Douro DOC Reserva Blend Quinta Nova,Portugal,2021,23.95,4.2,6873,None
+Efrat Judean Hills Red Koscher,Efrat,,14.50,3.1,207,"['42.5%', '46.6667%', '9.16667%', '46.6667%']"
+Gevrey-Chambertin AOC La Justice A. Guyon,Frankreich,2021,49.95,4.2,2788,"['41.2572%', '34.2849%', '7.16728%', '72.3323%']"
+Malbec Gran Reserva Mendoza Vineyards,Argentinien,2018,17.95,3.9,9180,"['64.5358%', '25.1786%', '14.9646%', '35.1614%']"
+Primitivo di Manduria DOP Imperio Feudo,Italien,2020,22.95,4.2,7467,"['69.5596%', '24.2291%', '40.7958%', '13.3968%']"
+Priorat DOQ Plaer Ritme Cellar,Spanien,2021,29.95,3.9,8229,"['84.5273%', '48.659%', '10.0506%', '53.3574%']"
+Rioja DOCa Gran Reserva Imperial Bodegas Cune,Spanien,2016,65.00,4.1,92276,"['61.9754%', '58.0479%', '8.25273%', '59.6461%']"
+Rioja DOCa Reserva Ardanza La Rioja Alta,Spanien,2017,32.95,4.3,77806,None
+Ticino DOC Merlot Roncobello Valsangiacomo,Schweiz,2019,20.95,3.6,810,"['56.5778%', '44.6994%', '4.22123%', '45.1937%']"
+Ticino DOC Oro Rosso Tenimento dell'Ör,Schweiz,2019,19.50,3.8,629,None
+Pays Gamay de Romandie Rubiette,Schweiz,,3.60,2.8,131,"['29.7972%', '10.8679%', '20.8302%', '79.3774%']"
+Carignano del Sulcis DOC Superiore Terre Brune Cantina di Santadi,Italien,2018,43.00,4.2,13477,"['81.4587%', '44.5607%', '30.1556%', '28.3272%']"
+Chianti Classico DOCG Gran Selezione Badia a Passignano,Italien,2020,44.95,4.2,27871,"['49.9173%', '55.6974%', '8.67075%', '62.3311%']"
+Chianti DOCG Selezione Donatello,Italien,2022,4.95,3.1,214,"['38.4917%', '53.7104%', '0.07292%', '65.4938%']"
+Don Mendo Reserva Cariñena DO,Spanien,2018,9.95,3.7,6565,"['64.4852%', '38.5327%', '7.43857%', '41.7223%']"
+España Memento Mori Bodegas Cvne,Spanien,2020,9.95,3.9,163,"['61.1035%', '41.1293%', '27.4526%', '37.7026%']"
+Magnum Rioja DOCa Reserva Marqués de Riscal,Spanien,2019,34.95,4.1,227151,"['63.8968%', '59.2479%', '9.3505%', '59.4017%']"
+Mendoza Vineyards Malbec Selección,Argentinien,2022,12.95,3.4,127,"['67.7944%', '26.8649%', '18.0686%', '28.1734%']"
+Naturaplan Bio Bergerac AOC Mirabelle du Château de la Jaubertie,Frankreich,2020,15.95,3.9,1302,"['79.8331%', '56.183%', '22.8978%', '75.8614%']"
+Piemonte DOC Barbera Amaranto Borgovecchio,Italien,2020,6.95,3.0,249,"['52.9944%', '22.8848%', '2.73315%', '63.0028%']"
+Valais AOC Pinot Noir Valisiana,Schweiz,2020,6.95,3.3,169,"['0px', '19.1108%', '0px', '70.6933%']"
+Zürich AOC Goldküste Pinot Noir Cabernet,Schweiz,2022,13.95,4.4,15,None
+Zürich AOC Pinot Noir Kümin,Schweiz,2022,14.95,3.7,80,"['0px', '17.5%', '0px', '72.8572%']"
+St-Estèphe AOC Château Lilian Ladouys,Frankreich,2016,28.95,3.9,17978,None
+Château La Gurgue Margaux AOC,Frankreich,2021,24.95,3.9,3792,"['60.5863%', '62.6031%', '8.12439%', '68.8963%']"
+Chianti Classico DOCG Riserva Ducale Ruffino,Italien,2020,34.00,3.9,59263,None
+Côtes de Bordeaux Castillon AOC Château Cap de Faugères,Frankreich,2017,16.95,3.7,5848,None
+Montefalco DOCG Sagrantino Scacciadiavoli,Italien,2017,19.95,4.1,6730,"['58.5678%', '53.2625%', '7.57991%', '45.9689%']"
+Morellino di Scansano IGT Poggio Valente Fattoria Le Pupille,Italien,2019,35.50,3.7,9814,None
+Pro Montagna Pinot Noir Valais AOC,Schweiz,2022,17.95,3.0,10,None
+Pro Montagna Pinot Noir Valais AOC,Schweiz,2023,17.95,3.0,10,None
+Terre Siciliane IGT Nero d'Avola Riserva Corvo Duca di Salaparuta,Italien,2020,12.95,3.8,7051,"['75.3488%', '43.6779%', '27.8557%', '33.3478%']"
+The Prisoner Napa Valley,USA,2019,72.00,4.4,9335,"['82.5713%', '49.1236%', '12.383%', '49.0816%']"
+Ticino DOC Carato Merlot Vini e Distillati Angelo Delea,Schweiz,2020,36.00,4.1,2100,"['62.2259%', '36.5833%', '11.0304%', '41.1104%']"
+Valais AOC Pinot Noir Valisiana,Schweiz,,6.95,3.3,169,"['0px', '19.1108%', '0px', '70.6933%']"
+Vin de Pays Suisse Akkurat Staatskellerei Zürich,Schweiz,2021,16.50,2.6,26,"['35.0385%', '41.6538%', '32.0385%', '39.5%']"
+Zinfandel California Beringer Founders' Estate,USA,2020,16.50,3.8,14558,"['80.6801%', '29.5433%', '40.0241%', '13.0663%']"
+Zweigelt Niederösterreich Sandstein Pfaffl,Österreich,2023,12.50,3.6,904,"['41.3113%', '49.1872%', '1.44597%', '61.9814%']"
+Aargau AOC Blauburgunder Falkenkönig Weinkeller zum Stauffacher,Schweiz,2021,9.95,3.5,711,"['0px', '17.5846%', '18.8037%', '56.1499%']"
+Bordeaux Chateau Les Riganes Kosher,Herzog,,17.50,3.7,825,"['58.6964%', '45.2623%', '1.22409%', '60.3159%']"
+Brunello di Montalcino DOCG Castel Giocondo,Italien,2018,57.00,4.3,59818,"['48.4157%', '57.4055%', '6.65578%', '64.1591%']"
+Château Belgrave Haut-Médoc AOC Grand Cru Classé,Frankreich,2021,19.95,4.0,16952,None
+Château Poujeaux Moulis-en-Médoc AOC,Frankreich,2016,44.95,4.0,22535,None
+Chianti DOCG Borgovecchio,Italien,2020,15.95,3.3,81,"['42.5%', '67.5%', '0px', '67.9239%']"
+Crozes-Hermitage AOP Les Moniers M. Chapoutier,Frankreich,2021,19.95,3.6,1463,"['64.442%', '50.7741%', '4.58333%', '48.7334%']"
+Della Robbia Brunello di Montalcino DOCG,Italien,2016,12.95,3.6,3075,"['45.002%', '59.9685%', '17.8452%', '61.5488%']"
+Etna DOC Vulkà Rosso Nicosia,Italien,2020,14.50,3.6,1956,"['67.8565%', '42.7498%', '18.9801%', '42.4221%']"
+Genève AOC Assemblage Noir Divin Domaine du Paradis,Schweiz,2022,20.95,3.8,480,None
+Ladoix 1er Cru Le Bois Roussot,Frankreich,2022,33.50,4.0,436,"['34.7529%', '23.5916%', '3.06452%', '61.1342%']"
+Les Dailles Dôle de Salquenen AOC,Schweiz,2021,7.50,3.4,1997,"['12.5218%', '20.739%', '5.98163%', '73.4153%']"
+Montsant DO Tinto Acústic Celler,Spanien,2019,15.95,3.9,8840,None
+Naturaplan Bio Parco Marano Castel del Monte DOC,Italien,2016,18.50,3.8,495,"['71.0965%', '48.7805%', '23.9219%', '29.9708%']"
+Ribera del Duero DO Aalto PS Bodegas y Viñedos Aalto,Spanien,2019,109.00,4.3,848,"['70.0539%', '54.8187%', '14.3124%', '53.9868%']"
+Ribera del Duero DO Crianza Pesquera,Spanien,2020,18.70,4.0,60625,None
+Rosso di Montalcino DOC Pian delle Vigne,Italien,2020,21.50,3.9,11541,None
+Salento IGT Negroamaro Vecchia Torre,Italien,2019,9.95,3.8,2333,"['74.6392%', '34.5959%', '33.2198%', '31.0698%']"
+Steinböckler Pinot Noir Malans AOC,Schweiz,2022,18.95,3.5,790,"['12.2495%', '20.136%', '11.4887%', '64.0688%']"
+Ticino DOC Merlot Riserva Cagi,Schweiz,2021,9.95,3.5,574,"['61.9539%', '35.9059%', '5.91842%', '45.398%']"
+Ticino DOC Selezione d'Ottobre Riserva,Schweiz,2020,19.95,3.7,63,"['53.55%', '35.2286%', '15.4071%', '39.0643%']"
+Toscana IGT Saffredi Fattoria le Pupille,Italien,2020,94.50,4.4,11591,None
+USA Unshackled Red Blend,USA,2019,24.95,4.0,8227,"['82.1463%', '49.4617%', '13.2219%', '58.1186%']"
+Valais AOC Cornalin Maître de Chais,Schweiz,2020,28.95,3.8,633,"['38.6736%', '35.4509%', '11.881%', '54.6026%']"
+Valais AOC Dôle Valisiana,Schweiz,2020,5.50,3.1,202,"['41.3095%', '17.5%', '27.0238%', '77.9762%']"
+Valais AOC Pinot Noir Vendémiaire,Schweiz,2022,19.95,3.4,1997,"['12.5218%', '20.739%', '5.98163%', '73.4153%']"
+Vranac Amanet Vinarija Aleksic,Serbien,2019,13.95,4.0,571,None
+Yellow Tail Merlot Casella Family,Australien,2021,8.50,3.3,16264,"['65.04%', '19.8502%', '14.4014%', '10.5702%']"
+Alentejano IG Herdade Paco Conde Reserva,Portugal,2018,19.95,4.0,1076,"['76.7422%', '40.8754%', '20.0422%', '39.4729%']"
+Alentejo DOC Revelado Herdade do Peso,Portugal,2020,14.95,4.1,481,"['62.5518%', '43.1782%', '22.4102%', '41.1475%']"
+Barolo DOCG del Comune di Serralunga d'Alba Tenuta Cucco,Italien,2019,49.00,4.1,4487,None
+Bordeaux supérieur AOC Baron Eugène Haussmann,Frankreich,2021,5.95,3.5,5886,"['60.3604%', '52.4116%', '12.9566%', '56.7714%']"
+Château d'Armailhac Pauillac AC 5ème Cru Classé,Frankreich,2020,49.95,4.1,31622,"['72.4459%', '71.7912%', '7.21698%', '71.7407%']"
+Châteauneuf-du-Pape AOP Cuvée Château des Fines Roches,Frankreich,2016,34.95,4.1,10585,"['81.6669%', '35.808%', '5.34764%', '40.9501%']"
+Château Pierre 1er Saint-Emilion AC Grand Cru,Frankreich,2019,24.95,3.9,4589,"['74.6772%', '58.6154%', '5.60711%', '51.1207%']"
+Grand Barossa Cabernet Sauvignon Château Tanunda,Australien,2020,19.95,3.9,4119,"['66.766%', '57.8428%', '7.84004%', '54.4493%']"
+Joanin-Bécot Castillon Côtes de Bordeaux AOC,Frankreich,2016,29.95,3.9,4336,None
+Magnum Valais AOC Syrah Cayas Jean-René Germanier,Schweiz,2020,99.95,3.8,3061,"['64.5458%', '58.5149%', '8.73389%', '55.6124%']"
+Malans AOC Pinot Noir Weingut Von Salis,Schweiz,2022,21.50,3.9,534,"['4.45405%', '20.2554%', '12.753%', '77.628%']"
+Médoc AOC Château Lousteauneuf,Frankreich,2018,16.95,3.7,2203,"['73.2371%', '73.4598%', '11.9125%', '67.0163%']"
+Naturaplan Bio Haut-Médoc Château Micalet,Frankreich,2021,14.95,3.8,1052,"['71.9807%', '74.435%', '7.35429%', '73.328%']"
+Piemont Nebbiolo Barbaresco Roncaglia Poderi Colla,Italien,2019,46.95,4.1,573,"['58.2429%', '69.4625%', '0px', '81.0144%']"
+Puro Malbec Cabernet Mendoza Dieter Meier,Argentinien,2021,19.95,3.9,3937,"['77.6173%', '43.8177%', '14.2244%', '42.3852%']"
+Ribera del Duero DO Conde de San Cristóbal,Spanien,2019,16.45,3.9,14260,"['63.9522%', '50.9235%', '12.3634%', '54.4953%']"
+Rioja Faustino Crianza DoCa,Spanien,2019,11.95,3.6,17606,"['55.5115%', '58.0228%', '13.1881%', '57.0037%']"
+Shiraz Angels' Share McLaren Vale Two Hands,Australien,2019,27.50,4.0,23353,"['85%', '45.9309%', '20.0915%', '44.1853%']"
+Vinho Regional Alentejano Mariana Herdade do Rocim,Portugal,2020,14.95,3.8,14092,"['66.38%', '37.374%', '18.5196%', '39.8407%']"
+Waadt Cuvée Murat Le Clos de Céligny,Schweiz,2018,15.70,3.8,43,None
+Zinfandel Lodi Brazin,USA,2020,14.50,4.1,30008,None
+Amarone della Valpolicella DOCG Bertani,Italien,2020,28.50,4.4,20214,None
+Château Cantenac Brown 3ème Cru Classé Margaux AOC,Frankreich,2017,64.95,4.2,18547,"['62.9674%', '64.6199%', '7.10272%', '72.0043%']"
+Château Chauvin Saint-Emilion AOC Grand cru classé,Frankreich,2016,49.95,4.0,3688,"['72.4923%', '56.6896%', '8.82249%', '51.7189%']"
+Château Haut-Bergey Pessac-Léognan AC,Frankreich,2019,27.50,3.9,10343,None
+Château Rouget Pomerol AOC,Frankreich,2016,67.50,4.2,7355,None
+Neuchâtel AOC Pinot Noir Domaine de Montmollin,Schweiz,2022,19.50,3.4,342,"['5.34705%', '28.139%', '0.11646%', '73.3106%']"
+Neuchâtel AOC Pinot Noir Les Petits Crêts Cave des Coteaux,Schweiz,2022,10.50,3.6,65,"['9.35887%', '21.3165%', '6.27218%', '58.6149%']"
+Pro Montagna Valais AOC Dôle Séléction,Schweiz,2023,15.95,3.2,63,"['42.5%', '33.125%', '16%', '80.375%']"
+Ticino DOC Merlot Rompidée,Schweiz,2020,39.00,3.5,17560,"['56.0048%', '44.0847%', '14.4239%', '52.4211%']"
+Valais AOC Dôle Soleil de Sierre Caves Imesch,Schweiz,2022,9.95,4.0,319,None
+Valais AOC Favi Assemblage de Cépages rouges,Schweiz,2020,10.50,3.7,1471,None
+Vino Nobile di Montepulciano DOCG Santavenere Triacca,Italien,2018,8.95,3.5,1169,"['44.5004%', '58.5069%', '9.00862%', '65.9017%']"
+Bordeaux AC Mouton Cadet Baron Ph de Rothschild,Frankreich,2019,4.95,3.4,215,"['67.2088%', '67.7629%', '0px', '72.799%']"
+Château Belgrave Haut-Médoc AC 5ème Cru Classé,Frankreich,2018,39.95,4.0,16952,None
+Château Clément Pichon Haut-Médoc AC,Frankreich,2018,29.95,3.9,5198,None
+Château du Glana Saint-Julien AC,Frankreich,2017,34.95,3.9,9300,None
+Château Fombrauge St-Emilion AOC Grand Cru Classé,Frankreich,2020,37.50,4.1,22360,"['73.471%', '55.0242%', '7.41583%', '51.8486%']"
+Château Gloria Saint-Julien AOC,Frankreich,2019,49.95,4.1,31020,None
+Château Mangot Saint-Emilion AC Grand Cru,Frankreich,2019,29.95,4.1,5893,"['74.7076%', '59.0289%', '8.12521%', '54.2133%']"
+Château Meyney St-Estèphe AOC,Frankreich,2020,37.50,4.0,15561,None
+Château Rouget Pomerol AOC,Frankreich,2018,62.50,4.2,7355,None
+Fitou AOP Château de Segure,Frankreich,2022,9.95,3.7,2407,"['63.6139%', '55.3114%', '4.22514%', '59.6584%']"
+Lovely Merlot Scheiblhofer,Österreich,2022,9.95,3.8,906,"['44.044%', '17.6399%', '35.5047%', '42.3192%']"
+Magnum Toscana IGT Le Difese Tenuta San Guido,Italien,2021,49.00,3.8,45975,"['45.6358%', '42.5879%', '6.53265%', '48.2424%']"
+Naturaplan Bio Aargau AOC Fricker Blauburgunder,Schweiz,2022,14.50,3.4,28,"['20.125%', '39.75%', '0.125003%', '72.875%']"
+Paris Séduction Carignan-Syrah,Frankreich,,2.95,2.9,167,None
+Red Blend Clancy's Peter Lehmann,Australien,2019,8.75,3.6,7376,"['77.694%', '47.7018%', '20.1441%', '41.2907%']"
+Spätburgunder Baden Alte Reben Weingut Michel,Deutschland,2021,14.95,3.7,414,"['6.54815%', '20.2138%', '0px', '73.5127%']"
+Toro DO Vino de Finca Flor de Vetus,Spanien,2018,14.95,3.7,10458,"['73.6354%', '52.6765%', '6.43497%', '38.8816%']"
+Valais AOC Humagne Rouge Hurlevent,Schweiz,2021,20.95,3.6,2211,None
+Vino Nobile di Montepulciano DOCG Santavenere Triacca,Italien,2017,14.95,3.5,1169,"['44.5004%', '58.5069%', '9.00862%', '65.9017%']"
+Vully AOC Pinot Noir Domaine de Villarose,Schweiz,2022,16.95,3.4,112,"['3.57292%', '29.9717%', '0px', '55.5506%']"
+Aargau AOC Pinot Noir Besserstein,Schweiz,2022,19.95,3.5,64,"['3.67974%', '21.0719%', '12.7222%', '69.0163%']"
+Barbera d'Alba DOC Borgogno,Italien,2021,23.00,3.9,10172,"['55.5157%', '25.0517%', '5.17164%', '64.4132%']"
+Bolgheri DOC Azienda Agricola Donne Fittipaldi,Italien,2022,25.50,4.0,4946,"['64.7536%', '63.4921%', '7.52566%', '53.8278%']"
+Burgenland Merlot Unplugged Hannes Reeh,Österreich,2019,27.95,4.1,2928,"['50.5033%', '22.8455%', '29.8481%', '43.1413%']"
+Cabernet Sauvignon Limited Release Napa Valley Black Stallion,USA,2017,79.95,4.3,2112,None
+Château la Prade Francs - Côtes de Bordeaux AC,Frankreich,2018,19.95,3.8,1445,"['68.0753%', '59.5499%', '4.88013%', '63.5656%']"
+Château Léoville-Barton 2ème Cru Classé St-Julien AOC,Frankreich,2019,99.00,4.3,40042,None
+Château Pierre 1er Saint-Emilion AC Grand Cru,Frankreich,2021,21.50,3.9,4589,"['74.6772%', '58.6154%', '5.60711%', '51.1207%']"
+Château Tour des Termes Saint-Estèphe AC,Frankreich,2018,29.95,4.0,5024,None
+Chianti Classico DOCG Villa Franchi Triacca,Italien,2018,8.95,3.1,341,"['40.3919%', '59.0572%', '7.35593%', '65.1631%']"
+Coteaux Languedoc AOC clos des Nines,Frankreich,2022,11.95,3.7,49,"['64.1059%', '51.1618%', '24.5853%', '53.5559%']"
+Magnum Douro DOC Reserva Quinta dos Quatro Ventos,Portugal,2019,33.00,4.2,1265,"['81.3629%', '52.4971%', '14.2174%', '45.1828%']"
+Malbec Amalaya Valle Calchaqui,Argentinien,2020,14.95,3.9,4253,"['84.2764%', '56.6742%', '12.5308%', '63.8017%']"
+Nuits-Saint-Georges 1er Cru Clos des Argillières 6x 75cl,Frankreich,2023,435.00,4.1,987,"['42.1522%', '32.1884%', '10.6319%', '74.0147%']"
+Priorat DOQ Salmos Torres,Spanien,2018,31.95,4.1,22696,"['85%', '48.4508%', '10.7627%', '54.3452%']"
+St. Laurent Niederösterreich Wald Pfaffl,Österreich,2021,12.50,3.8,480,"['41.2478%', '18.4238%', '31.1583%', '70.5999%']"
+Valais AOC Assemblage Rouge Leon Chai du Baron,Schweiz,2022,19.95,3.8,464,None
+Valais AOC Pinot Noir de Salquenen,Schweiz,2022,14.95,3.4,1997,"['12.5218%', '20.739%', '5.98163%', '73.4153%']"
+Vinho Regional Alentejano Vinha de San Lázaro João Portugal Ramos,Portugal,2017,29.95,4.1,887,"['65.7051%', '46.822%', '18.7505%', '42.4275%']"
+Vinjo Regional Alentejano IGP Planura,Portugal,2022,12.95,3.5,2979,"['62.371%', '42.0141%', '22.7021%', '42.346%']"
+Barbera d'Asti Superiore DOCG Balau Baldi,Italien,2017,23.95,4.1,76,"['57.445%', '25.7089%', '2.72632%', '67.5884%']"
+Barolo DOCG Prunotto,Italien,2019,41.95,4.0,28268,None
+Castel Monte Rosso Riserva DOCG Il Falcone Rivera,Italien,2016,21.50,3.8,8931,None
+Château Haut-Bergey Pessac-Léognan AC,Frankreich,2020,29.95,3.9,10343,None
+Château Lagrange Saint-Julien 3ème Cru Classé AOC,Frankreich,2018,67.50,4.1,36142,None
+Châteauneuf-du-Pape AOC Château Saint-André,Frankreich,2023,22.95,3.8,4057,"['80.3873%', '38.5045%', '7.8588%', '44.3695%']"
+Château Paloumey Haut-Médoc AC,Frankreich,2016,19.40,3.9,6102,"['72.2652%', '72.9669%', '5.54017%', '73.2951%']"
+Chivite Navarra Coleccion 125,Spanien,2017,29.95,3.9,969,"['67.0592%', '48.519%', '8.44886%', '42.067%']"
+Clos des Jacobins Saint-Emilion AOC,Frankreich,2016,43.95,4.1,4427,"['73.8129%', '57.6686%', '9.1109%', '52.5818%']"
+Costers del Segre DO Ànima de Raimat,Spanien,2020,14.50,3.8,3932,"['41.814%', '9.43598%', '52.4543%']"
+Côtes de Castillon AOC Château d’Aiguilhe,Frankreich,2018,28.50,4.0,11485,None
+Côtes du Rhône Luberon Chapoutier,Frankreich,2022,8.95,3.7,32905,"['62.8862%', '47.9837%', '4.93597%', '54.0802%']"
+Cottinelli Malanser Pinot Noir AOC,Schweiz,2021,19.95,3.5,200,"['2.35484%', '20.3764%', '1.63307%', '72.1331%']"
+Douro DOC Quinta Nova Reserva Blend,Portugal,2020,23.95,4.2,6873,None
+Emilia Romagna DOC Lambrusco Concerto Medici Ermete,Italien,2022,16.40,3.8,307,"['42.5%', '42.5%', '80%']"
+Haut-Médoc AOC La Pelouse Château Cambon,Frankreich,2017,21.95,3.8,13268,None
+Merlot Svizzera IGT Scudo d'Oro,Schweiz,2020,9.50,3.2,112,"['25.334%', '36.6622%', '25.9389%', '41.5954%']"
+Moulin-à-Vent AOP Les Michelots,Frankreich,2022,7.95,3.3,534,"['6.19958%', '17.5882%', '7.76156%', '72.5693%']"
+Neusiedlersee DAC Zweigelt Scheiblhofer,Österreich,2021,10.95,3.6,1508,"['44.4736%', '47.2182%', '16.6807%', '59.3719%']"
+Plavac Mali Barrique Zlatan Otok,Kroatien,2016,23.50,4.1,871,"['67.4124%', '62.0495%', '25.1915%', '73.6458%']"
+Pro Montagna Valais AOC Dôle Séléction,Schweiz,2022,15.95,3.2,63,"['42.5%', '33.125%', '16%', '80.375%']"
+Rioja DOCa Conde de Valdemar Crianza,Spanien,2019,13.90,3.6,6347,None
+Rioja DOCa Pata Negra Crianza,Spanien,2018,11.95,3.6,2991,"['54.6919%', '53.0711%', '18.2231%', '53.9203%']"
+Rioja DOCa Reserva In the Name of Wine Bodegas Faustino,Spanien,2018,12.50,4.0,1133,"['52.9424%', '46.5179%', '6.20104%', '47.1602%']"
+Shiraz Lily's Garden McLaren Vale Two Hands,Australien,2016,54.95,4.2,4932,None
+Terre Domiziane DOC Rosso Roma,Italien,2019,14.95,3.7,27,"['59.3677%', '49.6324%', '17.8677%', '53.3088%']"
+Toscana IGT Rosso Danzante,Italien,2021,8.95,3.6,578,"['39.4602%', '35.7249%', '7.36274%', '40.8572%']"
+Umbria IGP Rosso Vitiano Falesco,Italien,2021,11.50,3.6,13254,"['45.6111%', '38.7298%', '6.81276%', '45.3865%']"
+Valpolicella Classico DOCG Ripasso Superiore Borghetti,Italien,2021,17.90,4.2,162,"['67.381%', '28.4603%', '18.4762%', '17.0595%']"
+Volnay 1er Cru Clos des Chênes 6x 75cl,Frankreich,2023,375.00,4.1,2351,"['36.7311%', '26.9355%', '3.79662%', '62.9729%']"
+Baden Kaiserstuhl Spätlese Pinot Noir,Deutschland,2022,9.95,3.6,149,"['1.04762%', '18.8512%', '17.8095%', '68.1697%']"
+Barbera d'Alba DOC Dina Angelo Negro,Italien,2022,16.50,3.7,1919,"['52.7873%', '27.1913%', '7.87942%', '60.5701%']"
+Bolgheri DOC Villa Donoratico Tenuta Argentiera,Italien,2020,41.00,4.1,14869,None
+Château de Camensac 5ème Grand Cru Classé Haut-Médoc AOC,Frankreich,2016,39.95,3.9,18195,None
+Château du Tertre Margaux AC 5ème Cru Classé,Frankreich,2020,49.95,4.2,23634,None
+Château Lynch-Moussas Pauillac AC 5ème Cru Classé,Frankreich,2016,42.50,4.1,19685,None
+Château Moulin de Clotte Vieilles Vignes Castillon - Côtes de Bordeaux AC,Frankreich,2016,14.95,4.0,107,"['69.1963%', '50.4813%', '0px', '65.1799%']"
+Côtes du Rhône AOC Réserve Famille Perrin,Frankreich,2021,12.95,3.7,39569,"['62.4684%', '46.9349%', '3.03699%', '53.9048%']"
+Douro DOC Cooperation Wine Niepoort,Portugal,2016,23.50,3.5,128,"['69.25%', '55.4278%', '3.1%', '41.7037%']"
+"Epesses Rouge Lavaux AOC, Union Vinicole Cully",Schweiz,2021,14.95,3.4,90,"['4.625%', '27%', '11.75%', '70.25%']"
+Genève AOC Pinot Noir Domaine du Paradis,Schweiz,2022,13.50,3.4,147,"['0px', '22.3467%', '0px', '76.7367%']"
+Gevrey-Chambertin les Evocelles 6x 75cl,Frankreich,2023,315.00,4.2,1051,"['39.4503%', '28.694%', '6.76117%', '69.9749%']"
+Malbec Amalaya Valle Calchaqui,Argentinien,2022,14.95,3.9,4253,"['84.2764%', '56.6742%', '12.5308%', '63.8017%']"
+Mendoza Malbec Terrazas de los Andes,Argentinien,2021,18.50,4.2,176,"['57.8014%', '38.0975%', '26.686%', '46.427%']"
+Naturaplan Bio Castel del Monte Almagia Rosso Giancarlo Ceci,Italien,2019,11.50,3.7,248,"['82.7569%', '47.0721%', '18.3283%', '17.9662%']"
+Niederösterreich Excellent Réserve Pfaffl,Österreich,2020,23.00,3.8,332,"['46.4948%', '32.1289%', '26.1366%', '81.1186%']"
+Pessac-Léognan AOC Château La Louvière,Frankreich,2016,39.95,4.0,15844,None
+Shiraz Cabernet South Eastern Australia Jacob's Creek,Australien,2020,7.95,3.4,28201,"['84.9498%', '45.7521%', '6.77391%', '43.4746%']"
+Sicilia DOC Noto Rosso Zisola Mazzei,Italien,2020,19.50,3.8,12240,"['76.5154%', '41.0085%', '25.391%', '32.8877%']"
+South Australia Cabernet Shiraz BIN 389 Penfolds,Australien,2021,69.95,4.3,38548,"['85%', '46.9711%', '11.8391%', '42.9607%']"
+Ticino DOC Merlot Touché,Schweiz,2020,27.95,3.8,411,"['57.2766%', '45.3975%', '20.2577%', '43.823%']"
+Ticino DOC Merlot Tre Terre Chiodi,Schweiz,2021,21.95,3.7,596,"['55.6425%', '35.5968%', '6.97097%', '46.5876%']"
+Ticino DOC Merlot Vecchia Masseria Riserva Vinattieri,Schweiz,2018,23.95,3.8,315,"['59.461%', '40.3257%', '13.514%', '46.9066%']"
+Ticino DOC Vigna d'Antan Brivio,Schweiz,2020,34.50,4.0,615,None
+Château Clos Fourtet Saint-Emilion AC 1er Grand Cru Classé B,Frankreich,2017,109.00,4.3,896,"['59.5941%', '46.6925%', '6.14086%', '46.3262%']"
+Château Léoville-Poyferré Saint-Julien AC 2ème Cru Classé,Frankreich,2012,94.95,4.3,36606,None
+Château Péby Faugères Grand Cru St-Emilion AOC,Frankreich,2015,139.00,4.3,2202,"['76.7917%', '60.4453%', '15.9228%', '53.4731%']"
+Château Péby Faugères Grand Cru St-Emilion AOC,Frankreich,2014,99.00,4.3,2202,"['76.7917%', '60.4453%', '15.9228%', '53.4731%']"
+Château Pichon-Baron Pauillac AC 2ème Cru Classé,Frankreich,2017,145.00,4.4,40200,None
+Château Rauzan-Ségla Margaux AC 2ème Cru Classé,Frankreich,2006,115.00,4.3,22002,None
+Château Rauzan-Ségla Margaux AC 2ème Cru Classé,Frankreich,2017,79.95,4.3,22002,None
+Domaine de Chevalier Pessac-Léognan Classé AOC,Frankreich,2017,64.95,4.2,25817,None
+19 Crimes Red Wine California – Snoop Dog,USA,,14.95,3.7,29224,"['82.6035%', '48.6262%', '33.0833%', '59.112%']"
+19 Crimes Red Wine California – Snoop Dog,USA,2021,14.95,3.7,29224,"['82.6035%', '48.6262%', '33.0833%', '59.112%']"
+Aargau AOC Cuvée Finesse Wiler Trotte,Schweiz,2021,13.50,3.9,30,None
+Aargau AOC Cuvée Finesse Wiler Trotte,Schweiz,2022,13.50,3.9,30,None
+Aargau AOC Pinot Noir Besserstein,Schweiz,2020,19.95,3.5,64,"['3.67974%', '21.0719%', '12.7222%', '69.0163%']"
+Aargau AOC Schinznacher Blauburgunder Auslese Pfauenauge,Schweiz,2022,13.50,3.3,68,"['12.625%', '23.8125%', '9.5625%', '70.5%']"
+Abruzzen Montepulciano d'Abruzzo DOC Jorio Umani Ronchi,Italien,2020,14.50,3.6,12288,"['37.0712%', '41.1269%', '3.6799%', '63.351%']"
+Abruzzo DOC Montepulciano Prope Velenosi Vini,Italien,2020,13.95,3.9,941,"['41.9104%', '43.2964%', '4.77005%', '62.6348%']"
+Aglianico del Taburno DOCG La Fortezza,Italien,2019,18.50,3.9,1391,"['67.0151%', '44.844%', '22.5623%', '32.7586%']"
+Aigle AOC Aigle Trois Tours,Schweiz,2022,16.95,3.7,145,"['23.6987%', '32.0541%', '16.6635%', '62.423%']"
+Akkurat Vin de Pays Suisse Staatskellerei Zürich,Schweiz,2022,16.50,2.6,26,"['35.0385%', '41.6538%', '32.0385%', '39.5%']"
+Alava Tempranillo Bodegas y Viñedos Artadi San Lazaro,Spanien,2017,93.00,3.6,5593,"['57.4378%', '39.8645%', '7.48571%', '40.2082%']"
+Alava Tempranillo Bodegas y Viñedos Artadi San Lazaro,Spanien,2018,93.00,3.6,5593,"['57.4378%', '39.8645%', '7.48571%', '40.2082%']"
+Alentejo Alicante Bouschet Herdade dos Grous Moon Harvested,Portugal,2020,47.00,4.3,6281,None
+Alentejo CVRA Cuvée Quinta do Zambujeiro,Portugal,2019,21.50,3.8,663,"['68.3146%', '34.8051%', '14.686%', '39.049%']"
+Alentejo DOC Revelado Herdade do Peso,Portugal,2019,14.95,4.1,481,"['62.5518%', '43.1782%', '22.4102%', '41.1475%']"
+Alentejo DOC Três Ânforas Howard's Folly,Portugal,2019,19.95,4.0,27,"['70.6837%', '44.8258%', '17.0663%', '49.2311%']"
+Alentejo DOC Três Ânforas Howard's Folly,Portugal,2020,19.95,4.0,27,"['70.6837%', '44.8258%', '17.0663%', '49.2311%']"
+Alentejo Herdade do Peso Parcelas Tinto,Portugal,2018,46.00,3.8,26893,None
+Alentejo Herdade dos Grous Tinto,Portugal,2021,21.50,4.0,32650,None
+Alentejo Herdade dos Grous Tinto Reserva,Portugal,2019,53.00,4.2,4591,None
+Algarve CVA Tato Quinta dos Sentidos,Portugal,2018,33.00,4.2,231,"['68.4551%', '42.9333%', '0px', '46.7833%']"
+Algarve CVA Tato Quinta dos Sentidos,Portugal,2019,33.00,4.2,231,"['68.4551%', '42.9333%', '0px', '46.7833%']"
+Aloxe-Corton 1er Cru 6x 75cl,Frankreich,2023,269.70,4.1,2146,"['36.0443%', '27.8294%', '4.20385%', '62.4589%']"
+Aloxe-Corton 1er Cru les Fournières 6x 75cl,Frankreich,2023,315.00,4.2,1377,"['33.2627%', '23.0708%', '3.66909%', '62.7752%']"
+Alsace AOC Pinot Noir Résonance Aimé Stentz,Frankreich,2020,22.50,3.8,42,"['17.5%', '17.5%', '0px', '69.125%']"
+Alto Adige DOC Lagrein Kellerei Kaltern - Caldaro,Italien,2021,17.50,3.7,4227,"['59.0551%', '40.3783%', '17.2858%', '35.8934%']"
+Alto Adige DOC Lagrein Kellerei Kaltern - Caldaro,Italien,2022,17.50,3.7,4227,"['59.0551%', '40.3783%', '17.2858%', '35.8934%']"
+Alto Adige DOC Lagrein Riserva Castel Ringberg Elena Walch,Italien,2020,59.95,4.2,3296,"['63.1877%', '44.5368%', '18.0681%', '35.3948%']"
+Amancaya Bodegas Caro Mendoza,Argentinien,2019,19.95,4.0,11774,"['76.2969%', '47.0988%', '6.76552%', '42.986%']"
+Amarone Classico della Valpolicella DOCG Vaio Armaron Serego Alighieri Masi Agricola,Italien,2015,59.50,4.3,11150,"['85%', '26.2692%', '47.9529%', '24.1283%']"
+Amarone della Valpolicella Classico DOC Campolongo di Torbe Masi,Italien,2012,136.00,4.5,4770,"['85%', '26.8208%', '49.6013%', '23.3027%']"
+Amarone della Valpolicella Classico DOCG Mai dire Mai Pasqua,Italien,2012,120.00,4.3,221,"['85%', '31.2125%', '47.8574%', '28.9576%']"
+Amarone della Valpolicella Classico DOC Mazzano Masi Agricola,Italien,2013,135.00,4.5,3541,"['85%', '32.6242%', '46.8871%', '27.1035%']"
+Amarone della Valpolicella DOC Cuvée Azienda Agricola Zanoni,Italien,2013,53.00,4.1,926,"['85%', '26.0463%', '46.606%', '20.9701%']"
+Amarone della Valpolicella DOCG Riserva di Costasera,Italien,2016,48.50,4.3,6104,"['85%', '26.2166%', '49.2651%', '23.9502%']"
+"Amarone Valp. Villa Borghetti, 2018",Italien,2018,30.90,4.3,190,"['85%', '22.3253%', '48.7718%', '24.217%']"
+Apulien Castel del Monte doc Riserva Cappellaccio Rivera,Italien,2015,15.95,3.6,1866,"['83.4638%', '46.4542%', '23.5124%', '28.9895%']"
+Apulien Castel del Monte doc Riserva Cappellaccio Rivera,Italien,2016,15.95,3.6,1866,"['83.4638%', '46.4542%', '23.5124%', '28.9895%']"
+Apulien Castel del Monte DOC Rupìcolo Rivera,Italien,2021,9.95,3.5,1759,"['76.3716%', '42.1803%', '24.9216%', '31.9306%']"
+Apulien DOC Aglianico Rivera,Italien,2016,15.95,3.6,1866,"['83.4638%', '46.4542%', '23.5124%', '28.9895%']"
+Apulien DOP Masca del Tacco Primitivo Manduria Riserva Piano Chiuso,Italien,2016,49.00,4.2,4125,None
+Apulien DOP Primitivo Manduria Riserva Piano Chiuso Masca del Tacco,Italien,2019,49.00,4.2,4125,None
+Apulien IGP Vespa Nero di Troia Helena,Italien,2015,85.00,4.3,300,"['85%', '43.446%', '23.6809%', '22.2286%']"
+Apulien Zonin Primitivo Borgo Sanleo,Italien,2021,8.95,3.6,2210,"['60.285%', '18.3283%', '36.6563%', '13.5783%']"
+Baboso Negro Borja Pérez Ignios Orígenes,Spanien,2018,52.00,4.0,526,"['62.2778%', '43.5159%', '8.23899%', '55.0757%']"
+Baden QbA Neuweierer Pinot Noir Schloss Neuweier,Deutschland,2019,22.50,3.5,151,"['5.57436%', '21.1185%', '0px', '70.8524%']"
+Balearen DO Finca Biniagual Negre Bodegas Biniagual,Spanien,2018,18.50,4.0,526,"['59.4311%', '40.1656%', '20.0922%', '41.9186%']"
+Balearen DO Gran Verán Bodegas Biniagual,Spanien,2018,48.00,4.3,1369,"['66.163%', '42.9811%', '17.0496%', '44.2022%']"
+Balearen DO Gran Verán Bodegas Biniagual,Spanien,2019,48.00,4.3,1369,"['66.163%', '42.9811%', '17.0496%', '44.2022%']"
+Barbaresco DOCG Roca de la Selva Fontanafredda,Italien,2016,39.90,4.1,253,"['60.1142%', '76.2913%', '5.68307%', '85%']"
+Barbera d'Alba DOC Bertu Angelo Negro,Italien,2020,34.50,4.0,344,"['60.4233%', '27.7026%', '9.52257%', '54.3928%']"
+Barbera d'Alba DOC Costa Bruna P. Colla,Italien,2021,19.90,3.8,998,"['53.4479%', '22.2816%', '0px', '63.9904%']"
+Barbera d'Alba DOC Superiore Tenuta Cappallotto,Italien,2022,13.50,3.5,1014,"['52.9212%', '24.9485%', '14.0101%', '63.6937%']"
+Barbera d'Asti DOCG Gelsomora Cossetti,Italien,2022,14.50,3.9,369,"['56.8661%', '35.8331%', '6.83861%', '61.7475%']"
+Barbera d'Asti Superiore DOCG Barbera La Vigna Vecchia Cossetti,Italien,2020,15.50,4.1,3554,"['52.4756%', '23.3359%', '11.8975%', '57.5371%']"
+Barbera d'Asti Superiore DOCG Rubigo Baldi,Italien,2020,16.50,3.7,184,"['55.6532%', '16.8508%', '0px', '50.2419%']"
+Barbera Monferrato La Monferrina Araldica DOC,Italien,2021,6.95,2.8,57,"['42.5%', '38.3657%', '67.5%']"
+Bardolino Classico DOC Frescaripa Masi,Italien,2022,11.95,3.5,6312,"['49.4421%', '33.0544%', '15.9278%', '34.4018%']"
+Bardolino DOC Classico i Filari del Nino Zeni,Italien,2021,12.50,3.7,364,"['63.5221%', '35.7914%', '20.9478%', '30.8111%']"
+Barolo del Comune die Monforte d'Alba DOCG Fonatafredda,Italien,2013,39.90,4.2,1729,"['61.1722%', '77.8001%', '3.38514%', '78.711%']"
+Barolo DOCG Fontanafredda Riserva,Italien,2011,115.00,4.2,2652,"['66.2026%', '71.1237%', '5.34651%', '81.4453%']"
+Barolo DOCG Mirafiore,Italien,2014,55.00,4.1,4643,"['62.7269%', '76.3486%', '2.54829%', '83.8799%']"
+Barolo DOCG Mirafiore Lazzarito,Italien,2013,85.00,4.2,1987,"['65.1853%', '74.8894%', '4.82279%', '83.484%']"
+Barolo DOCG Nebbiolo Cannubi Borgogno,Italien,2013,105.00,4.1,3477,"['64.0044%', '75.5009%', '4.60686%', '80.7743%']"
+Barolo DOCG Prunotto,Italien,2020,41.95,4.0,28268,None
+Barolo DOCG Tenuta Cappallotto Sori Paradiso,Italien,2019,31.50,3.4,363,"['66.0096%', '81.3157%', '0px', '82.6066%']"
+Barossa Shiraz 100 Year Old Vines Château Tanunda,Australien,2018,95.00,4.2,109,"['85%', '43.4649%', '14.2442%', '42.4418%']"
+Barossa Valley Explorer Marananga Shiraz BIN 150 - Shiraz Grenache Mataro BIN 138 Penfolds 2x75cl,Australien,2018,115.00,4.0,8961,"['85%', '46.7448%', '12.6968%', '43.2755%']"
+Barossa Valley Peter Lehmann Hill & Valley Shiraz,Australien,2021,16.50,3.6,1297,"['84.0737%', '47.8395%', '9.28553%', '44.3669%']"
+Barossa Valley Peter Lehmann Hill & Valley Shiraz,Australien,2020,16.50,3.6,1297,"['84.0737%', '47.8395%', '9.28553%', '44.3669%']"
+Barossa Valley Shiraz Loechel Powell & Son,Australien,2016,99.00,4.0,1378,"['85%', '44.0488%', '12.3915%', '43.2712%']"
+Basel-Landschaft AOC Benkemer Pinot Noir,Schweiz,2020,16.50,3.8,143,"['14.4419%', '20.5988%', '0px', '66.3799%']"
+Basel-Landschaft AOC Kluser Burgeweg Pinot Noir,Schweiz,2021,14.50,3.8,143,"['14.4419%', '20.5988%', '0px', '66.3799%']"
+Basel-Landschaft AOC Maispracher Auslese Buess Weinbau,Schweiz,2019,18.95,3.7,36,"['0px', '15.4932%', '0px', '78.1757%']"
+Basel-Landschaft AOC Maispracher Sunneburg,Schweiz,2021,15.50,3.7,36,"['0px', '15.4932%', '0px', '78.1757%']"
+Basel-Landschaft AOC Pinot Noir Barrique Classic Klushof,Schweiz,2018,28.00,3.9,114,"['24.0261%', '24.5261%', '3.5%', '49.0478%']"
+Basel-Landschaft AOC Pinot Noir Barrique Classic Klushof,Schweiz,2022,28.00,3.9,114,"['24.0261%', '24.5261%', '3.5%', '49.0478%']"
+Basel-Landschaft AOC Pinot Noir Schalberger Klushof,Schweiz,2018,14.95,3.8,143,"['14.4419%', '20.5988%', '0px', '66.3799%']"
+Basel-Landschaft AOC Pinot Noir Schalberger Klushof,Schweiz,2022,14.95,3.8,143,"['14.4419%', '20.5988%', '0px', '66.3799%']"
+Basel-Landschaft AOC Primus B Pinot Noir,Schweiz,2021,11.50,3.8,143,"['14.4419%', '20.5988%', '0px', '66.3799%']"
+Basel-Landschaft AOC Primus B Pinot Noir,Schweiz,2022,11.50,3.8,143,"['14.4419%', '20.5988%', '0px', '66.3799%']"
+Beaulieu Vineyard Cabernet Sauvignon Napa Valley,USA,2018,54.95,3.9,19280,"['84.9151%', '51.9826%', '9.34554%', '52.5361%']"
+Beaulieu Vineyard Rutherford Reserve Cabernet Sauvignon Napa Valley,USA,2019,89.95,4.4,13866,None
+"Beaumes de Venise AOP Cuvée Yvon Soard, Fenouillet 6x 75cl",Frankreich,2022,105.00,3.7,253,"['67.2985%', '55.653%', '0px', '52.7146%']"
+Beaune 1er Cru Clos des Ursules Monopole 6x 75cl,Frankreich,2023,417.00,4.1,2427,None
+Beaune 1er Cru Les Cent-Vignes 6x 75cl,Frankreich,2023,351.00,4.0,839,None
+Beaune du Château Domaine Bouchard Père et Fils AOC,Frankreich,2021,39.95,4.1,13421,"['33.0105%', '24.3481%', '2.83129%', '62.0978%']"
+Bielersee AOC Pinot Noir Auberson & Fils,Schweiz,2022,19.95,3.4,133,"['9.09697%', '21.6061%', '10.6818%', '68.497%']"
+Bierzo DO Las Lamas Descendientes de J. Palacios,Spanien,2017,108.00,4.3,1340,"['51.6062%', '42.3036%', '9.74887%', '62.2055%']"
+Bierzo DO Las Lamas Descendientes de J. Palacios,Spanien,2014,108.00,4.3,1340,"['51.6062%', '42.3036%', '9.74887%', '62.2055%']"
+Bio Parcelle 982 Gamay Grand Cru Collection Nature Domaine de la Ville,Schweiz,2019,23.95,3.7,168,"['23.8192%', '5%', '0px', '73.4255%']"
+Bio Valais AOC Pinot Noir Cuvée Espace Cave du Rhodan,Schweiz,2023,22.95,3.9,54,"['0px', '17.5%', '3.75%', '73.4718%']"
+Bio Vin de Pays des Trois Lacs Divico Caves de la Béroche,Schweiz,2020,19.95,2.7,79,"['30%', '0px', '42.5%']"
+Bobal Utiel Cepas Viejas,Spanien,2015,12.95,3.8,5777,"['58.1313%', '42.7368%', '13.2127%', '44.0096%']"
+Bolgheri DOC Il Bruciato Tenuta Guado al Tasso,Italien,2022,26.50,4.1,85079,None
+Bolgheri DOC Ornellaia Tenuta dell'Ornellaia,Italien,2019,249.00,4.6,115576,None
+Bolgheri DOC Superiore Cabernet Franc Fattoria Casa di Terra,Italien,2016,98.00,4.2,1126,"['63.5792%', '67.0288%', '16.6854%', '55.6602%']"
+Bolgheri DOC Superiore Cabernet Sauvignon Maronea Fattoria Casa di Terra,Italien,2019,53.50,4.2,1126,"['63.5792%', '67.0288%', '16.6854%', '55.6602%']"
+Bolgheri Rosso DOC Merlot Mosaico Fattoria Casa di Terra,Italien,2021,31.50,4.0,1868,"['66.1594%', '65.01%', '13.5467%', '54.749%']"
+Bolgheri Rosso DOC Moreccio Fattoria Casa di Terra,Italien,2022,19.50,3.8,6095,"['64.8301%', '64.7067%', '7.10042%', '55.4147%']"
+Bordeaux AOC La Grolet Côte Bourg Origines Famille Hubert Vignerons,Frankreich,2020,14.95,3.6,2465,"['62.476%', '60.6951%', '0px', '66.1731%']"
+Bordeaux AOC La Grolet Côte Bourg Origines Famille Hubert Vignerons,Frankreich,2021,14.95,3.6,2465,"['62.476%', '60.6951%', '0px', '66.1731%']"
+Bordeaux rouge Chateaux Tour de Bonnet,Frankreich,2018,11.50,3.5,683,"['64.5938%', '57.7849%', '8.37083%', '62.9391%']"
+Bordeaux supérieur AOC Château Leroy-Beauval,Frankreich,2015,17.50,3.8,355,"['64.9929%', '58.1794%', '0px', '62.7825%']"
+Bourgogne AOC Pinot Noir Mercurey Les Montelons Domaine Adélie,Frankreich,2022,26.50,3.9,1866,"['27.9937%', '21.6476%', '0.988993%', '65.8459%']"
+Brindisi DOC Susumaniello Oltremé Tenute Rubino,Italien,2018,17.50,3.9,5106,None
+Brunello die Montalcino DOCG Riserva Altesino,Italien,2012,99.00,4.3,889,"['50.5418%', '53.6636%', '6.42978%', '60.2481%']"
+Brunello di Montalcino DOCG Altesino,Italien,2017,55.00,4.2,25005,None
+Brunello di Montalcino DOCG Val di Suga,Italien,2019,29.95,4.0,24095,"['46.98%', '58.2731%', '4.10044%', '64.3885%']"
+Burgenland Cuvée Reserve Edition Peter Keller Weingut Strehn,Österreich,2018,29.95,3.2,198,"['38.2864%', '45.8182%', '22.4091%', '78.8591%']"
+Burgenland Cuvée X Unplugged Hannes Reeh,Österreich,2016,54.00,4.3,679,"['49.1154%', '50.7385%', '33%', '67.1308%']"
+Burgenland Cuvée X Unplugged Hannes Reeh,Österreich,2019,54.00,4.3,679,"['49.1154%', '50.7385%', '33%', '67.1308%']"
+Burgenland Cuvée X Unplugged Hannes Reeh,Österreich,2015,54.00,4.3,679,"['49.1154%', '50.7385%', '33%', '67.1308%']"
+Burgenland Merlot Haus & Hof Hannes Reeh,Österreich,2020,11.95,3.7,723,"['44.3352%', '26.5043%', '24.0213%', '42.6094%']"
+Burgenland Merlot Unplugged Hannes Reeh,Österreich,2018,27.95,4.1,2928,"['50.5033%', '22.8455%', '29.8481%', '43.1413%']"
+Burgenland The Peak of Glory Scheiblhofer,Österreich,2020,28.50,4.2,1188,"['50.3599%', '32.9447%', '28.207%', '53.1467%']"
+Burgenland The Peak of Glory Scheiblhofer,Österreich,2021,28.50,4.2,1188,"['50.3599%', '32.9447%', '28.207%', '53.1467%']"
+Cabernet Sauvignon Alpha Omega Napa Valley Nef Family,USA,2018,16.90,4.4,4069,"['84.5305%', '51.2239%', '6.31486%', '52.116%']"
+Cabernet Sauvignon Bin 707 South Australia Penfolds,Australien,2018,475.00,4.5,6498,"['67.0109%', '55.477%', '10.6801%', '52.0638%']"
+Cabernet Sauvignon Califirnia Golden State Vintners,USA,,6.25,3.3,181,"['85%', '67.5%', '0px', '42.5%']"
+Cabernet Sauvignon California Beringer Vineyards,USA,2019,59.00,3.7,39181,"['85%', '52.7225%', '13.9572%', '42.781%']"
+Cabernet Sauvignon Chile Gato Negro,Chile,2021,7.50,3.4,39382,"['63.7321%', '45.1454%', '18.1938%', '42.8539%']"
+Cabernet Sauvignon Coonawarra Black Label Wynns Estate,Australien,2019,29.95,3.9,10280,None
+Cabernet Sauvignon Coonawarra John Riddoch Limited Release Wynns Estate,Australien,2019,100.00,4.3,3084,None
+Cabernet Sauvignon Napa Valley Beringer Vineyards,USA,2016,149.00,4.3,297,"['85%', '52.3363%', '14.3568%', '51.3156%']"
+Cabernet Sauvignon Napa Valley Buccella,USA,2013,179.00,4.6,3946,"['85%', '52.4307%', '15.0873%', '51.329%']"
+Cabernet Sauvignon Ojo de Agua Dieter Meier,Argentinien,2021,18.95,3.9,809,"['65.4556%', '54.7955%', '13.318%', '43.4112%']"
+Cabernet Sauvignon South Australia Grange Penfolds,Australien,2018,680.00,4.2,15702,"['66.6789%', '54.6279%', '10.2936%', '51.3604%']"
+Cabernet Sauvignon South Australia Grange Penfolds,Australien,2017,680.00,4.2,15702,"['66.6789%', '54.6279%', '10.2936%', '51.3604%']"
+Cabernet Sauvignon XTRA CAB Unrated Wine,Chile,2020,15.95,3.9,645,"['77.3288%', '50.9653%', '4.3733%', '45.8303%']"
+Cabernet Shiraz Penfolds Bin 8,Australien,2019,28.95,3.8,11166,"['85%', '47.2875%', '10.1643%', '43.6164%']"
+"Cairanne AOP Vieilles Vignes , Brusset 6x 75cl",Frankreich,2022,87.00,3.7,490,"['68.5484%', '51.8948%', '11.0659%', '56.1866%']"
+Calchaqui Malbec Auténtico Colomé,Argentinien,2020,28.00,4.1,10151,None
+California Cabernet Sauvignon Joel Gott,USA,2021,19.50,3.9,67916,"['85%', '49.7576%', '8.30381%', '43.0911%']"
+Campania DOC Lacryma Christi del Vesuvio Rosso Mastroberardino,Italien,2022,18.00,3.6,4289,"['72.9907%', '39.6815%', '19.1435%', '36.6163%']"
+Campania IGT Sirica Feudi di San Gregorio,Italien,2015,24.00,3.7,780,"['80.1844%', '48.1893%', '22.036%', '34.5724%']"
+Cannonau di Sardegna DOC Caposardo Deaddis,Italien,2020,19.50,3.8,230,"['67.6341%', '37.5083%', '0px', '43.0132%']"
+Cannonau di Sardegna DOC Tartaruga Meloni,Italien,2021,15.50,3.5,664,"['58.8396%', '47.3844%', '5.92924%', '47.3443%']"
+Carignano del Sulcis DOC Cardanera Argiolas,Italien,2022,17.95,4.1,1796,"['80.3545%', '44.9381%', '23.8233%', '34.682%']"
+Carignano DOC Riserva Rocca Rubia Cantina di Santadi,Italien,2021,21.95,4.0,23906,None
+Carmenere Chile Gato Negro,Chile,2022,7.50,3.3,21222,"['59.9232%', '33.9436%', '17.4225%', '41.3086%']"
+Carmenère Cordillera Miguel Torres,Chile,2020,22.90,3.9,6650,None
+Castilla y Leon El Regajal Galia Clos Santuy,Spanien,2015,89.00,4.3,174,"['67.3996%', '48.309%', '0px', '46.9188%']"
+Catalogna Mas Vilella Negre Acústic Celler,Spanien,2020,22.50,3.9,8840,None
+Catalogna Mas Vilella Negre Acústic Celler,Spanien,2021,22.50,3.9,8840,None
+Chablais AOC Gamay Bex,Schweiz,2022,14.95,3.3,43,"['17.5%', '0px', '0px', '80%']"
+Chablais AOC Merlot Apicius Vieilles Vignes Hammel,Schweiz,2014,38.00,3.7,1343,"['55.8188%', '25.0624%', '15.9645%', '20.6661%']"
+Chablais AOC Villeneuve La Violette La Viticole Villeneuve,Schweiz,2021,13.95,3.5,30,"['17.5%', '0px', '0px', '80%']"
+Chambertin Grand Cru Cuvée Heritiers Latour 3x 75cl,Frankreich,2023,1'077.00,4.3,823,"['40.2015%', '34.7811%', '17.743%', '68.2829%']"
+Chambolle-Musigny 1er Cru Les Amoureuses 3x 75cl,Frankreich,2023,897.00,4.5,1692,"['43.3371%', '31.7257%', '17.2009%', '69.658%']"
+Chambolle-Musigny 1er Cru Les Charmes 6x 75cl,Frankreich,2023,630.00,4.2,1062,"['44.727%', '35.8663%', '14.4619%', '71.1562%']"
+Chambolle-Musigny AOC Les Cras Domaine Antonin Guyon,Frankreich,2022,69.95,4.2,1163,"['39.8996%', '32.892%', '4.25604%', '70.9291%']"
+Chambolle-Musigny Vielles Vignes 6x 75cl,Frankreich,2023,405.00,4.0,1514,"['38.2286%', '30.7891%', '11.3671%', '68.5234%']"
+Chambulle-Musigny 1er Cru Les Baudes 6x 75cl,Frankreich,2023,654.00,4.1,333,"['46.4936%', '41.5154%', '11.0679%', '66.8001%']"
+Chappelle-Chambertin Grand Cru 6x 75cl,Frankreich,2023,1'470.00,4.3,26,"['42.5%', '30%', '22.3507%', '80.3396%']"
+Charmes-Chambertin Grand Cru Aux Mazoyères 6x 75cl,Frankreich,2023,1'074.00,4.5,115,"['49.7584%', '30.0265%', '4.17248%', '73.9057%']"
+Château Beauregard Pomerol AOC,Frankreich,2018,74.95,4.2,8375,"['73.1578%', '55.4083%', '8.47892%', '52.8601%']"
+Château Beauregard Pomerol AOC,Frankreich,2019,69.95,4.2,8375,"['73.1578%', '55.4083%', '8.47892%', '52.8601%']"
+Château Beauregard Pomerol AOC,Frankreich,2020,69.95,4.2,8375,"['73.1578%', '55.4083%', '8.47892%', '52.8601%']"
+Château Beauregard Pomerol AOC,Frankreich,2016,84.95,4.2,8375,"['73.1578%', '55.4083%', '8.47892%', '52.8601%']"
+Château Beau-Séjour Bécot Saint-Emilion 1er Grand Cru Classé B AOC,Frankreich,2020,69.95,4.3,12798,"['72.452%', '54.6703%', '10.2438%', '52.7741%']"
+Château Beau-Séjour Bécot Saint-Emilion 1er Grand Cru Classé B AOC 6x 75cl,Frankreich,2022,447.00,4.3,12798,"['72.452%', '54.6703%', '10.2438%', '52.7741%']"
+Château Belgrave Haut-Médoc AC 5ème Cru Classé,Frankreich,2019,39.95,4.0,16952,None
+Château Belgrave Haut-Médoc AC 5ème Cru Classé 6x 75cl,Frankreich,2022,165.00,4.0,16952,None
+Château Branaire-Ducru Saint-Julien AC 4ème Cru Classé 6x 75cl,Frankreich,2022,309.00,4.1,25207,None
+Château Brane-Cantenac Margaux AC 2ème Cru Classé,Frankreich,2020,74.95,4.2,25500,"['60.7923%', '62.7074%', '6.91205%', '70.6644%']"
+Château Brondelle Graves AC,Frankreich,2018,17.50,3.9,1010,"['74.6609%', '69.9339%', '1.98449%', '69.5167%']"
+Château Brondelle Graves AC,Frankreich,2020,14.95,3.9,1010,"['74.6609%', '69.9339%', '1.98449%', '69.5167%']"
+Château Brondelle Graves AC 6x 75cl,Frankreich,2022,75.00,3.9,1010,"['74.6609%', '69.9339%', '1.98449%', '69.5167%']"
+Château Brondelle Graves AC,Frankreich,2017,17.50,3.9,1010,"['74.6609%', '69.9339%', '1.98449%', '69.5167%']"
+Château Calon-Ségur Saint-Estèphe AC 3ème Cru Classé,Frankreich,2020,119.00,4.3,29066,None
+Château Calon-Ségur Saint-Estèphe AC 3ème Cru Classé 6x 75cl,Frankreich,2022,768.00,4.3,29066,None
+Château Canon La Gaffelière 1er Grand Cru Classé B St-Emilion AOC,Frankreich,2019,74.95,4.3,12698,"['72.6066%', '54.0838%', '13.0078%', '50.0983%']"
+Château Canon La Gaffelière 1er Grand Cru Classé B St-Emilion AOC,Frankreich,2020,82.50,4.3,12698,"['72.6066%', '54.0838%', '13.0078%', '50.0983%']"
+Château Canon La Gaffelière 1er Grand Cru Classé B St-Emilion AOC 6x 75cl,Frankreich,2022,495.00,4.3,12698,"['72.6066%', '54.0838%', '13.0078%', '50.0983%']"
+Château Canon La Gaffelière 1er Grand Cru Classé B St-Emilion AOC,Frankreich,2017,89.95,4.3,12698,"['72.6066%', '54.0838%', '13.0078%', '50.0983%']"
+Château Canon Saint-Emilion AC 1er Grand Cru Classé B,Frankreich,2019,159.00,4.3,896,"['59.5941%', '46.6925%', '6.14086%', '46.3262%']"
+Château Canon Saint-Emilion AC 1er Grand Cru Classé B,Frankreich,2020,199.00,4.3,896,"['59.5941%', '46.6925%', '6.14086%', '46.3262%']"
+Château Canon Saint-Emilion AC 1er Grand Cru Classé B,Frankreich,2017,97.50,4.3,896,"['59.5941%', '46.6925%', '6.14086%', '46.3262%']"
+Château Caroline Moulis-en-Médoc AC,Frankreich,2018,17.95,3.7,1449,"['63.5049%', '61.3897%', '4.56468%', '65.4095%']"
+Château Caroline Moulis-en-Médoc AC,Frankreich,2017,17.50,3.7,1449,"['63.5049%', '61.3897%', '4.56468%', '65.4095%']"
+Château Caroline Moulis-en-Médoc AC 6x 75cl,Frankreich,2022,87.00,3.7,1449,"['63.5049%', '61.3897%', '4.56468%', '65.4095%']"
+Château Charmail Haut-Médoc AOC,Frankreich,2017,23.50,3.8,9728,None
+Château Chauvin Saint-Emilion AOC Grand cru classé,Frankreich,2015,46.95,4.0,3688,"['72.4923%', '56.6896%', '8.82249%', '51.7189%']"
+Château Clément Pichon Haut-Médoc AC,Frankreich,2019,24.95,3.9,5198,None
+Château Clerc Milon Pauillac AC 5ème Cru Classé 6x 75cl,Frankreich,2022,501.00,4.2,22009,"['73.0213%', '74.2627%', '7.52367%', '72.7839%']"
+Château Clinet Pomerol AC,Frankreich,2018,99.95,4.3,12963,None
+Château Clinet Pomerol AC,Frankreich,2020,99.95,4.3,12963,None
+Château Clos Fourtet Saint-Emilion AC 1er Grand Cru Classé B,Frankreich,2018,119.00,4.3,896,"['59.5941%', '46.6925%', '6.14086%', '46.3262%']"
+Château Clos Fourtet Saint-Emilion AC 1er Grand Cru Classé B,Frankreich,2020,115.00,4.3,896,"['59.5941%', '46.6925%', '6.14086%', '46.3262%']"
+Château Cos d'Estournel Saint-Estèphe AC 2ème Cru Classé,Frankreich,2018,209.00,4.0,9574,None
+Château Cos d'Estournel Saint-Estèphe AC 2ème Cru Classé,Frankreich,2020,215.00,4.0,9574,None
+Château Cos d'Estournel Saint-Estèphe AC 2ème Cru Classé,Frankreich,2015,173.00,4.0,9574,None
+Château Cos d'Estournel Saint-Estèphe AC 2ème Cru Classé 6x 75cl,Frankreich,2022,1'392.00,4.0,9574,None
+Château d'Armailhac Pauillac AC 5ème Cru Classé,Frankreich,2019,47.95,4.1,31622,"['72.4459%', '71.7912%', '7.21698%', '71.7407%']"
+Château d'Armailhac Pauillac AC 5ème Cru Classé 6x 75cl,Frankreich,2022,311.70,4.1,31622,"['72.4459%', '71.7912%', '7.21698%', '71.7407%']"
+Château d'Escurac Médoc AC,Frankreich,2020,17.50,3.8,2777,"['71.6834%', '73.5671%', '8.76809%', '67.8081%']"
+Château d'Escurac Médoc AC 6x 75cl,Frankreich,2022,81.00,3.8,2777,"['71.6834%', '73.5671%', '8.76809%', '67.8081%']"
+Château de Bechaud Saint-Émilion Cuvée,Frankreich,2019,19.95,4.1,1101,"['67.4409%', '58.708%', '0.81152%', '52.9438%']"
+Château de Carolle Graves AC,Frankreich,2020,17.50,3.6,3107,"['71.3968%', '73.0156%', '6.34988%', '71.1855%']"
+Château de Fieuzal Pessac-Léognan AC Cru Classé,Frankreich,2016,59.95,4.1,16324,None
+Château de Pressac Saint-Emilion AC Grand Cru Classé,Frankreich,2018,39.95,4.1,10763,"['73.47%', '56.0596%', '8.7687%', '52.0937%']"
+Château de Pressac Saint-Emilion AC Grand Cru Classé,Frankreich,2019,42.50,4.1,10763,"['73.47%', '56.0596%', '8.7687%', '52.0937%']"
+Château de Pressac Saint-Emilion AC Grand Cru Classé,Frankreich,2020,44.95,4.1,10763,"['73.47%', '56.0596%', '8.7687%', '52.0937%']"
+Château de Pressac Saint-Emilion AC Grand Cru Classé 6x 75cl,Frankreich,2022,201.00,4.1,10763,"['73.47%', '56.0596%', '8.7687%', '52.0937%']"
+Château Deyrem Valentin Margaux AC,Frankreich,2018,34.95,4.0,5464,"['64.4547%', '63.2894%', '3.22056%', '73.7699%']"
+Château Deyrem Valentin Margaux AC,Frankreich,2019,29.95,4.0,5464,"['64.4547%', '63.2894%', '3.22056%', '73.7699%']"
+Château Deyrem Valentin Margaux AC 6x 75cl,Frankreich,2022,149.70,4.0,5464,"['64.4547%', '63.2894%', '3.22056%', '73.7699%']"
+Château Ducru-Beaucaillou 2ème Cru Classé Saint Julien AOC,Frankreich,2015,175.00,4.4,31408,None
+Château Ducru-Beaucaillou Saint-Julien AC 2ème Cru Classé,Frankreich,2020,235.00,4.4,31408,None
+Château Ducru-Beaucaillou Saint-Julien AC 2ème Cru Classé 6x 75cl,Frankreich,2022,1'392.00,4.4,31408,None
+Château Durfort-Vivens Margaux AC 2ème Cru Classé 6x 75cl,Frankreich,2022,432.00,4.1,11757,None
+Château du Tertre Margaux 5ème Cru Classé AOC,Frankreich,2017,52.50,4.2,23634,None
+Château du Tertre Margaux AC 5ème Cru Classé,Frankreich,2021,42.50,4.2,23634,None
+Château Faugères Saint-Emilion AC Grand Cru Classé,Frankreich,2018,44.95,4.2,8861,"['74.3911%', '56.1662%', '10.6329%', '53.5493%']"
+Château Faugères Saint-Emilion AC Grand Cru Classé,Frankreich,2020,44.95,4.2,8861,"['74.3911%', '56.1662%', '10.6329%', '53.5493%']"
+Château Faugères Saint-Emilion AC Grand Cru Classé 6x 75cl,Frankreich,2022,227.70,4.2,8861,"['74.3911%', '56.1662%', '10.6329%', '53.5493%']"
+Château Ferrière 3ème Cru Classé Margaux AOC 6x 75cl,Frankreich,2022,252.00,4.0,9694,None
+Château Feytit-Clinet Pomerol AC 6x 75cl,Frankreich,2022,389.70,4.2,2450,"['70.4802%', '55.1956%', '6.4771%', '51.7112%']"
+Château Figeac Saint-Emilion AC 1er Grand Cru Classé A 6x 75cl,Frankreich,2022,1'881.00,4.4,26801,None
+Château Figeac Saint-Emilion AC 1er Grand Cru Classé B,Frankreich,2018,259.00,4.3,896,"['59.5941%', '46.6925%', '6.14086%', '46.3262%']"
+Château Figeac Saint-Emilion AC 1er Grand Cru Classé B,Frankreich,2020,269.00,4.4,26801,None
+Château Fleur la Mothe Haut-Médoc AC,Frankreich,2019,16.95,3.6,52,"['74.2935%', '85%', '0px', '80%']"
+Château Fleur la Mothe Haut-Médoc AC,Frankreich,2014,11.70,3.6,52,"['74.2935%', '85%', '0px', '80%']"
+Château Fonplégade Saint-Emilion AC Grand Cru Classé,Frankreich,2019,44.95,4.2,6519,"['74.5028%', '54.968%', '5.55046%', '52.4558%']"
+Château Fonplégade Saint-Emilion AC Grand Cru Classé,Frankreich,2020,49.95,4.2,6519,"['74.5028%', '54.968%', '5.55046%', '52.4558%']"
+Château Gazin Pomerol AC,Frankreich,2018,94.95,4.2,9108,None
+Château Gazin Pomerol AC,Frankreich,2020,105.00,4.2,9108,None
+Château Gazin Pomerol AC 6x 75cl,Frankreich,2022,504.00,4.2,9108,None
+Château Gazin Pomerol AC,Frankreich,2017,87.50,4.2,9108,None
+Château Gazin Pomerol AOC,Frankreich,2014,77.50,4.2,9108,None
+Château Giscours Margaux AC 3ème Cru Classé,Frankreich,2019,62.50,4.3,47518,None
+Château Giscours Margaux AC 3ème Cru Classé,Frankreich,2020,64.95,4.3,47518,None
+Château Giscours Margaux AC 3ème Cru Classé,Frankreich,2020,129.00,4.3,47518,None
+Château Giscours Margaux AC 3ème Cru Classé 6x 75cl,Frankreich,2022,387.00,4.3,47518,None
+Château Gloria Saint-Julien AOC,Frankreich,2021,39.95,4.1,31063,None
+Château Grand-Maison Côtes de Bourg AC,Frankreich,2016,18.95,3.4,128,"['67.5%', '64.5195%', '0px', '67.9028%']"
+Château Grand-Puy-Ducasse Pauillac AOC 5ème Cru Classé,Frankreich,2020,37.50,4.0,14219,None
+Château Grand-Puy-Ducasse Pauillac AOC 5ème Cru Classé 6x 75cl,Frankreich,2022,245.70,4.0,14219,None
+Château Grand-Puy-Lacoste Pauillac AC 5ème Cru Classé,Frankreich,2018,82.50,4.3,27044,None
+Château Grand-Puy-Lacoste Pauillac AC 5ème Cru Classé,Frankreich,2019,82.95,4.3,27044,None
+Château Grand-Puy-Lacoste Pauillac AC 5ème Cru Classé,Frankreich,2020,92.50,4.3,27044,None
+Château Grand-Puy-Lacoste Pauillac AC 5ème Cru Classé 6x 75cl,Frankreich,2022,433.20,4.3,27044,None
+Château Grand-Puy-Lacoste Pauillac AC 5ème Cru Classé,Frankreich,2017,79.95,4.3,27044,None
+Château Grimont Cadillac Côtes de Bordeaux,Frankreich,2019,12.50,3.5,1773,"['58.0959%', '57.1978%', '1.33009%', '64.2734%']"
+Château Gruaud-Larose Saint-Julien AC 2ème Cru Classé,Frankreich,2018,84.95,4.3,35086,None
+Château Gruaud-Larose Saint-Julien AC 2ème Cru Classé,Frankreich,2019,82.50,4.3,35086,None
+Château Figeac Saint-Emilion AC 1er Grand Cru Classé B,Frankreich,2018,259.00,4.3,896,"['59.5941%', '46.6925%', '6.14086%', '46.3262%']"
+Château Figeac Saint-Emilion AC 1er Grand Cru Classé B,Frankreich,2020,269.00,4.3,896,"['59.5941%', '46.6925%', '6.14086%', '46.3262%']"
+Château Fleur la Mothe Haut-Médoc AC,Frankreich,2019,16.95,3.6,52,"['74.2935%', '85%', '0px', '80%']"
+Château Fleur la Mothe Haut-Médoc AC,Frankreich,2014,11.70,3.6,52,"['74.2935%', '85%', '0px', '80%']"
+Château Fonplégade Saint-Emilion AC Grand Cru Classé,Frankreich,2019,44.95,4.2,6519,"['74.5028%', '54.968%', '5.55046%', '52.4558%']"
+Château Fonplégade Saint-Emilion AC Grand Cru Classé,Frankreich,2020,49.95,4.2,6519,"['74.5028%', '54.968%', '5.55046%', '52.4558%']"
+Château Gazin Pomerol AC,Frankreich,2018,94.95,4.2,9108,None
+Château Gazin Pomerol AC,Frankreich,2020,105.00,4.2,9108,None
+Château Gazin Pomerol AC 6x 75cl,Frankreich,2022,504.00,4.2,9108,None
+Château Gazin Pomerol AC,Frankreich,2017,87.50,4.2,9108,None
+Château Gazin Pomerol AOC,Frankreich,2014,77.50,4.2,9108,None
+Château Giscours Margaux AC 3ème Cru Classé,Frankreich,2019,62.50,4.3,47518,None
+Château Giscours Margaux AC 3ème Cru Classé,Frankreich,2020,64.95,4.3,47518,None
+Château Giscours Margaux AC 3ème Cru Classé,Frankreich,2020,129.00,4.3,47518,None
+Château Giscours Margaux AC 3ème Cru Classé 6x 75cl,Frankreich,2022,387.00,4.3,47518,None
+Château Gloria Saint-Julien AOC,Frankreich,2021,39.95,4.1,31063,None
+Château Grand-Puy-Ducasse Pauillac AOC 5ème Cru Classé,Frankreich,2020,37.50,4.0,14219,None
+Château Grand-Puy-Ducasse Pauillac AOC 5ème Cru Classé 6x 75cl,Frankreich,2022,245.70,4.0,14219,None
+Château Grand-Puy-Lacoste Pauillac AC 5ème Cru Classé,Frankreich,2018,82.50,4.3,27044,None
+Château Grand-Puy-Lacoste Pauillac AC 5ème Cru Classé,Frankreich,2019,82.95,4.3,27044,None
+Château Grand-Puy-Lacoste Pauillac AC 5ème Cru Classé,Frankreich,2020,92.50,4.3,27044,None
+Château Grand-Puy-Lacoste Pauillac AC 5ème Cru Classé 6x 75cl,Frankreich,2022,433.20,4.3,27044,None
+Château Grand-Puy-Lacoste Pauillac AC 5ème Cru Classé,Frankreich,2017,79.95,4.3,27044,None
+Château Grimont Cadillac Côtes de Bordeaux,Frankreich,2019,12.50,3.5,1773,"['58.0959%', '57.1978%', '1.33009%', '64.2734%']"
+Château Gruaud-Larose Saint-Julien AC 2ème Cru Classé,Frankreich,2018,84.95,4.3,35086,None
+Château Gruaud-Larose Saint-Julien AC 2ème Cru Classé,Frankreich,2019,82.50,4.3,35086,None
+Château Gruaud-Larose Saint-Julien AC 2ème Cru Classé,Frankreich,2017,74.95,4.3,35086,None
+Château Gruaud-Larose Saint-Julien AC 2ème Cru Classé,Frankreich,2016,84.95,4.3,35086,None
+Château Guibot Cuvée la Fourvieille Puisseguin Saint-Emilion AC,Frankreich,2018,24.95,3.9,964,"['74.6837%', '60.596%', '4.49217%', '53.46%']"
+Château Guibot Cuvée la Fourvieille Puisseguin Saint-Emilion AC,Frankreich,2020,24.95,3.9,964,"['74.6837%', '60.596%', '4.49217%', '53.46%']"
+Château Guibot Cuvée la Fourvieille Puisseguin Saint-Emilion AC 6x 75cl,Frankreich,2022,105.00,3.9,964,"['74.6837%', '60.596%', '4.49217%', '53.46%']"
+Château Guibot Cuvée la Fourvieille Puisseguin Saint-Emilion AC,Frankreich,2016,19.95,3.9,964,"['74.6837%', '60.596%', '4.49217%', '53.46%']"
+Château Haura Graves AC,Frankreich,2018,16.95,3.7,3392,"['77.121%', '78.0894%', '0.82314%', '75.9058%']"
+Château Haura Graves AC,Frankreich,2020,16.95,3.7,3392,"['77.121%', '78.0894%', '0.82314%', '75.9058%']"
+Château Haura Graves AC 6x 75cl,Frankreich,2022,77.70,3.7,3392,"['77.121%', '78.0894%', '0.82314%', '75.9058%']"
+Château Haut-Bages Libéral Pauillac AOC 5ème Cru Classé,Frankreich,2020,54.95,4.1,19100,None
+Château Haut-Bailly Pessac-Léognan AC Cru Classé,Frankreich,2018,125.00,4.2,15262,None
+Château Haut-Bailly Pessac-Léognan AC Cru Classé,Frankreich,2020,139.00,4.2,15262,None
+Château Haut-Bailly Pessac-Léognan AC Cru Classé 6x 75cl,Frankreich,2022,906.00,4.2,15262,None
+Château Haut-Bailly Pessac-Léognan AC Cru Classé,Frankreich,2011,94.95,4.2,15262,None
+Château Haut-Bergey Pessac-Léognan AC,Frankreich,2018,29.95,3.9,10343,None
+Château Haut-Bergey Pessac-Léognan AC,Frankreich,2021,23.50,3.9,10343,None
+Château Haut-Bergey Pessac-Léognan AC 6x 75cl,Frankreich,2022,131.70,3.9,10343,None
+Château Haut-Brion Pessac-Léognan AC 1er Cru Classé,Frankreich,2018,595.00,4.6,42568,None
+Château Haut-Brion Pessac-Léognan AC 1er Cru Classé,Frankreich,2020,625.00,4.6,42568,None
+Château Haut-Brion Pessac-Léognan AC 1er Cru Classé 3x 75cl,Frankreich,2022,1'926.00,4.6,42568,None
+Château Haut-Brion Pessac-Léognan AOC 1er Cru Classé,Frankreich,2009,935.00,4.6,42568,None
+Château Haut-Brion Pessac-Léognan AOC 1er Cru Classé,Frankreich,2010,909.00,4.6,42568,None
+Château Haut-Brion Pessac-Léognan AOC 1er Cru Classé,Frankreich,2015,675.00,4.6,42568,None
+Château Labégorce Margaux AOC,Frankreich,2019,39.95,4.0,17778,"['64.4306%', '64.8557%', '4.13551%', '72.0453%']"
+Château Labégorce Margaux AOC,Frankreich,2020,37.50,4.0,17778,"['64.4306%', '64.8557%', '4.13551%', '72.0453%']"
+Château Labégorce Margaux AOC 6x 75cl,Frankreich,2022,191.70,4.0,17778,"['64.4306%', '64.8557%', '4.13551%', '72.0453%']"
+Château la Chapelle aux Moines Saint-Emilion Granc Cru,Frankreich,2019,19.95,3.9,3621,"['73.9263%', '57.7171%', '2.24927%', '53.9192%']"
+Château La Dauphine 2010 Fronsac AC,Frankreich,2016,24.95,3.9,5430,None
+Château Lafite Rothschild 1er Cru Classé Pauillac AOC,Frankreich,2010,895.00,4.6,42160,None
+Château Lafite Rothschild Pauillac AC 1er Cru Classé,Frankreich,2020,699.00,4.6,42160,None
+Château Lafite Rothschild Pauillac AC 1er Cru Classé 3x 75cl,Frankreich,2022,2'199.00,4.6,42160,None
+Château Lafon-Rochet Saint-Estèphe 4ème Cru Classé AOC,Frankreich,2020,49.95,4.1,21560,None
+Château Lafon-Rochet Saint-Estèphe 4ème Cru Classé AOC,Frankreich,2016,59.95,4.1,21560,None
+Château Lafon-Rochet Saint-Estèphe 4ème Cru Classé AOC 6x 75cl,Frankreich,2022,271.20,4.1,21560,None
+Château Lagrange Saint-Julien 3ème Cru Classé AOC,Frankreich,2020,59.95,4.1,36142,None
+Château Lagrange Saint-Julien AC 3ème Cru Classé 6x 75cl,Frankreich,2022,311.70,4.1,36142,None
+Château La Gurgue Margaux AOC,Frankreich,2020,32.95,3.9,3792,"['60.5863%', '62.6031%', '8.12439%', '68.8963%']"
+Château Langoa-Barton Saint-Julien AC 3ème Cru Classé,Frankreich,2018,54.95,4.2,12973,None
+Château Langoa-Barton Saint-Julien AC 3ème Cru Classé 6x 75cl,Frankreich,2022,279.00,4.2,12973,None
+Château Langoa-Barton Saint-Julien AC 3ème Cru Classé,Frankreich,2017,52.50,4.2,12973,None
+Château Langoa-Barton Saint-Julien AC 3ème Cru Classé,Frankreich,2016,59.95,4.2,12973,None
+Château la Pensée Lalande-de-Pomerol 6x 75cl,Frankreich,2022,93.00,3.9,820,"['65.2754%', '52.7512%', '0px', '51.0875%']"
+Château la Pensée Lalande-de-Pomerol,Frankreich,2017,19.95,3.9,820,"['65.2754%', '52.7512%', '0px', '51.0875%']"
+Château La Pointe Pomerol,Frankreich,2021,42.50,4.1,10645,None
+Château la Prade Francs - Côtes de Bordeaux AC 6x 75cl,Frankreich,2022,81.00,3.8,1445,"['68.0753%', '59.5499%', '4.88013%', '63.5656%']"
+Château Le Boscq Saint-Estèphe AC,Frankreich,2019,32.50,3.9,6448,None
+Château Le Grand Cos Saint-Emilion,Frankreich,2018,14.95,4.3,4168,"['70.442%', '54.6684%', '9.05565%', '53.1577%']"
+Château Léoville-Barton 2ème Cru Classé St-Julien AOC,Frankreich,2011,89.95,4.3,40042,None
+Château Léoville-Barton Saint-Julien AC 2ème Cru Classé,Frankreich,2018,99.00,4.3,40042,None
+Château Léoville-Barton Saint-Julien AC 2ème Cru Classé,Frankreich,2020,89.00,4.3,40042,None
+Château Léoville-Las-Cases Saint-Julien AC 2ème Cru Classé,Frankreich,2018,289.00,4.4,30353,None
+Château Léoville-Las-Cases Saint-Julien AC 2ème Cru Classé,Frankreich,2020,280.00,4.4,30353,None
+Château Léoville-Las-Cases Saint-Julien AC 2ème Cru Classé,Frankreich,2015,209.00,4.4,30353,None
+Château Léoville-Poyferré Saint-Julien AC 2ème Cru Classé,Frankreich,2020,101.00,4.3,36606,"['63.6309%', '65.3437%', '11.5035%', '72.8937%']"
+Château Léoville-Poyferré Saint-Julien AC 2ème Cru Classé,Frankreich,2017,79.95,4.3,36606,"['63.6309%', '65.3437%', '11.5035%', '72.8937%']"
+Château Les Carmes Haut-Brion Pessac-Léognan AC,Frankreich,2020,159.00,4.2,6441,None
+Château Les Carmes Haut-Brion Pessac-Léognan AC,Frankreich,2017,119.00,4.2,6441,None
+Château Limbourg Pessac-Léognan AC,Frankreich,2018,22.50,3.9,796,"['76.5397%', '71.9533%', '10.8855%', '70.0005%']"
+Château Limbourg Pessac-Léognan AC 6x 75cl,Frankreich,2022,107.70,3.9,796,"['76.5397%', '71.9533%', '10.8855%', '70.0005%']"
+Château Lynch-Moussas Pauillac AC 5ème Cru Classé,Frankreich,2020,40.50,4.1,19685,None
+Château Malescot 3ème Cru Classé Saint Exupéry,Frankreich,2017,52.50,4.2,17319,None
+Château Mangot Saint-Emilion AC Grand Cru 6x 75cl,Frankreich,2022,159.00,4.1,5893,"['74.7076%', '59.0289%', '8.12521%', '54.2133%']"
+Château Margaux 1er Cru Classé Margaux AOC,Frankreich,2010,799.00,4.3,47518,None
+Château Marquis de Terme Margaux 4ème Cru Classé AOC,Frankreich,2020,54.95,4.1,13148,None
+Château Meyney St-Estèphe AOC 6x 75cl,Frankreich,2022,181.20,4.0,15561,None
+Château Meyney St-Estèphe AOC,Frankreich,2017,33.95,4.0,15561,None
+Château Montrose Saint-Estèphe AC 2ème Cru Classé,Frankreich,2020,215.00,4.3,38557,None
+Château Montrose Saint-Estèphe AC 2ème Cru Classé,Frankreich,2015,139.00,4.3,38557,None
+Château Montrose Saint-Estèphe AC 2ème Cru Classé,Frankreich,2012,99.00,4.3,38557,None
+Chateau Moulin Eyquem Côtes-de-Bourg AC 6x 75cl,Frankreich,2022,59.70,3.7,477,"['66.7398%', '58.1184%', '9.09576%', '68.2003%']"
+Château Mouton Rothschild 1er Cru Classé Pauillac AOC,Frankreich,2009,850.00,4.6,79290,None
+Château Mouton Rothschild 1er Cru Classé Pauillac AOC,Frankreich,2011,569.00,4.6,79290,None
+Château Mouton Rothschild 1er Cru Classé Pauillac AOC,Frankreich,2015,635.00,4.6,79290,None
+Château Mouton Rothschild Pauillac AC 1er Cru Classé,Frankreich,2019,699.00,4.6,79290,None
+Château Mouton Rothschild Pauillac AC 1er Cru Classé 3x 75cl,Frankreich,2022,1'938.00,4.6,79290,None
+Château Nénin Pomerol AOC,Frankreich,2016,89.95,4.1,10215,"['71.4679%', '55.1181%', '7.28671%', '55.0056%']"
+Châteauneuf-du-Pape AOC Château La Nerthe,Frankreich,2020,109.95,4.2,24451,None
+Châteauneuf-du-Pape AOC Domaine de la Solitude,Frankreich,2021,35.95,4.2,10459,"['80.7302%', '37.2323%', '7.73319%', '43.7027%']"
+"Châteauneuf-du-Pape AOP, Calvaire 6x 75cl",Frankreich,2022,165.00,4.1,2279,"['85%', '39.8518%', '6.80126%', '45.1785%']"
+"Châteauneuf-du-Pape AOP, Mémora",Frankreich,2022,26.95,4.3,786,"['85%', '34.8191%', '0px', '44.2786%']"
+"Châteauneuf-du-Pape AOP, Sixtine 6x 75cl",Frankreich,2022,173.70,4.1,3783,"['85%', '40.0643%', '8.88654%', '41.818%']"
+"Châteauneuf-du-Pape AOP Chante le Merle, Bosquet Papes 6x 75cl",Frankreich,2022,269.70,4.3,2337,"['82.5268%', '42.6005%', '10.8839%', '44.9785%']"
+"Châteauneuf-du-Pape AOP Cuvée des Cadettes, Nerthe",Frankreich,2017,84.95,4.4,3620,None
+Châteauneuf-du-Pape AOP Cuvée des Cadettes Château La Nerthe,Frankreich,2015,84.95,4.4,3620,None
+Châteauneuf-du-Pape AOP Cuvée Juline Domaine Autard,Frankreich,2020,62.50,3.9,3219,"['80.2185%', '40.9912%', '5.74909%', '46.9164%']"
+"Châteauneuf-du-Pape AOP Cuvée la Côte Ronde, Autard",Frankreich,2017,49.95,4.2,1496,"['85%', '37.9204%', '10.4979%', '43.6194%']"
+Châteauneuf-du-Pape AOP Deus ex Machina Clos Saint Jean,Frankreich,2012,239.00,4.5,1877,None
+Châteauneuf-du-Pape AOP Hommage Jacques Perrin Château de Beaucastel,Frankreich,2020,325.00,4.5,6742,None
+Châteauneuf-du-Pape AOP Hommage Jacques Perrin Château de Beaucastel,Frankreich,2017,375.00,4.5,6742,None
+Châteauneuf-du-Pape AOP L'Avenue Château de Vaudieu,Frankreich,2015,94.95,4.4,213,"['81.1957%', '39.3389%', '9.78401%', '38.4183%']"
+Châteauneuf-du-Pape AOP La Célestière,Frankreich,2010,59.00,4.0,1354,"['82.5906%', '41.7726%', '5.20434%', '45.1209%']"
+Châteauneuf du Pape AOP La Coeur de l'Ange,Frankreich,2019,54.00,4.1,3519,"['84.9987%', '42.9064%', '7.65679%', '48.6255%']"
+"Châteauneuf-du-Pape AOP Les Sinards, Perrin",Frankreich,2017,39.95,4.1,18971,None
+"Châteauneuf-du-Pape AOP Tradition, Bosquet Papes 6x 75cl",Frankreich,2022,179.70,4.1,7595,"['85%', '40.9902%', '5.02526%', '45.4807%']"
+Châteauneuf-du-Pape AOP Tradition Domaine Font de Michelle,Frankreich,2017,34.95,4.1,3321,"['85%', '38.0237%', '8.74869%', '44.0644%']"
+Châteauneuf-du-Pape AOP Val de Dieu Château de Vaudieu,Frankreich,2015,74.95,4.3,1142,"['82.411%', '41.7364%', '8.84447%', '44.1128%']"
+Châteauneuf-du-Pape AOP Vieilles Vignes Domaine Cristia,Frankreich,2015,79.95,4.3,797,"['83.3359%', '39.6296%', '20.706%', '42.3198%']"
+Châteauneuf-du-Pape Cuvée La Côte AOP Ronde Domaine Autard 6x 75cl,Frankreich,2022,209.70,4.2,1496,"['85%', '37.9204%', '10.4979%', '43.6194%']"
+Château Palmer Margaux AC 3ème Cru Classé,Frankreich,2020,345.00,4.5,30981,"['61.0938%', '62.2742%', '9.93957%', '70.9444%']"
+Château Palmer Margaux AC 3ème Cru Classé 6x 75cl,Frankreich,2022,2'196.00,4.5,30981,"['61.0938%', '62.2742%', '9.93957%', '70.9444%']"
+Château Paloumey Haut-Médoc AC,Frankreich,2017,14.95,3.9,6102,"['72.2652%', '72.9669%', '5.54017%', '73.2951%']"
+Château Pape Clément Pessac-Léognan AC Cru Classé,Frankreich,2014,79.95,4.4,30075,None
+Château Pape Clément Pessac-Léognan AC Cru Classé,Frankreich,2017,92.50,4.4,30075,None
+Château Pape Clément Pessac-Léognan AC Cru Classé,Frankreich,2012,115.00,4.4,30075,None
+Château Pavie Macquin Saint-Emilion AC 1er Grand Cru Classé 6x 75cl,Frankreich,2022,510.00,4.3,11790,None
+Château Péby Faugères Saint-Emilion Grand Cru Classé AOC,Frankreich,2013,99.00,4.3,2202,"['76.7917%', '60.4453%', '15.9228%', '53.4731%']"
+Château Pédesclaux Pauillac AC 5ème Cru Classé,Frankreich,2018,54.95,4.1,15456,None
+"Château Penin, Les Cailloux Bordeaux Supérieur AC",Frankreich,2019,16.95,3.9,864,None
+"Château Penin, Les Cailloux Bordeaux Supérieur AC 6x 75cl",Frankreich,2022,75.00,3.9,864,None
+Château Phélan-Ségur Saint-Estèphe AC,Frankreich,2021,43.50,4.1,28449,None
+Château Phélan Ségur Saint-Estèphe AOC,Frankreich,2017,54.95,4.1,28449,None
+Château Pichon-Baron Pauillac AC 2ème Cru Classé,Frankreich,2020,159.00,4.4,40200,None
+Château Pichon-Longueville Comtesse de Lalande Pauillac AC 2ème Cru Classé 6x 75cl,Frankreich,2022,1'278.00,4.4,42504,"['68.818%', '69.7888%', '7.32796%', '71.1972%']"
+Château Pierre 1er Saint-Emilion AC Grand Cru 6x 75cl,Frankreich,2022,119.70,3.9,4589,"['74.6772%', '58.6154%', '5.60711%', '51.1207%']"
+Château Potensac Médoc AOC,Frankreich,2017,39.95,3.9,21659,None
+Château Rauzan-Gassies Margaux AC 2ème Cru Classé 6x 75cl,Frankreich,2022,335.70,4.3,22002,None
+Château Rauzan-Ségla Margaux AC 2ème Cru Classé,Frankreich,2018,129.00,4.3,22002,None
+Château Rauzan-Ségla Margaux AC 2ème Cru Classé 6x 75cl,Frankreich,2022,636.00,4.3,22002,None
+Château Rollan de By Cru Bourgeois Médoc AOC,Frankreich,2017,22.95,3.9,12335,None
+Château Roquetaillade La Grange Graves AC,Frankreich,2017,19.95,3.7,543,"['70.5546%', '77.4752%', '0px', '64.5675%']"
+Château Roquetaillade La Grange Graves AC,Frankreich,2016,18.95,3.7,543,"['70.5546%', '77.4752%', '0px', '64.5675%']"
+Château Roquetaillade La Grange Graves AC,Frankreich,2020,18.95,3.7,543,"['70.5546%', '77.4752%', '0px', '64.5675%']"
+Château Rouget Pomerol AOC,Frankreich,2020,59.95,4.2,7355,None
+Château Rouget Pomerol AOC 6x 75cl,Frankreich,2022,297.00,4.2,7355,None
+Château Saint-Paul Cru Bourgeois Haut-Médoc AOC,Frankreich,2020,17.95,3.6,2621,"['72.383%', '64.8469%', '3.14071%', '69.7662%']"
+Château Saint-Pierre Saint-Julien 4ème Cru Classé AOC,Frankreich,2015,74.95,4.1,9701,None
+Château Saint-Pierre Saint-Julien AC 4ème Cru Classé,Frankreich,2011,52.50,4.1,9701,None
+Château Saint-Pierre Saint-Julien AC 4ème Cru Classé,Frankreich,2020,57.50,4.1,9701,None
+Château Saint-Pierre Saint-Julien AC 4ème Cru Classé 6x 75cl,Frankreich,2022,353.70,4.1,9701,None
+Château Smith Haut Lafitte Pessac-Léognan AC Cru Classé 6x 75cl,Frankreich,2022,861.00,4.3,27875,None
+Château Sociando-Mallet Haut-Médoc AOC,Frankreich,2019,49.95,4.1,30777,None
+Château Sociando-Mallet Haut-Médoc AOC,Frankreich,2017,45.95,4.1,30777,None
+Château Sociando-Mallet Haut-Médoc AOC,Frankreich,2021,34.95,4.1,30777,None
+Château Suau Cadillac - Côtes de Bordeaux,Frankreich,2018,17.50,3.4,309,"['63.7689%', '55.3774%', '0px', '61.2767%']"
+Château Suau Cadillac - Côtes de Bordeaux 6x 75cl,Frankreich,2022,75.00,3.4,309,"['63.7689%', '55.3774%', '0px', '61.2767%']"
+Château Taillefer Pomerol AC,Frankreich,2018,37.50,4.0,6314,None
+Château Taillefer Pomerol AC,Frankreich,2020,32.95,4.0,6314,None
+Château Taillefer Pomerol AC 6x 75cl,Frankreich,2022,165.00,4.0,6314,None
+Château Teyssier Montagne Saint-Emilion AC 6x 75cl,Frankreich,2022,75.00,3.9,4517,"['76.0612%', '60.2273%', '1.47042%', '55.73%']"
+Chénas AOC G. Duboeuf,Frankreich,2020,11.95,3.4,158,"['5.80863%', '23.4369%', '5.3562%', '72.4381%']"
+Chénas AOC G. Duboeuf,Frankreich,2022,11.95,3.4,158,"['5.80863%', '23.4369%', '5.3562%', '72.4381%']"
+Cheyres AOC Pinot Noir Association des Vignerons Broyards,Schweiz,2021,14.95,3.6,166,"['28.8219%', '21.1792%', '0px', '69.7614%']"

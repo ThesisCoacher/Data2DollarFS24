@@ -1,0 +1,325 @@
+Name,Country,Year,Price,Rating,Rating Counter,Tastes
+La Côte AOC Grand Cru Perroy Cuvée 48 Cave de Jolimont 6x 70cl,Schweiz,2022,41.70,3.7,2318,"['29.8527%', '9.37067%', '60.5303%']"
+Chablais AOC Aigle les Murailles Henri Badoux,Schweiz,2022,22.50,3.8,600,None
+Vin Blanc,übrige Länder,,2.95,3.8,4855,None
+Zürich AOC Cuvée Blanc Prestige Staatsschreiber Staatskellerei Zürich,Schweiz,2022,12.35,4.2,7139,None
+Zürich AOC Federweisser Stauffacher 6x 75cl,Schweiz,2023,41.70,4.0,2001,None
+Valais AOC Dôle Blanche Les Bernadettes 6x 75cl,Schweiz,2022,39.90,3.7,1106,None
+Alsace AOP Gewürztraminer Baron de Hoen Beblenheim,Frankreich,2021,10.50,3.7,3605,"['64.7985%', '51.6528%', '22.9863%']"
+Bourgogne AOC Chardonnay Louis Jadot,Frankreich,2022,12.95,3.9,30618,None
+La Côte AOC Féchy L'Artimon,Schweiz,2022,7.45,3.4,1386,"['28.8139%', '5.05366%', '64.3969%']"
+Sauvignon Blanc Marlborough New Zealand Paddle Creek,Neuseeland,2022,6.90,4.3,17225,"['29.9815%', '8.066%', '72.5517%']"
+Lavaux AOC St-Saphorin La Donjannaz Les Terrasses de Lavaux 6x 70cl,Schweiz,2022,59.70,4.2,1010,"['44.0219%', '31.4086%', '8.94926%', '68.2885%']"
+Valais AOC Johannisberg Porte Novembre Maison Gilliard,Schweiz,2022,14.95,4.2,4914,"['44.8854%', '38.7914%', '69.9718%']"
+"Epesses Rives d'Or, Les Terrasses de Lavaux AOC",Schweiz,2022,14.95,3.8,135,"['23.3192%', '0.00333%', '61.2225%']"
+La Côte AOC Luins Les Oursons 6x 75cl,Schweiz,2022,37.50,3.3,485,"['25.4884%', '0px', '69.0046%']"
+Vino Bianco d'Italia Tavernello,Italien,,2.95,3.2,3278,"['28.2097%', '9.45925%', '50.5774%']"
+Lavaux AOC La Salamandre,Schweiz,2022,11.95,3.7,1117,"['27.5791%', '10.7835%', '51.929%']"
+Sancerre AOC Fournier Père et Fils,Frankreich,2023,22.95,4.0,2630,"['20.1448%', '1.3292%', '64.53%']"
+Sauvignon Blanc Marlborough New Zealand Matua,Neuseeland,2022,14.95,3.8,320,"['32.554%', '5.90854%', '72.4329%']"
+Rueda DO Verdejo Marqués de Riscal,Spanien,2022,12.50,3.7,40963,"['21.9297%', '21.3311%', '52.663%']"
+Vin Blanc,übrige Länder,,1.25,3.8,4855,None
+Piazzo Moscato d'Asti DOCG,Italien,2022,6.95,4.1,2118,"['31.3915%', '34.7101%', '0px']"
+Valais AOC Petite Arvine Terrasses du Rhône Bibacchus,Schweiz,2022,17.95,3.8,1118,"['64.6534%', '13.5205%', '77.9159%']"
+Pouilly-Fumé AOC Fournier Père et Fils,Frankreich,2022,14.95,4.0,3213,"['21.7665%', '2.3348%', '65.4993%']"
+Chardonnay Private Selection R. Mondavi,USA,2021,18.95,3.6,16199,"['83.6511%', '36.9407%', '45.8302%']"
+Naturaplan Bio Demeter Waadt AOC Chasselas Libellule,Schweiz,2022,10.95,3.8,76,"['36.0897%', '16.859%', '55.3205%']"
+Südtirol DOC Sauvignon Alto Adige Collection KG Gries Graf Huyn,Italien,2023,15.50,4.0,1179,"['59.2102%', '28.6759%', '57.2276%']"
+La Côte AOC Grand Cru Perroy Cuvée 48 Cave de Jolimont 6x 70cl,Schweiz,2022,41.70,3.7,2318,"['29.8527%', '9.37067%', '60.5303%']"
+Chablais AOC Aigle les Murailles Henri Badoux,Schweiz,2022,22.50,3.8,600,None
+Vin Blanc,übrige Länder,,2.95,3.8,4855,None
+Zürich AOC Cuvée Blanc Prestige Staatsschreiber Staatskellerei Zürich,Schweiz,2022,12.35,4.2,7139,None
+Zürich AOC Federweisser Stauffacher 6x 75cl,Schweiz,2023,41.70,4.0,2001,None
+Valais AOC Dôle Blanche Les Bernadettes 6x 75cl,Schweiz,2022,39.90,3.7,1106,None
+Alsace AOP Gewürztraminer Baron de Hoen Beblenheim,Frankreich,2021,10.50,3.7,3605,"['64.7985%', '51.6528%', '22.9863%']"
+Bourgogne AOC Chardonnay Louis Jadot,Frankreich,2022,12.95,3.9,30618,None
+La Côte AOC Féchy L'Artimon,Schweiz,2022,7.45,3.4,1386,"['28.8139%', '5.05366%', '64.3969%']"
+Sauvignon Blanc Marlborough New Zealand Paddle Creek,Neuseeland,2022,6.90,4.3,17225,"['29.9815%', '8.066%', '72.5517%']"
+Lavaux AOC St-Saphorin La Donjannaz Les Terrasses de Lavaux 6x 70cl,Schweiz,2022,59.70,4.2,1010,"['44.0219%', '31.4086%', '8.94926%', '68.2885%']"
+Valais AOC Johannisberg Porte Novembre Maison Gilliard,Schweiz,2022,14.95,4.2,4914,"['44.8854%', '38.7914%', '69.9718%']"
+"Epesses Rives d'Or, Les Terrasses de Lavaux AOC",Schweiz,2022,14.95,3.8,135,"['23.3192%', '0.00333%', '61.2225%']"
+La Côte AOC Luins Les Oursons 6x 75cl,Schweiz,2022,37.50,3.3,485,"['25.4884%', '0px', '69.0046%']"
+Vino Bianco d'Italia Tavernello,Italien,,2.95,3.2,3278,"['28.2097%', '9.45925%', '50.5774%']"
+Lavaux AOC La Salamandre,Schweiz,2022,11.95,3.7,1117,"['27.5791%', '10.7835%', '51.929%']"
+Sancerre AOC Fournier Père et Fils,Frankreich,2023,22.95,4.0,2630,"['20.1448%', '1.3292%', '64.53%']"
+Sauvignon Blanc Marlborough New Zealand Matua,Neuseeland,2022,14.95,3.8,320,"['32.554%', '5.90854%', '72.4329%']"
+Rueda DO Verdejo Marqués de Riscal,Spanien,2022,12.50,3.7,40963,"['21.9297%', '21.3311%', '52.663%']"
+Vin Blanc,übrige Länder,,1.25,3.8,4855,None
+Piazzo Moscato d'Asti DOCG,Italien,2022,6.95,4.1,2118,"['31.3915%', '34.7101%', '0px']"
+Valais AOC Petite Arvine Terrasses du Rhône Bibacchus,Schweiz,2022,17.95,3.8,1118,"['64.6534%', '13.5205%', '77.9159%']"
+Pouilly-Fumé AOC Fournier Père et Fils,Frankreich,2022,14.95,4.0,3213,"['21.7665%', '2.3348%', '65.4993%']"
+Chardonnay Private Selection R. Mondavi,USA,2021,18.95,3.6,16199,"['83.6511%', '36.9407%', '45.8302%']"
+Naturaplan Bio Demeter Waadt AOC Chasselas Libellule,Schweiz,2022,10.95,3.8,76,"['36.0897%', '16.859%', '55.3205%']"
+Südtirol DOC Sauvignon Alto Adige Collection KG Gries Graf Huyn,Italien,2023,15.50,4.0,1179,"['59.2102%', '28.6759%', '57.2276%']"
+Toscana IGT Bianco Villa Antinori,Italien,2023,12.50,3.9,36840,None
+Pinot Grigio DOC Fior di Papione,Italien,2023,4.95,3.7,147,"['43.1894%', '5%', '41.9697%']"
+Castilla y Leon DO Verdejo Nebla Vincente Gandia,Spanien,2023,9.50,3.7,6716,"['21.243%', '22.4711%', '52.9004%']"
+Vin Blanc,Schweiz,,1.95,3.8,4855,None
+Alsace AOP Pinot Gris Baron de Hoen,Frankreich,2022,6.95,3.7,1041,"['43.2536%', '42.3891%', '32.097%']"
+Chasselas de Romandie Vin de Pays Sélection Le Muriset,Schweiz,2023,5.95,3.1,414,"['22.6056%', '0px', '61.4833%']"
+Pays d'Oc IGP Chardonnay,Frankreich,,5.50,3.0,164,None
+La Côte AOC Saint-Saphorin sur Morges Cave de la Côte,Schweiz,2022,10.95,3.6,415,None
+Valais AOC Fendant Les Moulins,Schweiz,2022,8.95,3.2,892,"['26.6016%', '6.28914%', '61.1221%']"
+Chablais AOC Yvorne La Thibaude,Schweiz,2023,14.50,3.6,1114,"['23.2231%', '4.32266%', '60.3454%']"
+Black Stallion Chardonnay Napa Valley,USA,2020,23.50,4.0,8437,"['85%', '25.4386%', '36.0063%']"
+Vufflens Le Château La Côte AOC 6x 75cl,Schweiz,2022,40.80,3.6,505,"['27.9513%', '9.5676%', '59.5114%']"
+Lavaux AOC Coup de L'Etrier Testuz,Schweiz,2022,18.50,3.5,766,"['31.8311%', '9.08756%', '64.8905%']"
+Prix Garantie Pays d'Oc IGP Marjolaine Chardonnay & Sauvignon Blanc,Frankreich,2023,3.50,3.8,76,"['42.5%', '0px', '33.3409%']"
+Chardonnay California Round Hill,USA,2022,9.50,3.7,3477,"['81.4687%', '37.9075%', '44.9219%']"
+Chardonnay Woodbridge Robert Mondavi,USA,,9.95,3.4,16887,"['83.3609%', '39.1392%', '45.4093%']"
+Heida Valais AOC Étoile Dorée 6x75cl,Schweiz,,105.00,4.0,450,"['43.1195%', '26.8333%', '69.4306%']"
+Les Moulins Fendant du Valais AOC,Schweiz,,3.50,3.2,892,"['26.6016%', '6.28914%', '61.1221%']"
+Pinot Grigio DOC Garda Bag in Box,Italien,,9.95,3.6,3745,"['48.7405%', '21.8781%', '55.0243%']"
+Valais AOC Dôle Blanche Les Clarelles Provins,Schweiz,2022,9.95,3.5,648,None
+Toscana IGT Bianco Villa Antinori,Italien,2022,12.50,3.9,36840,None
+Chablais AOC Aigle Les Plantailles,Schweiz,2023,12.95,3.5,1210,"['26.7705%', '0px', '61.1776%']"
+Valais AOC Fendant Pierrafeu Provins,Schweiz,2022,12.50,3.6,1123,"['30.1288%', '3.01001%', '64.7252%']"
+Naturaplan Bio La Raia Gavi DOCG,Italien,2022,12.95,3.7,3769,"['20.0747%', '0.56529%', '79.1034%']"
+Pays d'Oc IGP Chardonnay,Frankreich,,2.95,3.0,164,None
+Valais AOC Fendant Domherrenwein Provins,Schweiz,2022,8.95,3.4,1032,"['28.9799%', '10.2032%', '64.1416%']"
+Chasselas aus Südbaden,Deutschland,2022,4.50,3.3,195,"['42.5%', '17.2802%', '44.7284%']"
+Chasselas aus Südbaden,Deutschland,2022,4.50,3.3,195,"['42.5%', '17.2802%', '44.7284%']"
+Chablis AOP Les Tisserandes,Frankreich,2023,12.50,3.5,1493,"['38.4966%', '0px', '69.597%']"
+Valais AOC Johannisberg Terrasses du Rhône Bibacchus,Schweiz,2022,14.95,3.7,773,"['42.7434%', '12.4736%', '73.7577%']"
+"Natureo Blanco Torres, alkoholfrei",Spanien,2022,9.95,3.5,15852,"['44.5%', '0px', '46.1%']"
+Les Coursons Chasselas de Romandie,Schweiz,,5.95,3.0,242,"['24.8389%', '0.512698%', '66.1595%']"
+Valais AOC Johannisberg Fleur du Rhône,Schweiz,2022,8.95,3.7,773,"['42.7434%', '12.4736%', '73.7577%']"
+Naturaplan Bio Alentejo DOC Marquês de Borba Colheita Joâo Portugal Ramos,Portugal,2021,9.95,3.8,11571,"['58.4377%', '45.9334%', '17.1743%', '41.9552%']"
+Valais AOC Fendant Domaines des Virets,Schweiz,2022,10.95,3.5,1316,"['32.9077%', '11.0274%', '62.5584%']"
+Chardonnay South Eastern Australia Kangaroo Ridge,Australien,2022,6.95,3.0,716,"['52.1505%', '14.4341%', '49.7003%']"
+La Côte AOC Féchy Légende Kursner,Schweiz,2023,11.95,3.8,248,"['30%', '0px', '67.5%']"
+La Côte AOC Bel Horizon,Schweiz,,7.95,2.5,57,None
+Lavaux AOC Epesses Braise d'Enfer Les Frères Dubois,Schweiz,2022,14.95,3.8,789,"['33.0999%', '9.23823%', '59.8851%']"
+Ticino DOC Bianco di Merlot Roccolo 6x 75cl,Schweiz,2023,47.70,3.8,527,None
+Ticino DOC Bianco di Merlot Bucaneve 6x 75cl,Schweiz,2023,58.50,3.7,3160,None
+Lavaux AOC St-Saphorin La Donjannaz Les Terrasses de Lavaux 6x 70cl,Schweiz,2023,59.70,4.2,1010,"['44.0219%', '31.4086%', '8.94926%', '68.2885%']"
+La Côte AOC Féchy Domaine du Martheray,Schweiz,2022,13.95,3.7,812,"['33.7717%', '5.93494%', '62.9924%']"
+La Côte AOC Mont-sur-Rolle Rochebonne,Schweiz,,3.60,3.0,232,"['24.5614%', '13.4126%', '61.4295%']"
+Valais AOC Petite Arvine Les Perlines Maison Gilliard,Schweiz,2022,21.95,3.9,700,"['60.1774%', '14.4585%', '80.3255%']"
+Chardonnay California Fetzer,USA,2022,15.50,3.6,6408,"['80.3445%', '38.4009%', '45.8695%']"
+Rueda DO Verdejo Legaris,Spanien,2022,7.95,3.5,5291,"['22.0967%', '20.9676%', '52.3114%']"
+La Côte AOC La Châtelaine,Schweiz,2022,6.70,3.2,425,"['30.1827%', '0.178573%', '66.9835%']"
+Naturaplan Bio Pecorino Jasci Terre di Chieti IGT,Italien,2022,9.95,3.8,1109,"['42.5018%', '24.9827%', '66.3299%']"
+Ciao Pinot Grigio,Italien,,4.95,3.3,313,"['44.7891%', '6.98469%', '36.7857%']"
+Bourgogne AOC Château de Dracy Chardonnay,Frankreich,2022,12.50,3.9,766,"['57.9118%', '0.21828%', '46.8866%']"
+Naturaplan Bio Rueda DO Sauvignon Blanc Marqués de Riscal,Spanien,2022,9.95,3.8,10528,"['40.9475%', '0.896155%', '67.2585%']"
+Valais AOC Fendant Dame de Sion,Schweiz,2022,14.50,3.4,1355,"['26.3016%', '4.28626%', '59.3125%']"
+Chardonnay Colchagua Valley Viña Sutil 6x 75cl,Chile,2023,23.70,3.8,1995,"['54.6031%', '29.487%', '18.5731%']"
+Valais AOC Petite Arvine Maître de Chais,Schweiz,2022,19.95,3.8,1298,"['63.1697%', '15.6832%', '78.4094%']"
+Valais AOC Heida Fleur du Rhône,Schweiz,2023,10.95,3.9,1979,"['45.0269%', '20.8632%', '73.0546%']"
+Alsace AOP Riesling Baron de Hoen,Frankreich,2023,9.95,3.7,1110,"['39.335%', '25.3658%', '74.1025%']"
+Fleur du Rhône Petite Arvine Valais AOC,Schweiz,2022,13.95,3.8,1118,"['64.6534%', '13.5205%', '77.9159%']"
+La Côte AOC Féchy Villardaz,Schweiz,2022,5.95,3.6,32,"['29.4%', '0px', '67.5%']"
+Valais AOC Fendant Les Murettes Maison Gilliard,Schweiz,2023,13.45,3.7,4035,"['30.4854%', '5.56934%', '60.7768%']"
+"Chardonnay Deutschland VIV, alkoholfrei",Deutschland,,10.95,2.6,96,"['39.5%', '9%', '50%']"
+Pays d'Oc IGP Chardonnay Oriol,Frankreich,2023,5.20,3.0,171,"['32.2308%', '0px', '43.6202%']"
+Prix Garantie El Flamenco España Blanco,Spanien,2022,4.20,2.7,553,"['42.5%', '0px', '42.5%']"
+Bordeaux AOC Dourthe Sauvignon Blanc La Grande Cuvée,Frankreich,2022,12.50,3.6,3478,"['61.4078%', '10.4263%', '46.0591%']"
+Zürich AOC Riesling-Sylvaner Zürcher Weinkeller zum Stauffacher,Schweiz,2023,8.50,3.7,208,None
+Zürich AOC Staatsschreiber Sauvignon Blanc,Schweiz,2022,19.95,4.2,187,"['48.7027%', '22.7568%', '62.8176%']"
+La Côte AOC Féchy Les Merveilles,Schweiz,2022,12.50,3.3,39,"['30%', '0.625%', '70%']"
+Naturaplan Bio Château Barillet vin de pays Suisse Blanc,Schweiz,2022,14.95,3.8,252,None
+Schaffhausen AOC Hallauer Riesling-Sylvaner,Schweiz,2023,7.95,4.0,114,None
+Alsace AOP Gewürztraminer Baron de Schiele,Frankreich,2020,9.70,3.9,356,"['61.2974%', '39.0748%', '19.4544%']"
+Lavaux AOC Epesses Le Muret 6x75cl,Schweiz,,99.00,3.7,546,"['29.2105%', '4.44462%', '56.1551%']"
+Vinho Verde DOC Gazela,Portugal,,6.95,3.7,16766,"['6.74586%', '3.79947%', '76.1127%']"
+Baden QbA Kaiserstuhl Pinot Gris,Deutschland,2023,7.95,3.7,71,"['43.7037%', '29.0278%', '32.5926%']"
+La Côte AOC Chasselas Mont-Sur-Rolle Belcolline,Schweiz,2021,8.65,3.0,232,"['24.5614%', '13.4126%', '61.4295%']"
+Chasselas aus Südbaden,Deutschland,,1.95,3.3,195,"['42.5%', '17.2802%', '44.7284%']"
+Lavaux AOC Saint-Saphorin Terre Plein Domaine Bernard Bovy,Schweiz,2022,11.95,3.4,289,"['30.9438%', '7.56923%', '58.9731%']"
+Naturaplan Bio Neuchâtel AOC Domaine des Coccinelles,Schweiz,2022,12.95,3.5,570,"['30.6783%', '6.70223%', '55.4952%']"
+Valais AOC Malvoisie Terrasses du Rhône Bibacchus,Schweiz,2022,12.50,3.6,53,"['29.0705%', '0px', '66.0128%']"
+Valais AOC Heida Les Perlines,Schweiz,2022,19.95,3.9,189,"['41.9355%', '18.4677%', '71.8145%']"
+Sardegna DOC Vermentino Costamolino Argiolas,Italien,2022,14.50,3.9,21182,None
+Greco di Tufo DOCG Loggia della Serra Terredora,Italien,2022,13.95,3.8,4283,"['64.0484%', '3.34348%', '34.6551%']"
+Naturaplan Bio Cigalus Blanc Aude Hauterive IGP Gérard Bertrand,Frankreich,2020,27.95,3.9,15618,None
+Pouilly-Fumé Sauvignon Blanc Adrien Maréchal,Frankreich,2022,19.95,3.9,149,"['16.1866%', '0px', '69.0687%']"
+Sardegna DOC Vermentino Costamolino Argiolas,Italien,2023,14.50,3.9,21182,None
+Valais AOC Heida Maître de Chais,Schweiz,2022,26.95,3.8,1003,"['41.3022%', '7.81882%', '77.1909%']"
+Chasselas Baden,Deutschland,,4.95,3.3,195,"['42.5%', '17.2802%', '44.7284%']"
+Burgenland Heideboden Cuvée Weiss Hannes Reeh,Österreich,2022,14.95,3.7,970,"['23.3594%', '21.1245%', '85%']"
+Aargauer AOC Riesling-Sylvaner Falkenkönig,Schweiz,2022,8.95,3.7,150,None
+Valais AOC Assemblage Blanc Nez Noir Domaine Rouvinez,Schweiz,2022,14.95,3.9,403,None
+Zürich AOC Zürichsee Riesling-Sylvaner,Schweiz,2022,13.95,4.0,706,None
+Chardonnay Chile Los Vascos Rothschild,Chile,2022,11.50,3.5,7254,"['63.6389%', '40.9902%', '19.4574%']"
+Soave Classico DOC Rocca Alata Cantina di Soave,Italien,2023,5.95,3.5,712,None
+South Africa Sauvignon Blanc Makana,Südafrika,2023,3.95,2.8,135,None
+La Côte AOC Mont-sur-Rolle Rochebonne,Schweiz,,5.95,3.0,232,"['24.5614%', '13.4126%', '61.4295%']"
+Friuli DOP Pinot Grigio Puiatti,Italien,2022,15.50,3.9,237,"['42.9259%', '10.6543%', '40.216%']"
+Naturaplan Bio Domaine de Marcins La Côte AOC,Schweiz,2022,10.95,3.5,403,"['32.2898%', '6.28979%', '62.186%']"
+La Côte AOC Château de Bursinel Grand Cru,Schweiz,2022,10.95,3.7,476,"['32.7099%', '2.00573%', '64.1882%']"
+Sicilia DOC Grillo Cardilla Bacaro,Italien,2022,7.95,3.7,143,"['67.3106%', '0px', '34.947%']"
+Zürich AOC Chardonnay Staatskellerei Zürich,Schweiz,2022,19.95,3.9,374,"['54.9759%', '16.9736%', '42.8612%']"
+Aigle Noir Viognier Pays D'Oc IGP,Frankreich,,11.95,3.5,1876,"['50.3234%', '49.6852%', '0.820038%', '61.5406%']"
+Weinviertel DAC Grüner Veltliner Hund Pfaffl,Österreich,2023,11.95,3.8,3652,"['26.2376%', '9.26189%', '62.3685%']"
+Pouilly-Fuissé AOC Georges Duboeuf,Frankreich,2021,24.95,3.9,2915,"['41.4824%', '2.53665%', '39.5614%']"
+Riesling trocken Spiess,Deutschland,2023,9.95,3.7,773,"['38.7236%', '0.37572%', '84.9364%']"
+Naturaplan Bio Cuvée Noble Blanc Domaine la Capitaine La Côte AOC,Schweiz,2022,22.95,3.8,422,None
+Naturaplan Bio Weissburgunder Weingut Zähringer,Deutschland,2022,13.50,3.0,14,None
+Grüner Veltliner Himmelstiege Federspiel Domäne Wachau,Österreich,2023,12.95,3.6,2175,"['20.7931%', '3.46418%', '68.6092%']"
+La Côte AOC Luins Les Merveilles,Schweiz,2022,9.95,3.3,485,"['25.4884%', '0px', '69.0046%']"
+Rheingau Riesling Trocken Gelblack Schloss Johannisberg,Deutschland,2022,15.95,4.0,12638,"['41.8542%', '8.93855%', '83.3217%']"
+Pays d'Oc IGP Chardonnay,Frankreich,,1.95,3.0,164,None
+Burgenland Grüner Veltliner Haus & Hof Hannes Reeh,Österreich,2022,11.95,3.5,262,"['18.9358%', '5.22396%', '63.9991%']"
+Rías Baixas DO Albariño Pazo San Mauro,Spanien,2023,9.95,3.8,10314,"['13.0113%', '8.13%', '60.9313%']"
+Pouilly-Fumé Sauvignon Blanc Adrien Maréchal,Frankreich,2022,19.95,3.9,149,"['16.1866%', '0px', '69.0687%']"
+Sardegna DOC Vermentino Costamolino Argiolas,Italien,2023,14.50,3.9,21182,None
+Valais AOC Heida Maître de Chais,Schweiz,2022,26.95,3.8,1003,"['41.3022%', '7.81882%', '77.1909%']"
+Chasselas Baden,Deutschland,,4.95,3.3,195,"['42.5%', '17.2802%', '44.7284%']"
+Burgenland Heideboden Cuvée Weiss Hannes Reeh,Österreich,2022,14.95,3.7,970,"['23.3594%', '21.1245%', '85%']"
+Aargauer AOC Riesling-Sylvaner Falkenkönig,Schweiz,2022,8.95,3.7,150,None
+Valais AOC Assemblage Blanc Nez Noir Domaine Rouvinez,Schweiz,2022,14.95,3.9,403,None
+Zürich AOC Zürichsee Riesling-Sylvaner,Schweiz,2022,13.95,4.0,706,None
+Chardonnay Chile Los Vascos Rothschild,Chile,2022,11.50,3.5,7254,"['63.6389%', '40.9902%', '19.4574%']"
+Soave Classico DOC Rocca Alata Cantina di Soave,Italien,2023,5.95,3.5,712,None
+South Africa Sauvignon Blanc Makana,Südafrika,2023,3.95,2.8,135,None
+La Côte AOC Mont-sur-Rolle Rochebonne,Schweiz,,5.95,3.0,232,"['24.5614%', '13.4126%', '61.4295%']"
+Friuli DOP Pinot Grigio Puiatti,Italien,2022,15.50,3.9,237,"['42.9259%', '10.6543%', '40.216%']"
+Naturaplan Bio Domaine de Marcins La Côte AOC,Schweiz,2022,10.95,3.5,403,"['32.2898%', '6.28979%', '62.186%']"
+La Côte AOC Château de Bursinel Grand Cru,Schweiz,2022,10.95,3.7,476,"['32.7099%', '2.00573%', '64.1882%']"
+Sicilia DOC Grillo Cardilla Bacaro,Italien,2022,7.95,3.7,143,"['67.3106%', '0px', '34.947%']"
+Zürich AOC Chardonnay Staatskellerei Zürich,Schweiz,2022,19.95,3.9,374,"['54.9759%', '16.9736%', '42.8612%']"
+Aigle Noir Viognier Pays D'Oc IGP,Frankreich,,11.95,3.5,1876,"['50.3234%', '49.6852%', '0.820038%', '61.5406%']"
+Weinviertel DAC Grüner Veltliner Hund Pfaffl,Österreich,2023,11.95,3.8,3652,"['26.2376%', '9.26189%', '62.3685%']"
+Pouilly-Fuissé AOC Georges Duboeuf,Frankreich,2021,24.95,3.9,2915,"['41.4824%', '2.53665%', '39.5614%']"
+Riesling trocken Spiess,Deutschland,2023,9.95,3.7,773,"['38.7236%', '0.37572%', '84.9364%']"
+Naturaplan Bio Cuvée Noble Blanc Domaine la Capitaine La Côte AOC,Schweiz,2022,22.95,3.8,422,None
+Naturaplan Bio Weissburgunder Weingut Zähringer,Deutschland,2022,13.50,3.0,14,None
+Grüner Veltliner Himmelstiege Federspiel Domäne Wachau,Österreich,2023,12.95,3.6,2175,"['20.7931%', '3.46418%', '68.6092%']"
+La Côte AOC Luins Les Merveilles,Schweiz,2022,9.95,3.3,485,"['25.4884%', '0px', '69.0046%']"
+Rheingau Riesling Trocken Gelblack Schloss Johannisberg,Deutschland,2022,15.95,4.0,12638,"['41.8542%', '8.93855%', '83.3217%']"
+Pays d'Oc IGP Chardonnay,Frankreich,,1.95,3.0,164,None
+Burgenland Grüner Veltliner Haus & Hof Hannes Reeh,Österreich,2022,11.95,3.5,262,"['18.9358%', '5.22396%', '63.9991%']"
+Rías Baixas DO Albariño Pazo San Mauro,Spanien,2023,9.95,3.8,10314,"['13.0113%', '8.13%', '60.9313%']"
+Naturaplan Bio Comte Genève,Schweiz,2023,11.95,3.4,292,None
+Valais AOC Dôle Blanche Valisiana,Schweiz,,6.30,3.8,209,None
+Fior di Settembre Pinot Gris Pavia IGT,Italien,2023,2.95,3.8,183,"['29.3839%', '13.3571%', '37.5089%']"
+Ticino DOC Merlot Bianco Terre Alte,Schweiz,2023,15.95,3.7,1408,None
+Naturaplan Bio Gewürztraminer d'Alsace AOP Wolfberger,Frankreich,2022,15.95,3.7,1046,"['49.5114%', '58.0513%', '66.1196%']"
+Ticino DOC Johanniter Riserva Cantina Giubiasco,Schweiz,2021,18.70,3.5,574,"['61.9539%', '35.9059%', '5.91842%', '45.398%']"
+Douro DOC Fabelhaft Branco Niepoort,Portugal,2022,10.95,3.4,1332,"['36.7711%', '1.31575%', '64.1465%']"
+Chasselas aus Südbaden,Deutschland,,3.10,3.3,195,"['42.5%', '17.2802%', '44.7284%']"
+Prix Garantie Alsace AOC Gewürztraminer Henri Martin,Frankreich,2021,7.95,3.9,43,"['67.5%', '43.3929%', '17.5%']"
+Prix Garantie Valais AOC Dôle Blanche les Terrasses du Rhône,Schweiz,2022,7.45,2.9,510,"['42.5%', '17.5%', '5%', '80%']"
+Prix Garantie Valais AOC Fendant les Terrasses,Schweiz,2022,6.95,3.6,1158,"['28.1774%', '0px', '66.7385%']"
+Valais AOC Johannisberg Domaine du Mont d'Or Mi-Doux,Schweiz,2022,19.95,4.2,58,None
+Bio Naturaplan Terra Alpina Vino Bianco,Europa,2021,13.50,3.8,265,"['60.6541%', '20.7175%', '45.0771%']"
+Chablis AOC 1er Cru Vau de Vey Jean-Marc Brocard,Frankreich,2022,27.50,4.0,2949,"['43.3728%', '4.85006%', '67.8967%']"
+Free From Bio-Pays d'Oc IGP Chardonnay Naturae Gérard Bertrand,Frankreich,2021,9.95,3.4,3599,"['42.2167%', '13.5721%', '37.8458%']"
+Lavaux AOC Dézaley Grand Cru Domaine Louis Bovard,Schweiz,2022,29.50,4.0,1645,"['33.125%', '8.37168%', '61.4146%']"
+Menetou-Salon AOP Côtes de Morogues Fournier Père et Fils,Frankreich,2022,14.95,3.9,586,"['22.6724%', '0.755265%', '70.4763%']"
+Albizzia Frescobaldi Chardonnay Toscana IGT,Italien,2023,9.95,3.6,3851,"['39.7118%', '19.7613%', '62.2503%']"
+Mouton Cadet Sauvignon Blanc,Frankreich,2022,11.95,3.4,3885,"['60.9908%', '11.2854%', '46.9929%']"
+Bucaneve Merlot Bianco 37,Schweiz,2022,8.50,3.7,3160,None
+Naturaplan Bio Rioja DOCa Señorio de Arriezu Blanco,Spanien,2022,8.95,3.2,79,"['50.2969%', '9.20938%', '54.6328%']"
+Aigle Les Murailles Chablais AOC H. Badoux,Schweiz,2022,12.95,3.8,600,None
+Château Auvernier Neuchâtel,Schweiz,2022,14.95,3.8,1309,None
+Chenin Blanc Stellenbosch South Africa WO Cellar Selection Kleine Zalze,Südafrika,2022,12.50,3.7,381,"['35.118%', '9.89553%', '72.7271%']"
+Vaud Chasselas La Batoille Cuvée des Pèdzes,Schweiz,2022,10.45,3.5,44,"['30.8155%', '19.4672%', '48.0819%']"
+La Côte AOC Mont-sur-Rolle Château de Mont-sur-Rolle,Schweiz,2022,12.95,3.7,29,"['30%', '0px', '67.5%']"
+La Côte AOC Morges Vieilles Vignes,Schweiz,2022,9.70,3.6,645,"['33.1866%', '16.2817%', '60.8741%']"
+Moscato d'Asti DOCG Araldica,Italien,2023,9.95,3.9,2585,"['29.5149%', '33.2535%', '0px']"
+Marlborough Sauvignon Blanc Cloudy Bay,Neuseeland,2022,34.95,4.2,78657,"['32.4891%', '1.04138%', '78.5315%']"
+Fine Food Moscato d'Asti DOCG Fiori d'Arancio La Spinetta,Italien,2023,15.50,4.3,178,"['26.2405%', '27.3636%', '0px']"
+Lavaux AOC Epesses Rives d'Or,Schweiz,2022,8.50,3.6,1624,"['26.6137%', '7.3691%', '61.9227%']"
+Valais AOC Fendant Rapilles,Schweiz,,5.95,3.3,215,"['21.8693%', '1.08122%', '59.0063%']"
+Gewürztraminer Baron de Hoen Beblenheim Alsace AOC,Frankreich,2021,6.95,3.7,3605,"['64.7985%', '51.6528%', '22.9863%']"
+Italia Moscato Dose 4x25cl,Italien,,7.80,3.4,1257,"['42.1331%', '42.8356%', '65.8489%']"
+Naturaplan Bio Alsace AOC Gewürztraminer Kuehn,Frankreich,2022,12.95,3.9,356,"['61.2974%', '39.0748%', '19.4544%']"
+Rueda DO Verdejo Flor de Vetus,Spanien,2022,13.95,3.8,5732,"['23.3873%', '23.074%', '51.6545%']"
+Ticino DOC Bianco di Merlot Chiarasole 6x75cl,Schweiz,,89.00,3.7,3160,None
+Les Coursons Chasselas de Romandie,Schweiz,,2.50,3.0,242,"['24.8389%', '0.512698%', '66.1595%']"
+Les Coursons Chasselas de Romandie,Schweiz,,3.95,3.0,242,"['24.8389%', '0.512698%', '66.1595%']"
+Falanghina Irpina DOC Terredora,Italien,2022,10.50,3.9,2142,"['62.5554%', '2.34821%', '39.3199%']"
+Lavaux AOC Dézaley Grand Cru L'Arbalète,Schweiz,2022,27.95,3.8,484,"['35.4773%', '7.3348%', '61.3424%']"
+Sauvignon Blanc Marlborough New Zealand Paddle Creek,Neuseeland,2022,6.95,4.3,17225,"['29.9815%', '8.066%', '72.5517%']"
+Burgenland Grüner Veltliner Mundart,Österreich,2021,7.95,4.0,1576,"['23.1663%', '13.0568%', '61.2556%']"
+La Côte AOC Grand Cru Vinzel Château la Bâtie Cave de la Côte,Schweiz,2022,13.95,3.7,476,"['32.7099%', '2.00573%', '64.1882%']"
+Pouilly-Fuissé Albert Bichot,Frankreich,2022,22.50,3.9,2521,"['41.7812%', '0px', '41.074%']"
+Valais AOC Petite Arvine Terrasses du Rhône Bibacchus,Schweiz,2021,9.95,3.8,1118,"['64.6534%', '13.5205%', '77.9159%']"
+Vernaccia di San Gimignano Riserva DOCG La Lastra,Italien,2021,14.95,3.8,473,"['42.9972%', '19.2477%', '64.9676%']"
+Kangaroo Ridge Chardonnay,Australien,2022,2.95,3.0,716,"['52.1505%', '14.4341%', '49.7003%']"
+Wairau Valley Marlborough Sauvignon Blanc Reserve Villa Maria,Neuseeland,2021,24.95,4.2,4581,"['35.8475%', '3.78538%', '76.3874%']"
+Chablis AOC Premier Cru Les Vaillons A. Bichot,Frankreich,2022,32.95,3.9,440,"['38.3447%', '13.6754%', '67.6875%']"
+Kourtaki Retsina Attika,Griechenland,,5.95,3.0,3561,None
+Veneto IGT Sauvignon Bianco Conte di Valle Palazzo Maffei,Italien,2022,12.50,3.8,91,"['60.6978%', '23.4783%', '54.4565%']"
+Zürich AOC Riesling-Sylvaner Zürcher Weinkeller zum Stauffacher,Schweiz,2023,6.50,3.7,208,None
+Zürich AOC Stauffacher Federweisser,Schweiz,2023,5.95,4.0,2001,None
+Lavaux AOC Chardonne Le Chantey,Schweiz,2022,11.95,3.4,148,"['29.078%', '6.86561%', '69.7182%']"
+Lutry Domaine Moulin la Vignette & Dizerens Lavaux AOC,Schweiz,2022,12.95,3.5,281,"['32.0418%', '0.50182%', '58.9618%']"
+Rueda DO Verdejo Legaris,Spanien,2023,7.95,3.5,5291,"['22.0967%', '20.9676%', '52.3114%']"
+Araldica Gavi La Luciana DOCG,Italien,2022,8.95,3.6,2805,"['18.3237%', '0px', '77.7608%']"
+Pro Montagna Ticino DOC Merlot Bianco Tre Valli,Schweiz,2022,14.50,3.2,30,None
+"AOC Alsace Grand Cru Schoenenbourg Riesling, Baron de Hoen",Frankreich,2020,17.95,3.8,321,"['37.0328%', '21.5573%', '75.0182%']"
+Alsace AOC Gewürztraminer Grand Cru Sonnenglanz Baron de Hoen,Frankreich,2019,18.50,3.8,654,"['65.5819%', '48.1542%', '20.6272%']"
+Fine Food La Côte AOC Féchy Premier Grand Cru Domaine de Fischer,Schweiz,2022,16.95,3.9,393,"['25.4876%', '8.9624%', '61.5787%']"
+Graubünden AOC Wein Einfach Fein Weiss Weingut Von Salis,Schweiz,2022,22.50,4.1,215,None
+Ticino DOC Merlot Bianco L'Ariete,Schweiz,2022,15.50,3.2,350,None
+Friuli DOC Pinot Grigio Attems,Italien,2023,14.50,3.8,5198,"['42.3448%', '13.1759%', '42.2922%']"
+Naturaplan Bio Féchy La Côte AOC Terre de Bionysos,Schweiz,2022,13.95,3.9,393,"['25.4876%', '8.9624%', '61.5787%']"
+Pro Montagna Valais AOC Heida Visperterminen,Schweiz,2023,26.95,4.1,310,"['52.1%', '30.27%', '70.94%']"
+Zürich AOC Rielsing-Sylvaner Weininger Weinkeller zum Stauffacher,Schweiz,2022,9.50,3.8,176,None
+Naturaplan Bio Vully Chasselas Convivial,Schweiz,2022,15.95,3.9,43,"['21.4811%', '0px', '54.1132%']"
+Zürich AOC Federweisser Stauffacher,Schweiz,2022,5.95,4.0,2001,None
+Vaud AOC Chasselas Le Chardon d'Argent Neyroud-Fonjallaz,Schweiz,2022,14.95,3.8,191,"['24.131%', '0.0405175%', '54.3362%']"
+Salento IGP Vermentino Vecchia Torre,Italien,2022,9.50,3.8,3293,"['60.2041%', '5.45251%', '37.2168%']"
+Toscana IGT Vermentino La Pettegola Banfi,Italien,2022,15.50,3.9,9416,"['41.3659%', '25.112%', '63.9882%']"
+Naturaplan Bio-Puglia IGP Bianco Erbaceo,Italien,2022,13.95,4.1,4453,"['66.4114%', '19.1673%', '41.3195%', '10.8644%']"
+Pessac-Léognan AC Château Lespault-Martillac blanc,Frankreich,2019,32.50,4.0,418,"['69.7876%', '12.5862%', '46.1201%']"
+Somontano DO Chardonnay 234 Enate,Spanien,2022,13.95,3.9,17975,"['45.5663%', '10.8925%', '46.6427%']"
+Lavaux AOC St-Saphorin L'Église Louis Bovard,Schweiz,2022,18.95,3.8,195,"['29.9512%', '10.1058%', '54.912%']"
+Niederösterreich Qualitätswein Naturaplan Bio-Grüner Veltliner Biokult,Österreich,2023,11.50,3.6,33,"['11.7308%', '0px', '64.0385%']"
+Rueda DO Verdejo Las Flores,Spanien,2022,8.95,3.5,201,"['16.5397%', '20.1448%', '51.5397%']"
+Schaffhausen AOC Riesling-Silvaner Graf von Spiegelberg,Schweiz,2022,11.50,3.7,571,None
+Lutry Domaine Moulin la Vignette & Dizerens Lavaux AOC,Schweiz,2022,12.95,3.5,281,"['32.0418%', '0.50182%', '58.9618%']"
+Rueda DO Verdejo Legaris,Spanien,2023,7.95,3.5,5291,"['22.0967%', '20.9676%', '52.3114%']"
+Araldica Gavi La Luciana DOCG,Italien,2022,8.95,3.6,2805,"['18.3237%', '0px', '77.7608%']"
+Pro Montagna Ticino DOC Merlot Bianco Tre Valli,Schweiz,2022,14.50,3.2,30,None
+"AOC Alsace Grand Cru Schoenenbourg Riesling, Baron de Hoen",Frankreich,2020,17.95,3.8,321,"['37.0328%', '21.5573%', '75.0182%']"
+Alsace AOC Gewürztraminer Grand Cru Sonnenglanz Baron de Hoen,Frankreich,2019,18.50,3.8,654,"['65.5819%', '48.1542%', '20.6272%']"
+Fine Food La Côte AOC Féchy Premier Grand Cru Domaine de Fischer,Schweiz,2022,16.95,3.9,393,"['25.4876%', '8.9624%', '61.5787%']"
+Graubünden AOC Wein Einfach Fein Weiss Weingut Von Salis,Schweiz,2022,22.50,4.1,215,None
+Ticino DOC Merlot Bianco L'Ariete,Schweiz,2022,15.50,3.2,350,None
+Friuli DOC Pinot Grigio Attems,Italien,2023,14.50,3.8,5198,None
+Naturaplan Bio Féchy La Côte AOC Terre de Bionysos,Schweiz,2022,13.95,3.9,393,"['25.4876%', '8.9624%', '61.5787%']"
+Pro Montagna Valais AOC Heida Visperterminen,Schweiz,2023,26.95,4.1,310,"['52.1%', '30.27%', '70.94%']"
+Zürich AOC Rielsing-Sylvaner Weininger Weinkeller zum Stauffacher,Schweiz,2022,9.50,3.8,176,None
+Naturaplan Bio Vully Chasselas Convivial,Schweiz,2022,15.95,3.9,43,"['21.4811%', '0px', '54.1132%']"
+Zürich AOC Federweisser Stauffacher,Schweiz,2022,5.95,4.0,2001,None
+Vaud AOC Chasselas Le Chardon d'Argent Neyroud-Fonjallaz,Schweiz,2022,14.95,3.8,191,"['24.131%', '0.0405175%', '54.3362%']"
+Salento IGP Vermentino Vecchia Torre,Italien,2022,9.50,3.8,3293,"['60.2041%', '5.45251%', '37.2168%']"
+Toscana IGT Vermentino La Pettegola Banfi,Italien,2022,15.50,3.9,9416,"['41.3659%', '25.112%', '63.9882%']"
+Naturaplan Bio-Puglia IGP Bianco Erbaceo,Italien,2022,13.95,4.1,4453,"['66.4114%', '19.1673%', '41.3195%', '10.8644%']"
+Pessac-Léognan AC Château Lespault-Martillac blanc,Frankreich,2019,32.50,4.0,418,"['69.7876%', '12.5862%', '46.1201%']"
+Somontano DO Chardonnay 234 Enate,Spanien,2022,13.95,3.9,17975,"['45.5663%', '10.8925%', '46.6427%']"
+Lavaux AOC St-Saphorin L'Église Louis Bovard,Schweiz,2022,18.95,3.8,195,"['29.9512%', '10.1058%', '54.912%']"
+Niederösterreich Qualitätswein Naturaplan Bio-Grüner Veltliner Biokult,Österreich,2023,11.50,3.6,33,None
+Rueda DO Verdejo Las Flores,Spanien,2022,8.95,3.5,201,"['16.5397%', '20.1448%', '51.5397%']"
+Schaffhausen AOC Riesling-Silvaner Graf von Spiegelberg,Schweiz,2022,11.50,3.7,571,None
+Valais AOC Petite Arvine Jean-René Germanier,Schweiz,2022,26.95,4.0,1733,"['63.8053%', '18.2871%', '75.5621%']"
+Chenin Blanc Stellenbosch South Africa WO Cellar Selection Kleine Zalze,Südafrika,2023,12.50,3.7,381,"['35.118%', '9.89553%', '72.7271%']"
+Epesses AOC Les Mûriers Domaine Fonjallaz,Schweiz,2022,17.50,3.6,302,"['29.0127%', '1.64919%', '61.2617%']"
+Monterrei DO Godello Mara Martin Bodegas Martin Codax,Spanien,2022,13.95,3.7,6735,"['40.7292%', '5.00347%', '59.5833%']"
+Natureo Blanco Torres alkoholfrei,Spanien,2023,9.95,3.5,15852,"['44.5%', '0px', '46.1%']"
+Rueda DO Verdejo Sauvignon Blanc Pata Negra,Spanien,2022,8.95,3.6,350,"['44.5079%', '0px', '49.0595%']"
+Naturaplan Bio Soave DOC Monte Tabor,Italien,2022,9.95,4.0,659,"['85%', '28.1514%', '39.8435%', '30.6437%']"
+Valais AOC Johannisberg Telegram Maye,Schweiz,2022,14.95,4.1,94,"['42.5%', '5%', '80%']"
+Lavaux AOC St.Saphorin Bellevue,Schweiz,2022,16.95,3.7,182,"['27.7157%', '2.20588%', '67.3873%']"
+Naturaplan Bio-Neuchâtel AOC Pinot Gris Domaine des Coccinelles,Schweiz,2022,18.95,3.7,68,"['42.5%', '29.3386%', '48.0316%']"
+Pierrafeu Provins Fendant du Valais AOC,Schweiz,2022,6.60,3.6,1123,"['30.1288%', '3.01001%', '64.7252%']"
+Valais AOC Heida Cooperation Wine Provins,Schweiz,2023,17.95,3.8,1003,"['41.3022%', '7.81882%', '77.1909%']"
+Chablis 1er Cru Vaillons 6x 75cl,Frankreich,2023,149.70,4.0,3554,"['42.4779%', '1.58003%', '65.4631%']"
+Dézaley Grand Cru AOC La Marettaz J. & M. Dizerens,Schweiz,2022,21.95,3.7,366,"['31.4406%', '2.28438%', '63.9006%']"
+Nahe QbA Riesling trocken Weisses Rauschen Weingut Tesch für Die Toten Hosen,Deutschland,2021,16.95,3.7,231,"['42.4182%', '5.67053%', '78.5603%']"
+Pinot Gris Neuchâtel AOC Château d'Auvernier,Schweiz,2022,18.95,3.9,211,"['43.75%', '42.057%', '46.6819%']"
+Valais AOC Petite Arvine Hurlevent,Schweiz,2022,19.95,3.9,140,"['68.75%', '33.15%', '71.4%']"
+Vinho Verde DOC Alvarinho Solar de Serrade Monção,Portugal,2022,14.95,3.9,1666,"['15.9789%', '1.33365%', '75.1881%']"
+Pays d'Oc IGP Chardonnay Oriol,Frankreich,2022,5.20,3.0,171,"['32.2308%', '0px', '43.6202%']"
+Valais AOC Fendant Chanoines Provins,Schweiz,2022,8.95,3.4,187,"['20.5724%', '6.58881%', '64.5263%']"
+Valais AOC Fendant Rapilles,Schweiz,,9.95,3.3,215,"['21.8693%', '1.08122%', '59.0063%']"
+Alsace AOP Riesling Blanck,Frankreich,2021,14.95,3.7,1855,"['43.3742%', '21.8904%', '78.6047%']"
+Valais AOC Fendant Dame de Sion,Schweiz,2022,7.50,3.4,1355,"['26.3016%', '4.28626%', '59.3125%']"
+Naturaplan Bio Valais AOC Heida Domaine Jean-René Germanier,Schweiz,2021,22.95,3.9,359,"['37.3214%', '12.0112%', '80%']"
+Trentino DOC Mastri Vernacoli Sauvignon Blanc,Italien,2022,8.95,3.7,1939,"['44.5301%', '24.1126%', '50.9793%']"
+Vin de France Orange Gold Bio Gérard Bertrand,Frankreich,2021,9.95,3.7,3484,None
+Alto Adige DOC Sauvignon Castel Ringberg Elena Walch,Italien,2022,29.95,4.2,1583,None
