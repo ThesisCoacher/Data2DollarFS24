@@ -1,5 +1,4 @@
 # 1_Rohdaten
-Dieser Ordner enthält alle Roh-Files, die aus dem Scraping entstanden sind
 ## Alle_Aktionsweine.csv <br />
 Ist die Liste aller Weine, die zum Scrape-Zeitpunkt bei Coop in Aktion waren
 ## Rotweine_1.csv und Rotweine_2.csv <br />
