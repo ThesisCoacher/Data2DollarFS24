@@ -9,6 +9,13 @@ Enthalten je ein Subset aller Weissweine, die von Coop gescraped wurden
 # Finaler Datensatz
 ## Alle_Weine_v5.xlsx <br />
 Enthält den Datensatz, so wie er nach der Bereinigung aller Daten final erstellt worden ist und für die weitere Bearbeitung wie das Interface oder Tableau verwendet wurde.
+# Tableau
+## 240506_All_Wines_formatted_v4.xlsx <br />
+Enthält das Datenfile, auf welches in Tableau referenziert wird. Das File deckt die gleichen Daten ab wie der finale Datensatz jedoch ohne Robert Parker Daten.
+## RobertParker.xlsx <br />
+Enthalt die Daten von Robert Parker, welches als File in Tableau refernziert wird.
+## WineGuide_Graphics_final.twb <br />
+Ist das Tableau-File, in welchem alle Analysen und graphische Darstellungen erstellt wurden. (Worksheets, Dashboards und Visuals-Story)
 # interface
 ## 240506_All_Wines_formatted_v6.csv <br />
 Beinhaltet das finale file als csv, damit es für die für das Interface zur Verfügung steht.
@@ -20,8 +27,6 @@ Python Programm code, der das Scraping der Daten von Coop und Vivino orchestrier
 Heruntergeladenes PDF von Robert Parker. Enthalt die Ratings von Weinregionen pro Jahr.
 ## Robert Parker Guide_Bereinigt.xlsx <br />
 Enthält die bereinigten Daten in Excel-Format aus dem Robert Parker Guide.
-## Wineguide_Graphics.twb <br />
-Tableau-File mit allen erstellten Analysesheets, Dashboards und Visuals-Story
 ## coopScraper.py <br />
 Python Code, der für das crawlen der Coop-Webseite zuständig ist.
 ## vivinoScraper.py <br />
